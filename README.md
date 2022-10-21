@@ -11,10 +11,10 @@
 
 ### New post:
 
-1. `hugo new posts/{Name-Of-Post}.md`
+1. `hugo new blog-posts/{Name-Of-Post}.md`
 2. Edit basic settings
 3. Write markdown
-4. `hugo serve`
+4. `hugo server`
 5. Commit and push -> Success
 
 ### Useful links
