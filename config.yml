@@ -95,7 +95,7 @@ menu:
       weight: 2
     - identifier: resume
       name: Resume
-      url: /resume.pdf/
+      url: resume.pdf
       weight: 3
     - identifier: blog
       name: Blog
