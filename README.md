@@ -4,5 +4,5 @@
 
 
 * v.1 - basic html/css
-* v.2 - same site, just bad github repo
+* v.2 - same site as this repo, just bad github repo
 * v.3 - couldn't fix repo, still learning Git, site works - I'm happy lol
