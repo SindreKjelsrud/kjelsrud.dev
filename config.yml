@@ -58,7 +58,7 @@ params:
       - name: Projects
         url: projects
       - name: Resume
-        url: /resume.pdf/
+        url: resume.pdf
 
   # home-info mode
   homeInfoParams:
