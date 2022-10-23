@@ -59,12 +59,14 @@ Projects
 sidBot | Python
 :   A Discord bot that responds to messages & commands with pictures and special answers depending on the message/command. <br> Github Repo: https://github.com/SindreKjelsrud/sidBot
 
-<br>
+<br><br>
 
 My Personal Website | HTML / CSS
-:   A personal website that gets updated during my education. <br> Github Repo: https://github.com/SindreKjelsrud/sindrekjelsrud.github.io
+:   A personal website that gets updated during my education.
+-
+:   >Github Repo: https://github.com/SindreKjelsrud/sindrekjelsrud.github.io
 
-<br>
+<br><br>
 
 CookieClicker | Java
 :   A game where you collect cookies by clicking on a cookie. <br> Github Repo: https://github.com/SindreKjelsrud/CookieClicker
@@ -81,14 +83,14 @@ IT-skills
 <br><br>
 
 Certificates & Courses
-:   Driver Licence (class B),
-    First Aid course,
+:   Driver Licence (class B) **|**
+    First Aid course **|**
     Forklift licence (class T1)
 
 <br><br>
 
 Language
-:   Norwegian ⋅ Native,
+:   Norwegian ⋅ Native **|**
     English ⋅ Fluent
 
 -----------------------------------------------
