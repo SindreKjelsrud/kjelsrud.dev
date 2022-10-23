@@ -9,7 +9,7 @@
 
 ## Quick guide
 
-### New post:
+### New blog-post:
 
 1. `hugo new blog-posts/{Name-Of-Post}.md`
 2. Edit basic settings
