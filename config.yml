@@ -72,6 +72,8 @@ params:
       url: "https://github.com/SindreKjelsrud"
     - name: instagram
       url: "https://instagram.com/SindreKjelsrud"
+    - name: spotify
+      url: "https://spotify.com/user/Kjelsrud!"
 
   # for search
   # https://fusejs.io/api/options.html

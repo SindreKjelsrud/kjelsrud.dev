@@ -31,6 +31,7 @@ public class Me {
         self.linkedin = "Sindre Kjelsrud";
         self.instagram = "sindrekjelsrud";
         self.strava = "Sindre Kjelsrud";
+        self.spotify = "Kjelsrud!";
     }
 }
 ```
