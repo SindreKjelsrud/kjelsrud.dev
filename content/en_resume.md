@@ -18,15 +18,15 @@ Sindre Kjelsrud
 
 Experience
 ----------
-**Operator, Manpower, Coop Main Warehouse, Loading-Department** <br><br>
+**Operator, Manpower, Coop Main Warehouse, Loading-Department**  
 *2022 - 2022*
 > The main tasks consist of helping the truckdrivers with loading, localisation/retrieving of products and pallets using a forklift, and acquiring necessary papers before departure, as well as the use of Witronsoftware and general maintenance of the area
 
-**Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool** <br><br>
+**Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool**  
 *2019 - 2022* 
 > Responsible for safety, well-being and maintenance at Nebbursvollen Open-air swimming pool during the summer seasons 2019, 2020 and 2021.
 
-**Catering employee, Select Service Partner, Oslo Airport** <br><br>
+**Catering employee, Select Service Partner, Oslo Airport**  
 *2018 - 2018* 
 > The main tasks were to produce and pack food for various airlines, and for our internal customers at the airport, as well as to keep trackof the premises.
 
@@ -48,7 +48,7 @@ Education
 
 Extracurricular activity
 ---------
-**Member, [friByte](http://friByte.no) student organization** <br><br>
+**Member, [friByte](http://friByte.no) student organization**  
 *2022 - todays' date*
 >Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.
 
@@ -95,4 +95,4 @@ Language
 
 References
 ----------
-Provided on request
+Provided on request.

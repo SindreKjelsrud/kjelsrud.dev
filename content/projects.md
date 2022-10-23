@@ -27,5 +27,5 @@ _Nov. 2021 - Dec. 2021, Java_
 ---
 # Hobby Projects
 ### Gameboy Color mod
-_Sep. 2022 - (waiting for parts..)
+_Sep. 2022 - (waiting for parts..)_
 - in the making.. (pictures coming)

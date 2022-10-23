@@ -13,7 +13,7 @@ public class Me {
         self.nickname = "Sid";
         self.year_born = 1999;
         self.hometown = "Skedsmokorset, Viken";
-        self.curr_location = "Nygård, Bergen";
+        self.curr_location = "Bergen, Vestlandet";
         self.university = "Western University of Applied Sciences";
     } 
 
