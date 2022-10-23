@@ -18,15 +18,15 @@ Sindre Kjelsrud
 
 Experience
 ----------
-**Operator, Manpower, Coop Main Warehouse, Loading-Department** <br>
+**Operator, Manpower, Coop Main Warehouse, Loading-Department** <br><br>
 *2022 - 2022*
 > The main tasks consist of helping the truckdrivers with loading, localisation/retrieving of products and pallets using a forklift, and acquiring necessary papers before departure, as well as the use of Witronsoftware and general maintenance of the area
 
-**Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool** <br>
+**Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool** <br><br>
 *2019 - 2022* 
 > Responsible for safety, well-being and maintenance at Nebbursvollen Open-air swimming pool during the summer seasons 2019, 2020 and 2021.
 
-**Catering employee, Select Service Partner, Oslo Airport** <br>
+**Catering employee, Select Service Partner, Oslo Airport** <br><br>
 *2018 - 2018* 
 > The main tasks were to produce and pack food for various airlines, and for our internal customers at the airport, as well as to keep trackof the premises.
 
@@ -48,8 +48,8 @@ Education
 
 Extracurricular activity
 ---------
-**Member, [friByte](http://friByte.no) student organization** <br>
-*2022 - todays' date* <br>
+**Member, [friByte](http://friByte.no) student organization** <br><br>
+*2022 - todays' date*
 >Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.
 
 -----------------------------------------------
@@ -57,19 +57,17 @@ Extracurricular activity
 Projects
 ----------
 sidBot | Python
-:   A Discord bot that responds to messages & commands with pictures and special answers depending on the message/command. <br> Github Repo: https://github.com/SindreKjelsrud/sidBot
+:   A Discord bot that responds to messages & commands with pictures and special answers depending on the message/command. [Github Repo](https://github.com/SindreKjelsrud/sidBot)
 
 <br><br>
 
 My Personal Website | HTML / CSS
-:   A personal website that gets updated during my education.
--
-:   >Github Repo: https://github.com/SindreKjelsrud/sindrekjelsrud.github.io
+:   A personal website that gets updated during my education. [Github Repo](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)
 
 <br><br>
 
 CookieClicker | Java
-:   A game where you collect cookies by clicking on a cookie. <br> Github Repo: https://github.com/SindreKjelsrud/CookieClicker
+:   A game where you collect cookies by clicking on a cookie. [Github Repo](https://github.com/SindreKjelsrud/CookieClicker)
 
 -----------------------------------------------
 
