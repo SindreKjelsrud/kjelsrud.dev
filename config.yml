@@ -58,7 +58,7 @@ params:
       - name: Projects
         url: projects
       - name: Resume
-        url: resume.pdf
+        url: en_resume
 
   # home-info mode
   homeInfoParams:
@@ -95,7 +95,7 @@ menu:
       weight: 2
     - identifier: resume
       name: Resume
-      url: /resume.pdf/
+      url: /en_resume/
       weight: 3
     - identifier: blog
       name: Blog
