@@ -1,5 +1,5 @@
 ---
-title: "Bringing new life into my old GameBoy Color!"
+title: "Breathing new life into my old GameBoy Color!"
 date: 2022-11-30T08:03:57+02:00
 description: "The pinnacle of Nostalgia."
 author: "Sindre Kjelsrud"
