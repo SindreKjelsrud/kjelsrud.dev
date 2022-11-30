@@ -14,9 +14,15 @@ _Dec. 2021 - Mar. 2022, Python_
     - For example, the command "!plsdog" uses this [API](https://dog.ceo/api) to show the user some cute pictures of dogs across the internet.
 ---
 ### My Personal Website
-_Sep. 2022 - Now, HTML, CSS, JS_
+_Sep. 2022 - Now, Hugo Framework_
 >Github Repo: <https://github.com/SindreKjelsrud/sindrekjelsrud.github.io>
 - This website uses [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and is based on Hugo.
+---
+### Wordle 🔠
+_Oct. 2022 - Now, Java_
+>Github Repo: <https://github.com/SindreKjelsrud/Wordle>
+- A recreation of the popular game [Wordle](https://www.nytimes.com/games/wordle/index.html) by Josh Wardle/The New York Times, written in Java.
+- Still needs some finishing touches.. (bug fixes, cleaning up code etc.)
 ---
 ### 🍪 Cookie Clicker
 _Nov. 2021 - Dec. 2021, Java_
@@ -27,5 +33,6 @@ _Nov. 2021 - Dec. 2021, Java_
 ---
 # Hobby Projects
 ### Gameboy Color mod
-_Sep. 2022 - (waiting for parts..)_
-- in the making.. (pictures coming)
+_Sep. 2022 - Nov. 2022_
+>Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolormod
+![Example](/img/gameboy-post/example.jpg)

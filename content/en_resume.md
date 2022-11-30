@@ -20,7 +20,7 @@ Experience
 ----------
 **Operator, Manpower, Coop Main Warehouse, Loading-Department**  
 *2022 - 2022*
-> The main tasks consist of helping the truckdrivers with loading, localisation/retrieving of products and pallets using a forklift, and acquiring necessary papers before departure, as well as the use of Witronsoftware and general maintenance of the area
+> The main tasks consist of helping the truckdrivers with loading, localisation/retrieving of products and pallets using a forklift, and acquiring necessary papers before departure, as well as the use of Witronsoftware and general maintenance of the area.
 
 **Lifeguard, Lillestrom municipality, Nebbursvollen Open-air swimming pool**  
 *2019 - 2022* 
@@ -61,13 +61,13 @@ sidBot | Python
 
 <br><br>
 
-My Personal Website | HTML / CSS
+My Personal Website | Hugo Framework
 :   A personal website that gets updated during my education. [Github Repo](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)
 
 <br><br>
 
-CookieClicker | Java
-:   A game where you collect cookies by clicking on a cookie. [Github Repo](https://github.com/SindreKjelsrud/CookieClicker)
+Wordle | Java
+:   A clone of the game Wordle. [Github Repo](https://github.com/SindreKjelsrud/Wordle)
 
 -----------------------------------------------
 
@@ -75,7 +75,7 @@ Extra Section
 ----------
 
 IT-skills
-:   Knowledge of **Java**, **HTML/CSS** & **Office 365**
+:   Knowledge of **Java**, **HTML/CSS** & **Office 365**.
     Basic knowledge of **postgreSQL** &  **Python**.
 
 <br><br>
