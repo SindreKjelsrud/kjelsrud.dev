@@ -34,5 +34,5 @@ _Nov. 2021 - Dec. 2021, Java_
 # Hobby Projects
 ### Gameboy Color mod
 _Sep. 2022 - Nov. 2022_
->Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolormod
+>Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/
 ![Example](/img/gameboy-post/example.jpg)
