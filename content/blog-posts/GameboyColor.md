@@ -35,11 +35,11 @@ The first step of the project was to disassemble the old GameBoy and clean the c
 
 ---
 
-The soldering part of the project wasn't something you need to do unless you wanted the ability to change the color of the logo and/or change the screens x- and y-position.  
+The soldering part of the project wasn't something you needed to do, unless you wanted the ability to change the color of the logo and/or change the screens x- and y-position.  
 
-**Long story short**, it didn't go exactly as planned hehe.. I managed to break one circuit board by fucking up somehow withss the soldering of start and select, so had to buy a whole new GameBoy for it..   
+**Long story short**, it didn't go exactly as planned hehe.. I managed to break one circuit board by fucking up somehow with the soldering of the start and select buttons, so had to buy a whole new GameBoy for it..   
 
-I still haven't soldered on the new board (that's why the logo is kinda scuffed lol). I'm kinda scared to do it, but one day I will!
+I still haven't soldered on the new board (that's why the logo is kinda scuffed lol). I'm kinda scared to do it, but one day I will try again!
 | | |
 |- | - |
 |![Soldering1](/img/gameboy-post/soldering-1.jpg)|![Soldering2](/img/gameboy-post/soldering-2.jpg) |
@@ -51,7 +51,7 @@ I still haven't soldered on the new board (that's why the logo is kinda scuffed 
 
 ### End result
 Here is the "finished" product. I'm very satisfied with the outcome as this was my first mod like ever. The games look so good and I will definitely enjoy taking this with me on trips forward!  
-I recommend trying this out if you want to bust out your old GameBoy Color again and play some good old Pokémon games!
+I recommend trying this out if you want to bust out your old GameBoy Color again and play some good old games like Pokémon!
 | |  |
 |- | - |
 ![ShowcasePokémon](/img/gameboy-post/showcasePok-1.jpg)|![ShowcaseBattleOfSteel](/img/gameboy-post/showcaseBoS-1.jpg) 
