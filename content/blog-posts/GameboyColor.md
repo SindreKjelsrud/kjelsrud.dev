@@ -8,7 +8,7 @@ draft: false
 ### The Idea 
 During the summer of 2022 I got hooked on watching YouTube videos about modding retro consoles, all from the GameBoy Color to the Nintendo Wii. It was like injecting pure dopamine in to my brain one video at a time lmao.
 
-But one video, by [Macho Nacho Productions](https://www.youtube.com/watch?v=yqnrEpcaans), really stood out to me. Basically he made a "Super" GameBoy Color, where he crammed like 4 mods into it. I immediatly wanted to try something like it myself, so I took my dusty, old, purple GameBoy Color with me back to Bergen, where I study.
+But one video, by [Macho Nacho Productions](https://www.youtube.com/watch?v=yqnrEpcaans), really stood out to me. Basically he made a "Super" GameBoy Color, where he crammed like 4 mods into it. I immediately wanted to try something like it myself, so I took my dusty, old, purple GameBoy Color with me back to Bergen, where I study.
 
 ![GBoy gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/df45fa38279981.575b65f4c025d.gif)
 [*GameBoy Color CGI by Alexander Gueres*](https://www.behance.net/gallery/38279981/Game-Boy-Color-1998-Full-CGI)

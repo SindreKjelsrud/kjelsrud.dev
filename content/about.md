@@ -18,7 +18,7 @@ public class Me {
     } 
 
     public Favourites favs(self) {
-        self.fav_sport = "bouldering, discgolf";
+        self.fav_sport = "bouldering && sportsclimbing";
         self.fav_color = "purple";
         self.fav_series = "Silicon Valley";
         self.fav_anime = "One Piece";

@@ -9,7 +9,7 @@
 /* Home button hover */
 .logo a:hover {
     transition: 0.15s;
-    color: grey;
+    color: #918DED;
 }
 
 /* Social media hover */
@@ -47,5 +47,5 @@ svg:hover {
 /* Menu-links hover*/
 #menu a:hover {
     transition: 0.15s;
-    color: grey;
+    color: #918DED;
 }

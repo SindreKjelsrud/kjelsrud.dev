@@ -10,7 +10,6 @@ Sindre Kjelsrud
 
 * Email: kjelsrudsindre@gmail.com
 * Hometown: Oslo, Norway
-* Number: 47201180
 * Linkedin: https://www.linkedin.com/in/sindre-kjelsrud-345583218/
 * Github: https://github.com/SindreKjelsrud
 
@@ -48,9 +47,10 @@ Education
 
 Extracurricular activity
 ---------
-**Member, [friByte](http://friByte.no) student organization**  
-*2022 - todays' date*
->Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.
+**Member, [friByte](https://fribyte.no) student organization**  
+*2. semester of 2022*
+>Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.  
+>This role generally contains maintenance and operation of IT systems, and the setup of different services for automatic deployment of other services.
 
 -----------------------------------------------
 
@@ -66,7 +66,7 @@ My Personal Website | Hugo Framework
 
 <br><br>
 
-Wordle | Java
+Wordle | Java (WIP)
 :   A clone of the game Wordle. [Github Repo](https://github.com/SindreKjelsrud/Wordle)
 
 -----------------------------------------------
@@ -75,20 +75,21 @@ Extra Section
 ----------
 
 IT-skills
-:   Knowledge of **Java**, **HTML/CSS** & **Office 365**.
-    Basic knowledge of **postgreSQL** &  **Python**.
+:   **Programming Languages:** Java, HTML/CSS, and basic knowledge of Python & postgreSQL.  
+    **Libraries & Frameworks:** Hugo  
+    **Tools:** Git, Office 365 (learning Docker & Vim)
 
 <br><br>
 
 Certificates & Courses
-:   Driver Licence (class B) **|**
-    First Aid course **|**
+:   Driver Licence (class B)  
+    First Aid course  
     Forklift licence (class T1)
 
 <br><br>
 
 Language
-:   Norwegian ⋅ Native **|**
+:   Norwegian ⋅ Native  
     English ⋅ Fluent
 
 -----------------------------------------------

@@ -17,6 +17,7 @@ _Dec. 2021 - Mar. 2022, Python_
 _Sep. 2022 - Now, Hugo Framework_
 >Github Repo: <https://github.com/SindreKjelsrud/sindrekjelsrud.github.io>
 - This website uses [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and is based on Hugo.
+- Is a WIP, as I will continue to add small stuff and posts!
 ---
 ### Wordle 🔠
 _Oct. 2022 - Now, Java_

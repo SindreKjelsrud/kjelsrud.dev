@@ -45,6 +45,9 @@ params:
   label:
     text: "Home"
 
+  assets:
+    favicon: "img/cat.png"
+
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
