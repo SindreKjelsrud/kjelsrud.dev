@@ -33,7 +33,7 @@ Experience
 
 Education
 ---------
-2021 - todays' date
+2021 - present
 :   **Bachelor, Information Technology**; Western Norway University of Applied Sciences, in Bergen
 
 2020 - 2021
@@ -48,10 +48,14 @@ Education
 Extracurricular activity
 ---------
 **Member, [friByte](https://fribyte.no) student organization**  
-*2. semester of 2022*  
+*Sep. 2022 - present*  
 >Member of the student organization friByte in Bergen. friByte is an independent student organization that supplies secure and stable data services to other student organizations in Bergen.  
 >This role generally contains maintenance and operation of IT systems, and the setup of different services for automatic deployment of other services.
 
+**Leader, [friByte](https://fribyte.no) student organization**  
+*Jan. 2022 - present*  
+>This role includes administrative tasks, convene meetings, etc. as well as the regular member tasks.  
+>During my leadership we've (so far) gotten two more members and a new client, plus we've hosted an successful Capture The Flag event.
 -----------------------------------------------
 
 Projects
@@ -62,12 +66,13 @@ sidBot | Python
 <br><br>
 
 My Personal Website | Hugo Framework
-:   A personal website that gets updated during my education. [Github Repo](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)
+:   A personal website that gets updated during my education.  
+[Github Repo](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)
 
 <br><br>
 
-Wordle | Java (WIP)
-:   A clone of the game Wordle. [Github Repo](https://github.com/SindreKjelsrud/Wordle)
+Wordle | Java
+:   A clone of the game Wordle. (Has some bugs) [Github Repo](https://github.com/SindreKjelsrud/Wordle)
 
 -----------------------------------------------
 
@@ -77,7 +82,7 @@ Extra Section
 IT-skills
 :   **Programming Languages:** Java, HTML/CSS, and basic knowledge of Python & postgreSQL.  
     **Libraries & Frameworks:** Hugo  
-    **Tools:** Git, Office 365 (learning Docker & Vim)
+    **Tools:** Git, Office 365
 
 <br><br>
 

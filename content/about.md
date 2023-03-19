@@ -18,7 +18,7 @@ public class Me {
     } 
 
     public Favourites favs(self) {
-        self.fav_sport = "bouldering && sportsclimbing";
+        self.fav_sport = "bouldering && climbing";
         self.fav_color = "purple";
         self.fav_series = "Silicon Valley";
         self.fav_anime = "One Piece";
@@ -30,7 +30,6 @@ public class Me {
         self.github = "SindreKjelsrud";
         self.linkedin = "Sindre Kjelsrud";
         self.instagram = "sindrekjelsrud";
-        self.strava = "Sindre Kjelsrud";
         self.spotify = "Kjelsrud!";
     }
 }

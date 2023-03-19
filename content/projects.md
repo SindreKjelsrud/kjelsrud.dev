@@ -20,7 +20,7 @@ _Sep. 2022 - Now, Hugo Framework_
 - Is a WIP, as I will continue to add small stuff and posts!
 ---
 ### Wordle 🔠
-_Oct. 2022 - Now, Java_
+_Oct. 2022 - Nov. 2022, Java_
 >Github Repo: <https://github.com/SindreKjelsrud/Wordle>
 - A recreation of the popular game [Wordle](https://www.nytimes.com/games/wordle/index.html) by Josh Wardle/The New York Times, written in Java.
 - Still needs some finishing touches.. (bug fixes, cleaning up code etc.)
