@@ -66,7 +66,7 @@ _Jan. 2022 - present_
 
 ## Projects
 
-sidBot | Python
+sidBot | Python / JavaScript
 : A Discord bot that responds to messages & commands with pictures and special answers depending on the message/command. [Github Repo](https://github.com/SindreKjelsrud/sidBot)
 
 <br><br>

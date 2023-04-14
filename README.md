@@ -33,6 +33,13 @@
 4. `hugo server`
 5. Commit and push -> Success
 
+### Update website
+
+- Clone project
+- Add submodules again
+  - git submodule init
+  - git submodule update
+
 ## Misc
 
 ### Useful links
