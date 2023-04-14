@@ -10,7 +10,8 @@ draft: false
 
 ### 🤖 sidBot | A Discord bot
 
-_Dec. 2021 - Mar. 2022, Python / JavaScript_
+_Dec. 2021 - Mar. 2022, Python_  
+_Dec. 2022 - Now, JavaScript_
 
 > Github Repo: <https://github.com/SindreKjelsrud/sidBot>
 
@@ -61,5 +62,4 @@ _Nov. 2021 - Dec. 2021, Java_
 
 _Sep. 2022 - Nov. 2022_
 
-> Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/
-> ![Example](/img/gameboy-post/example.jpg)
+> Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/ > ![Example](/img/gameboy-post/example.jpg)
