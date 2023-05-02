@@ -48,7 +48,7 @@ _Oct. 2022 - Nov. 2022, Java_
 
 _Nov. 2021 - Dec. 2021, Java_
 
-> Github Repo: <https://github.com/SindreKjelsrud/CookieClicker>
+> Github Repo: <https://github.com/SindreKjelsrud/old-projects/tree/main/CookieClicker>
 
 - A game where you collect _cookies_ by clicking on a cookie.
 - Written purely in Java.
@@ -62,4 +62,5 @@ _Nov. 2021 - Dec. 2021, Java_
 
 _Sep. 2022 - Nov. 2022_
 
-> Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/ > ![Example](/img/gameboy-post/example.jpg)
+> Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/  
+> ![Example](/img/gameboy-post/example.jpg)

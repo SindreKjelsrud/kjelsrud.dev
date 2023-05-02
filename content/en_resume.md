@@ -43,7 +43,7 @@ _2018 - 2018_
 : **Primary school teacher class 5-10**; NLA University College, in Bergen
 
 2019 - 2020
-: **One-year programme, IT & Information systems**; University of South-Eastern Norway, Campus Bo
+: **One-year programme, IT & Information systems**; University of South-Eastern Norway, Campus Bø
 
 2019 - 2020
 : **Multisport Bali**; Rodde Folk High-School, in Trondheim
@@ -60,7 +60,7 @@ _Sep. 2022 - present_
 _Jan. 2022 - present_
 
 > This role includes administrative tasks, convene meetings, etc. As well as the regular member tasks.  
-> During my leadership we've gotten two more members and two new clients, plus we've hosted an successful Capture The Flag event.
+> During my leadership we got two more members, two new clients and we hosted an successful Capture The Flag event.
 
 ---
 
@@ -85,9 +85,9 @@ Wordle | Java
 ## Extra Section
 
 IT-skills
-: **Programming Languages:** Java, HTML/CSS, and basic knowledge of Python & postgreSQL.  
+: **Programming Languages:** Java, HTML/CSS, postgreSQL, and basic knowledge of Python & JavaScript.  
  **Libraries & Frameworks:** Hugo  
- **Tools:** Git, Office 365
+ **Technologies:** Git, Office 365, and basic knowledge of Docker & Wordpress.
 
 <br><br>
 
