@@ -69,6 +69,8 @@ params:
     Content: "My name is Sindre Kjelsrud, and I'm an IT-Student at Western University of Applied Sciences."
 
   socialIcons:
+    - name: email
+      url: "mailto:kjelsrudsindre@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/sindre-kjelsrud-345583218/"
     - name: github
