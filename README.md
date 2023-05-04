@@ -11,6 +11,7 @@
 - How to use some of the most popular open-source static site generators
 - How to create websites that are faster, more secure, and easier to maintain
 - How to use templates to generate static websites
+- How to use DNS pointers (A- & CNAME records)
 
 ### Updates
 
@@ -21,17 +22,15 @@
 ### Future plans:
 
 - [ ] Add logs (tvtime, reading, etc)
-- [ ] Add v.1 of website into its own branch just for storage
+- [ ] Might convert website over to the [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme
 
-## Quick guide
+## How do I run it locally?
 
-### New blog-post:
-
-1. `hugo new blog-posts/{Name-Of-Post}.md`
-2. Edit basic settings
-3. Write markdown
-4. `hugo server`
-5. Commit and push -> Success
+1. Download and install Hugo
+2. git clone https://github.com/SindreKjelsrud/sindrekjelsrud.github.io.git
+3. cd sindrekjelsrud.github.io
+4. hugo server
+5. Feel free to create issues if you see room for improvement!
 
 ### Update website
 
