@@ -26,18 +26,20 @@
 
 ## How do I run it locally?
 
-1. Download and install Hugo
-2. git clone https://github.com/SindreKjelsrud/sindrekjelsrud.github.io.git
-3. cd sindrekjelsrud.github.io
-4. hugo server
-5. Feel free to create issues if you see room for improvement!
+1. Hugo must be installed
+2. Clone the project and add submodules
 
-### Update website
+```bash
+git clone https://github.com/SindreKjelsrud/sindrekjelsrud.github.io.git
+cd sindrekjelsrud.github.io
+git submodule update --init --recursive
+```
 
-- Clone project
-- Add submodules again
-  - git submodule init
-  - git submodule update
+3. To run the project use: `hugo serve` (livereload \<3)
+
+> 3.5. To add a new blogpost use: `hugo new blog-posts/{NameOfPost}.md`
+
+4. Feel free to create issues if you see room for improvement!
 
 ## Misc
 
