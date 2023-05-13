@@ -17,19 +17,23 @@ svg:hover {
     transition: 0.15s;
 }
 
-.social-icons a:nth-child(1) svg:hover{
+.social-icons a:nth-child(1) svg:hover {
+    color: #acb91d !important;
+}
+
+.social-icons a:nth-child(2) svg:hover{
     color: #0A66C2 !important;
 }
 
-.social-icons a:nth-child(2) svg:hover {
+.social-icons a:nth-child(3) svg:hover {
     color: grey !important;
 }
 
-.social-icons a:nth-child(3) svg:hover {
+.social-icons a:nth-child(4) svg:hover {
     color: #C84370 !important;
 }
 
-.social-icons a:nth-child(4) svg:hover {
+.social-icons a:nth-child(5) svg:hover {
     color: #1DB954 !important;
 }
 
