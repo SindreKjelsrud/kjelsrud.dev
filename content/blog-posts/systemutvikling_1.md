@@ -30,7 +30,7 @@ Jeg har valgt å dele denne bloggposten opp i 5 deler, der jeg skal først intro
 Men (_ja det er et "men"_), det er ikke bare nok å følge OOP; det er viktig for utviklere å kjenne til og implementere velprøvde prinsipper og praksiser for å bygge solide systemer/applikasjoner.  
 I tillegg så finnes det ulemper med å bruke disse prinsippene og praksisene i programvareutvikling. En utvikler kan føle at dette er en ganske **_tidskrevende_** prosess ettersom det innebærer betydlig planlegging og dokumentasjon på forhånd, samt. at det kan bli **_økt kostnad_** i forhold til andre programvareutviklingsmetodologier grunnet akkurat dette.
 
-![OOA](/img/objektorientering-post/ooa.jpeg)
+![OOA](/img/systemutvikling-post/ooa.jpeg)
 [_OOA_ (🖼️ - **businessanalystlearnings.com**)](https://www.businessanalystlearnings.com/ba-techniques/2017/8/8/an-introduction-to-object-oriented-analysis)
 
 ### Objekt-Orientert Analyse (OOA)
@@ -45,7 +45,7 @@ Her bruker vi ulike modeller for å representere den statiske strukturen, dynami
 
 > Noen av de vanligste modellene som brukes i OOA er deriblant klassediagrammer, use-case diagrammer, sekvensdiagrammer og tilstandsdiagrammer.
 
-![OOD](/img/objektorientering-post/ood.jpg)
+![OOD](/img/systemutvikling-post/ood.jpg)
 [_OOD_ (🖼️ - **Derek Bananas on YouTube**)](https://www.youtube.com/watch?v=fJW65Wo7IHI)
 
 ### Objekt-Orientert Design (OOD)
@@ -86,7 +86,7 @@ Fortsetter vi med bibliotekeksempelet vårt, så bør "Bok" være ansvarlig for 
 Disse teknikkene har ikke blitt oppfunnet for å skape nye måter å jobbe på, men for å forbedre dokumentasjon og standardisere gamle, velprøvde programmeringsprinsipper i OOD.  
 Hver klasse vil ha en tydlig rolle og ansvaret vil være riktig fordelt, noe som resulterer i en mer fleksibel og vedlikeholdbar kodebase.
 
-![SOLID](/img/objektorientering-post/solid.jpg)
+![SOLID](/img/systemutvikling-post/solid.jpg)
 [_SOLID_ (🖼️ - **effectivesoftwaredesign.com**)](https://effectivesoftwaredesign.com/2015/04/22/do-solid-design-principles-make-code-slow/)
 
 #### ⤷SOLID
