@@ -56,7 +56,7 @@ _Sep. 2022 - present_
 _1. semester of 2023_
 
 > As a leader my responsibilities were to mostly do administrative tasks, convene meetings, acquire new customers & members, and delegate assignments to the other members.  
-> During my leadership we aquired two more members & two new clients, and successfully hosted an Capture The Flag event.
+> During my leadership we aquired two more members & three new clients, and successfully hosted an Capture The Flag event.
 
 ---
 
