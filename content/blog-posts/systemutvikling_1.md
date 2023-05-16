@@ -39,7 +39,7 @@ Vi kan starte med en godt skrevet definisjon for OOA av **Grady Booch**:
 
 > _Object-oriented analysis is a method of analysis that examines requirements from the perspective of the classes and objects found in the vocabulary of the problem domain_
 
-La oss si at vi skal utvikle et slags system, si et bibioteksystem. Ved å bruke OOA kan vi identifisere objekter som bøker, bibliotekarer, utlånere osv. og definere deres attributter og oppførsel.
+La oss si at vi skal utvikle et slags system, si et biblioteksystem. Ved å bruke OOA kan vi identifisere objekter som bøker, bibliotekarer, utlånere osv. og definere deres attributter og oppførsel.
 
 Her bruker vi ulike modeller for å representere den statiske strukturen, dynamiske oppførselen og de funksjonelle kravene til systemet. Dette gjør det lettere for oss utviklere å forstå systemet, eller applikasjonen, og dens funksjonalitet før vi går videre til designfasen.
 
@@ -65,7 +65,7 @@ Slik som OOA, bruker OOD også ulike modeller for å representere de ulike kompo
 
 #### ⤷ General Responsibility Assignment Software Principles (GRASP)
 
-**GRASP** er et sett med **_ni prinsipper / retningslinjer_** som hjelper oss med å tildele ansvar til klassene våre på en effektiv måte. Kort sagt et slags mentalt verktøysett.
+**GRASP** er et sett med **_ni prinsipper / retningslinjer_** som hjelper oss med å tildele ansvar til klassene våres på en effektiv måte. Kort sagt et slags mentalt verktøysett.
 
 Dette prinsippet hjelper oss å lage klasser som er uavhengige av hverandre, samtidig som de er sterkt knyttet til sine egne ansvarsområder.
 
@@ -73,7 +73,7 @@ Disse ni prinsippene / retningslinjene er følgende:
 
 - **_Skaper_** (Creator)
 - **_Informasjonsekspert_** (Information Expert)
-- **_Lab kobling_** (Low Coupling)
+- **_Lav kobling_** (Low Coupling)
 - **_Høy samhørighet_** (High Cohesion)
 - **_Kontroll / styringsenhet_** (Controller)
 - **_Indireksjon_** (Indirection)
@@ -101,7 +101,7 @@ Hver klasse vil ha en tydlig rolle og ansvaret vil være riktig fordelt, noe som
   - _eksempel_: For biblioteksystemet kan vi oppnå dette ved å bruke abstrakte klasser og grensesnitt, slik at nye typer bøker eller utlånsregler kan legges til uten å endre den eksisterende koden.
 - **L** iskov Substitution
   - prinsipp om at en subklasse bør kunne erstatte sin superklasse uten å bryte programmet.
-  - _eksempel_: Hvis vi har en superklasse "Item" som inkluderer både bøker og digitale ressurser, bær vi kunne bruke objekter av begge typene problemfritt i systemet.
+  - _eksempel_: Hvis vi har en superklasse "Gjenstand" som inkluderer både bøker og digitale ressurser, bør vi kunne bruke objekter av begge typene problemfritt i systemet.
 - **I** nterface Segregation
   - prinsipp om invertering av avhengigeter (riktig bruk av grensesnitt), mange spesifikke grensesnitt er bedre enn ett generelt grensesnitt.
   - _eksempel_: Vi kan i biblioteksystemet vårt definere spesifikke grensesnitt for ulike roller, eksempelvis "Utlånbart" for bøker som kan lånes ut.
@@ -117,6 +117,6 @@ Ved å bruke **OOA** og **OOD** kan utviklere få et grundigere og mer helhetlig
 Disse spiller altså en avgjørende rolle i utviklingen av solide og vedlikeholdbare applikasjoner.
 
 **GRASP**-prinsippene vil gi veiledning for riktig kobling og ansvarsfordeling mellom klassene våres.  
-**SOLID**-prinsippene vil gi en klar retning for å oppnå god designpraksis, med fokus på enkelt ansvar, åpen for utvidele og lukket for endring, substituerbarhet, grensesnitts-sergregasjon og avhengighetsinversjon.
+**SOLID**-prinsippene vil gi en klar retning for å oppnå god designpraksis, med fokus på enkelt ansvar, åpen for utvidelse og lukket for endring, substituerbarhet, grensesnitts-sergregasjon og avhengighetsinversjon.
 
 Utviklere kan, ved å følge disse prinsippene / praksisene, skape programvareløsninger som er fleksible, skalerbare og enklere å vedlikeholde over tid. Dette gjør at utviklere får en solid grunnmur for å bygge komplekse systemer med en effektiv og strukturert utviklingsprosess.
