@@ -1,13 +1,13 @@
 ---
 title: "Bygg solide applikasjoner med objekt-orienterte prinsipper og praksiser"
 date: 2023-05-13T11:28:45+02:00
-description: ""
+description: "Eksamensøving for faget DAT109 - Systemutvikling"
 tags: ["NO", "Systemutvikling", "Objekt-orienterte prinsipper & praksiser"]
 draft: false
 showToc: true
 ---
 
-### Introduksjon
+## Introduksjon
 
 I faget DAT109, **_"Systemutvikling"_**, har vi gått igjennom temaer rundt det å utvikle systemer/applikasjoner, bruken av diverse utviklingsmetoder, og viktigheten med objekt-orientert analyse, utforming og programmering.
 
@@ -20,20 +20,20 @@ Nå som det nærmer seg eksamen i dette faget har jeg valgt å gå igjennom hver
 
 Jeg har valgt å dele denne bloggposten opp i 5 deler, der jeg skal først introdusere litt om temaet for så å gå innom nøkkeltemaene **_objekt-orientert analyse (OOA)_** og **_objekt-orientert design (OOD)_** med designprinsippene **_GRASP_** og **_SOLID_**.
 
-![Systemutvikling](/img/systemutvikling-post/systemutvikling.png)
+![Systemutvikling](/img/systemutvikling-posts/systemutvikling.png)
 [_Systemutvikling_ (🖼️ - **insidecreative.no**)](https://insidecreative.no/services/hjemmeside-for-bedrifter/systemutvikling/)
 
-### Objekt-orienterte prinsipper og praksiser
+## Objekt-orienterte prinsipper og praksiser
 
 **Objekt-orientert programmering (OOP)** har lenge vært en populær tilnærming av programvare. Dette er grunnet fordelene utviklere kan oppnå ved å organisere koden rundt konsepter som objekter og klasser. Når utviklere gjør dette vil de oppleve **_økt gjenbruk, fleksibilitet og lesbarhet_** i kodebasen, og dette fører til at programmet vil bli lettere å vedlikeholde og skalere.
 
 Men (_ja det er et "men"_), det er ikke bare nok å følge OOP; det er viktig for utviklere å kjenne til og implementere velprøvde prinsipper og praksiser for å bygge solide systemer/applikasjoner.  
 I tillegg så finnes det ulemper med å bruke disse prinsippene og praksisene i programvareutvikling. En utvikler kan føle at dette er en ganske **_tidskrevende_** prosess ettersom det innebærer betydlig planlegging og dokumentasjon på forhånd, samt. at det kan bli **_økt kostnad_** i forhold til andre programvareutviklingsmetodologier grunnet akkurat dette.
 
-![OOA](/img/systemutvikling-post/ooa.jpeg)
+![OOA](/img/systemutvikling-posts/ooa.jpeg)
 [_OOA_ (🖼️ - **businessanalystlearnings.com**)](https://www.businessanalystlearnings.com/ba-techniques/2017/8/8/an-introduction-to-object-oriented-analysis)
 
-### Objekt-Orientert Analyse (OOA)
+## Objekt-Orientert Analyse (OOA)
 
 Vi kan starte med en godt skrevet definisjon for OOA av **Grady Booch**:
 
@@ -45,10 +45,10 @@ Her bruker vi ulike modeller for å representere den statiske strukturen, dynami
 
 > Noen av de vanligste modellene som brukes i OOA er deriblant klassediagrammer, use-case diagrammer, sekvensdiagrammer og tilstandsdiagrammer.
 
-![OOD](/img/systemutvikling-post/ood.jpg)
+![OOD](/img/systemutvikling-posts/ood.jpg)
 [_OOD_ (🖼️ - **Derek Bananas on YouTube**)](https://www.youtube.com/watch?v=fJW65Wo7IHI)
 
-### Objekt-Orientert Design (OOD)
+## Objekt-Orientert Design (OOD)
 
 Objekt-orientert design (OOD) er prosessen med å utforme løsningen for problemet som ble analysert i OOA, til et konkret design som er implementerbart.
 
@@ -60,10 +60,10 @@ Slik som OOA, bruker OOD også ulike modeller for å representere de ulike kompo
 
 > Noen av de vanligste modellene som brukes i OOD er deriblant klassediagrammer, samarbeidsdiagrammer, komponentdiagrammer og distribusjonsdiagrammer.
 
-![GRASP](/img/systemutvikling-post/grasp.png)
+![GRASP](/img/systemutvikling-posts/grasp.png)
 [_GRASP_ (🖼️ - **ArjanCodes on YouTube**)](https://www.youtube.com/watch?v=fGNF6wuD-fg)
 
-#### ⤷ General Responsibility Assignment Software Principles (GRASP)
+### ⤷ General Responsibility Assignment Software Principles (GRASP)
 
 **GRASP** er et sett med **_ni prinsipper / retningslinjer_** som hjelper oss med å tildele ansvar til klassene våres på en effektiv måte. Kort sagt et slags mentalt verktøysett.
 
@@ -86,10 +86,10 @@ Fortsetter vi med bibliotekeksempelet vårt, så bør "Bok" være ansvarlig for 
 Disse teknikkene har ikke blitt oppfunnet for å skape nye måter å jobbe på, men for å forbedre dokumentasjon og standardisere gamle, velprøvde programmeringsprinsipper i OOD.  
 Hver klasse vil ha en tydlig rolle og ansvaret vil være riktig fordelt, noe som resulterer i en mer fleksibel og vedlikeholdbar kodebase.
 
-![SOLID](/img/systemutvikling-post/solid.jpg)
+![SOLID](/img/systemutvikling-posts/solid.jpg)
 [_SOLID_ (🖼️ - **effectivesoftwaredesign.com**)](https://effectivesoftwaredesign.com/2015/04/22/do-solid-design-principles-make-code-slow/)
 
-#### ⤷SOLID
+### ⤷SOLID
 
 **SOLID** er også et akronym som _GRASP_, og står for fem viktige prinsipper innenfor objekt-orientert design. Disse fem prinsippene lyder slik:
 
