@@ -6,27 +6,32 @@
 
 ### What I've learned from the project so far
 
-- Basic usage of html and css
+- Coding with html and css
 - Some understanding of Github Actions + Pages
 - How to use some of the most popular open-source static site generators
 - How to create websites that are faster, more secure, and easier to maintain
 - How to use templates to generate static websites
 - How to use DNS pointers (A- & CNAME records)
+- How to create & use layouts for a static website
+- How to write JSON-docs and use data from it
 
 ### Updates
 
 - v.1 - basic html/css
-- v.2 - same site as this repo, just bad github repo
-- v.3 - couldn't fix repo, still learning Git, site works - I'm happy lol
+- v.2 - same site as this repo, just couldn't figure out last repository
+- v.3 - made new repo as I'm still learning Git, site works - I'm happy lol
 
 ### Future plans:
 
-- [ ] Add logs (tvtime, reading, etc)
-- [ ] Might convert website over to the [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme
+- [ ] Add a "foodwall" for my recipes
+- [ ] Might convert website over to either:
+    - the hugo [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme, or
+    - a svelte version (to learn svelte), or
+    - a react version (to learn more react before internship)
 
 ## How do I run it locally?
 
-1. Hugo must be installed
+1. [Hugo](https://gohugo.io/) must be installed
 2. Clone the project and add submodules
 
 ```bash
