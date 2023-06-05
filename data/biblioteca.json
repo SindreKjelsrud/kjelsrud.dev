@@ -1,0 +1,70 @@
+[
+    {
+        "isbn": "9788269259346",
+        "title": "Magnus",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "01",
+              "string": "2023-06-01"
+            },
+        "type": "book",
+        "description": "The biography of Magnus Midtbø, Norways best sportsclimber. It follows his life from childhood, through ups- and downs, and how he became a successful YouTuber.",
+        "my_rating": 5,
+        "genres": [
+            "Biography", "Sports"
+        ]
+    },
+    {
+        "isbn": "9788234713538",
+        "title": "Hjertet i to: Seks måneder med Karpe",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "28",
+              "string": "2023-05-28"
+            },
+        "type": "book",
+        "description": "A pure tribute to Karpe. The book gives a sneak peek into the path to Spektrumx10. Fun to read and Yohan Shanmugaratnam is good with words and emotions!",
+        "my_rating": 5,
+        "genres": [
+            "Biography", "Nonfiction", "Music", "Art"
+        ]
+    },
+    {
+        "isbn": "9781421578798",
+        "title": "JoJo's Bizarre Adventure: Phantom Blood Vol. 1",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "22",
+              "string": "2023-05-22"
+            },
+        "type": "manga",
+        "description": "A supernatural action manga about a multigenerational tale of the heroic Joestar family and their never-ending battle against evil!",
+        "my_rating": 3,
+        "genres": [
+            "Action-Adventure", "Fantasy", "Supernatural"
+        ]
+    },
+    {
+        "isbn": "9788202410445",
+        "title": "Steve Jobs",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "15",
+              "string": "2023-05-15"
+            },
+        "type": "book",
+        "description": "The biography of Steve Jobs, one of the world's foremost innovators. A deep and comprehensive portrait of a complex man.",
+        "my_rating": 4,
+        "genres": [
+            "Biography", "Technology", "Leadership", "Innovation", "Inspirational"
+        ]
+    }
+]

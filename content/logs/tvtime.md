@@ -1,25 +1,20 @@
 ---
-title: "TV Time"
+title: "📺TV Time"
 date: true
 draft: false
+layout: single_tv
 ---
 
-Movies and TV shows that I’ve watched. Not a complete list.
+Movies and TV shows that I’ve watched. Not a complete list, since I started logging it in JSON in 2023.
 
-```java
+```js
 Currently watching:
-    - The Mandalorian S03
-    - The Last of Us
-    - Vinland Saga S02
-    - One Piece (Whole Cake Island arc)
+    - "Vinland Saga S02E21"
+    - "Demon Slayer S04E08"
+    - "Formula 1: Drive to Survive S05E07"
+    - "Dr. Stone S03E09"
+    - "One Piece E840"
+    - "Dragon Ball E89"
+On hold: 
+    - "Greys Anatomy S08E06"
 ```
-
-<details>
-    <summary>Rating System</summary> 
-    <dl class=review__rating>
-    <dt aria-label="1 out of 5 stars">★☆☆☆☆<dd>Awful.
-    <dt aria-label="2 out of 5 stars">★★☆☆☆<dd>Waste of time..
-    <dt aria-label="3 out of 5 stars">★★★☆☆<dd>Fine, could've managed without it lol
-    <dt aria-label="4 out of 5 stars">★★★★☆<dd>Definitely worth a watch.
-    <dt aria-label="5 out of 5 stars">★★★★★<dd>Must watch!</dl>
-</details>
