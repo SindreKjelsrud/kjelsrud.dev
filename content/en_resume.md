@@ -77,8 +77,8 @@ A clone of the game Wordle. (Has some bugs)
 
 IT-skills
 : **Programming Languages:** Java, HTML/CSS, postgreSQL, and basic knowledge of Python, JavaScript & C#.  
- **Libraries & Frameworks:** Hugo and basic knowledge of .NET.
-**Technologies:** Git, Office 365, and basic knowledge of Docker & Wordpress.
+  **Libraries & Frameworks:** Spring, Hugo, Zola and basic knowledge of .NET.  
+  **Technologies:** Git, Office 365, and basic knowledge of Docker & Wordpress.
 
 <br><br>
 
