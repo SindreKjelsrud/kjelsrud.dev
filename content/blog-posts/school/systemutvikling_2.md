@@ -99,7 +99,7 @@ Denne metodikken fremmer en **samarbeidsorientert kultur, automatisering og fell
 
 DevOps legger stor vekt på **overvåking av programvare** i produksjon for å kunne oppdage problemer og ytelsesproblemer raskt, samtidig som det blir tatt høyde for å **skalere opp** infrastrukturen og ressursene etter behov.
 
-**Kontinuerlig integrasjon og kontinuerlig levering** er også to prinsipper som blir lagt stor vekt på. Under skal jeg forklare litt mer om disse, men kort sagt så innebærer det å integrere og teste kodeendringer kontinuerlig for å oppdage feil tidlig, samtidig som man automatiserer utrulling av programvarent til produksjonsmiljøet på en pålitelig og rask måte.
+**Kontinuerlig integrasjon og kontinuerlig levering** er også to prinsipper som blir lagt stor vekt på. Under skal jeg forklare litt mer om disse, men kort sagt så innebærer det å integrere og teste kodeendringer kontinuerlig for å oppdage feil tidlig, samtidig som man automatiserer utrulling av programvaren til produksjonsmiljøet på en pålitelig og rask måte.
 
 ### ⤷ Kontinuerlig integrasjon (CI)
 
