@@ -62,5 +62,5 @@ _Nov. 2021 - Dec. 2021, Java_
 
 _Sep. 2022 - Nov. 2022_
 
-> Blog Post: https://sindrekjelsrud.github.io/blog-posts/gameboycolor/  
+> Blog Post: https://sindrekjelsrud.github.io/blog-posts/tech/gameboy_color/  
 > ![Example](/img/gameboy-post/example.jpg)
