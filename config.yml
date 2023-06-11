@@ -1,6 +1,6 @@
 languageCode: en-us
 baseURL: "https://sindrekjelsrud.github.io/"
-title: Sindre's Website
+title: Sindre Kjelsrud
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -46,7 +46,7 @@ params:
     text: "Home"
 
   assets:
-    favicon: "img/cat.png"
+    favicon: "img/coolkid.png"
 
   # profile-mode
   profileMode:
