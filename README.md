@@ -1,12 +1,19 @@
-# v.3 of my personal website
+<div align="center">
+  <img alt="logo" src="static/img/coolkid.png" width="100" />
+</div>
+<h1 align="center">
+  <a href="https://kjelsrud.dev">kjelsrud.dev</a>
+</h1>
+<p align="center">
+  My personal website, made with <a href="https://gohugo.io/">Hugo</a>
+</p>
 
-![Alt Text](https://media4.giphy.com/media/vvbGMpbhZMcHSsD50w/giphy.gif?cid=ecf05e47qcz9h0plmj7zmn71kelzs4h6nj47bb1qmu0r1uvm&rid=giphy.gif&ct=g)
-
-## Info
+## 📝 Info
 
 ### What I've learned from the project so far
 
 - Coding with html and css
+- How to use Git
 - Some understanding of Github Actions + Pages
 - How to use some of the most popular open-source static site generators
 - How to create websites that are faster, more secure, and easier to maintain
@@ -15,21 +22,21 @@
 - How to create & use layouts for a static website
 - How to write JSON-docs and use data from it
 
-### Updates
+### Features
 
-- v.1 - basic html/css
-- v.2 - same site as this repo, just couldn't figure out last repository
-- v.3 - made new repo as I'm still learning Git, site works - I'm happy lol
+- CV
+- Blog
+- Logs
 
 ### Future plans:
 
 - [ ] Add a "foodwall" for my recipes
 - [ ] Might convert website over to either:
-    - the hugo [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme, or
-    - a svelte version (to learn svelte), or
-    - a react version (to learn more react before internship)
+  - the hugo [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme, or
+  - a svelte version (to learn svelte), or
+  - a react version (to learn more react before internship)
 
-## How do I run it locally?
+## 🛠️ How do I run it locally?
 
 1. [Hugo](https://gohugo.io/) must be installed
 2. Clone the project and add submodules
@@ -46,7 +53,7 @@ git submodule update --init --recursive
 
 4. Feel free to create issues if you see room for improvement!
 
-## Misc
+## 🫶 Misc
 
 ### Useful links
 
