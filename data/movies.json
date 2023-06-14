@@ -1,5 +1,17 @@
 [
     {
+        "title": "2001: A Space Odyssey",
+        "type": "movie",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "13",
+              "string": "2023-06-13"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Stone Locals: Rediscovering the Soul of Climbing",
         "type": "movie",
         "date": 
@@ -21,7 +33,7 @@
               "day": "29",
               "string": "2023-05-29"
             },
-        "my_rating": 4
+        "my_rating": 3
     },
     {
         "title": "Surfs Up",
