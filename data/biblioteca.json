@@ -1,5 +1,21 @@
 [
     {
+        "isbn": "9781506727592",
+        "title": "Mob Psycho 100: Vol. 7",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "16",
+              "string": "2023-06-16"
+            },
+        "type": "manga",
+        "description": "A story about a young middle schooler, Shigeo Kageyama (nicknamed Mob), who has strong psychic powers and his struggles to find happiness while avoiding the power getting out of control.",
+        "my_rating": 3,
+        "genres": [
+            "Fantasy", "Supernatural", "Comedy"
+        ]
+    },{
         "isbn": "9781529392401",
         "title": "Will Artificial Intelligence Outsmart Us?",
         "date": 
