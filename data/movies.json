@@ -1,5 +1,17 @@
 [
     {
+        "title": "Bridget Jones's Baby",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "01",
+            "string": "2023-07-01"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "Spider-Man: Across the Spider-Verse",
         "type": "movie",
         "date": 
