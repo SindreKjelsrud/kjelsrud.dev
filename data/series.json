@@ -1,5 +1,41 @@
 [
     {
+        "title": "Demon Slayer S03",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "03",
+            "string": "2023-07-03"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Vinland Saga S02",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "03",
+            "string": "2023-07-03"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Dr. Stone S03",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "03",
+            "string": "2023-06-12"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "S.W.A.T. S06",
         "type": "series",
         "date": 
