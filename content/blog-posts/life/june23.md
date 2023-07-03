@@ -39,6 +39,9 @@ I've also been researching Astro a bit here and there, and I've decided that I w
 - *Spider-Man: Across the Spider-Verse*: Watched it at the cinema, and wow what a great movie! I think this may be my favorite Marvel movie tbh. Such a unique film with so many artstyles! Can't wait for more.
 - *Bridget Jones's Baby*: Watched it with my grandma, pretty funny! I think the trilogy of Bridget Jones is pretty good lol.
 
+### TV
+- *Dr. Stone*: Finished season 3, was a good season! Loved the new island stuff.
+
 ## 🎧 Music
 I've gotten two new vinyls this month!
 - "*Evig Eventyr*" album from Ka2, it's so goooood.
