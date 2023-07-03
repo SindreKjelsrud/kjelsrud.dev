@@ -37,7 +37,6 @@ I've also been researching Astro a bit here and there, and I've decided that I w
 ### Movies
 - *2001: A Space Odyssey*: A rewatch, but this time I didn't just think about the visuals. As I've learned more about AI, the movie gets much more interesting since it delves deep into the intricacies of AI while presenting a captivating narrative about the evolution of artificial intelligence and its profound impact on human existence.
 - *Spider-Man: Across the Spider-Verse*: Watched it at the cinema, and wow what a great movie! I think this may be my favorite Marvel movie tbh. Such a unique film with so many artstyles! Can't wait for more.
-- *Bridget Jones's Baby*: Watched it with my grandma, pretty funny! I think the trilogy of Bridget Jones is pretty good lol.
 
 ### TV
 - *Dr. Stone*: Finished season 3, was a good season! Loved the new island stuff.
