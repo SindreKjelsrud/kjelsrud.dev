@@ -9,10 +9,7 @@ Movies and TV shows that I’ve watched. Not a complete list, since I started lo
 
 ```js
 Currently watching:
-    - "Vinland Saga S02E23"
-    - "Demon Slayer S04E10"
     - "Formula 1: Drive to Survive S05E07"
-    - "Dr. Stone S03E11"
     - "One Piece E840"
     - "Dragon Ball E103"
 On hold: 
