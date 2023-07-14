@@ -53,7 +53,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Sindre Kjelsrud"
     subtitle: "Student at Western University of Applied Sciences"
-    imageUrl: "img/me-myself-and-i.png"
+    imageUrl: "img/20kb-pfp.jpg"
     imageTitle: "Me, Myself and I"
     imageWidth: 150
     imageHeight: 150
