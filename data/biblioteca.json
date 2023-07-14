@@ -1,5 +1,22 @@
 [
     {
+        "isbn": "9780140455526",
+        "title": "The Art of War",
+        "date": 
+            {
+              "year": "2023",
+              "month": "07",
+              "day": "12",
+              "string": "2023-07-12"
+            },
+        "type": "book",
+        "description": "Classic book of military strategy based on Chinese warfare and military thought, which can be adapted for use in politics, business and everyday life.",
+        "my_rating": 4,
+        "genres": [
+            "Classic", "Business", "History", "Leadership", "Politics"
+        ]
+    },
+    {
         "isbn": "9781506727592",
         "title": "Mob Psycho 100: Vol. 7",
         "date": 
@@ -15,7 +32,8 @@
         "genres": [
             "Fantasy", "Supernatural", "Comedy"
         ]
-    },{
+    },
+    {
         "isbn": "9781529392401",
         "title": "Will Artificial Intelligence Outsmart Us?",
         "date": 
