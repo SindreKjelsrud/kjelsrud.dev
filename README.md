@@ -31,10 +31,8 @@
 ### Future plans:
 
 - [ ] Add a "foodwall" for my recipes
-- [ ] Might convert website over to either:
-  - the hugo [cocoa](https://github.com/mtn/cocoa-eh-hugo-theme) theme, or
-  - a svelte version (to learn svelte), or
-  - a react version (to learn more react before internship)
+- [ ] Restructure enitre site from Hugo over to Astro
+- [ ] Implement multilingual support
 
 ## 🛠️ How do I run it locally?
 
