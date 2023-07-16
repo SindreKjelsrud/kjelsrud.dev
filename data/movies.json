@@ -1,5 +1,29 @@
 [
     {
+        "title": "Insurgent",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "16",
+            "string": "2023-07-16"
+            },
+        "my_rating": 3
+    },
+    {
+        "title": "Divergent",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "15",
+            "string": "2023-07-15"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "Bridget Jones's Baby",
         "type": "movie",
         "date": 
