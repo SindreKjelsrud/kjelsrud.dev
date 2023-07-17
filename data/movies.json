@@ -1,5 +1,17 @@
 [
     {
+        "title": "Blade Runner 2049",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2023",
+            "month": "07",
+            "day": "17",
+            "string": "2023-07-17"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Insurgent",
         "type": "movie",
         "date": 
