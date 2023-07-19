@@ -1,3 +1,5 @@
+# CURRENTLY REWRITING WEBSITE TO ASTRO
+
 <div align="center">
   <img alt="logo" src="static/img/coolkid.png" width="100" />
 </div>
@@ -24,40 +26,12 @@
 
 ### Features
 
-- CV
-- Blog
-- Logs
+...
 
 ### Future plans:
 
-- [ ] Add a "foodwall" for my recipes
-- [ ] Restructure enitre site from Hugo over to Astro
-- [ ] Implement multilingual support
+...
 
 ## 🛠️ How do I run it locally?
 
-1. [Hugo](https://gohugo.io/) must be installed
-2. Clone the project and add submodules
-
-```bash
-git clone https://github.com/SindreKjelsrud/sindrekjelsrud.github.io.git
-cd sindrekjelsrud.github.io
-git submodule update --init --recursive
-```
-
-3. To run the project use: `hugo serve` (livereload \<3)
-
-> 3.5. To add a new blogpost use: `hugo new blog-posts/{NameOfPost}.md`
-
-4. Feel free to create issues if you see room for improvement!
-
-## 🫶 Misc
-
-### Useful links
-
-- Hugo functions - https://gohugo.io/functions/
-
-### Powered by:
-
-1. Hugo - https://gohugo.io/
-2. PaperMod - https://github.com/adityatelange/hugo-PaperMod
+...
