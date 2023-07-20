@@ -7,7 +7,7 @@
   <a href="https://kjelsrud.dev">kjelsrud.dev</a>
 </h1>
 <p align="center">
-  My personal website, made with <a href="https://gohugo.io/">Hugo</a>
+  The second iteration of my personal website, built with <a href="https://astro.build/">Astro</a>.
 </p>
 
 ## 📝 Info
@@ -34,4 +34,19 @@
 
 ## 🛠️ How do I run it locally?
 
+1. Install the dependencies
+`npm install or yarn`
+
+2. Start the development server
+`yarn dev`
+
+## 🚀 Build and run for production
+
+1. Generate a full static production build
+`npm run build`
+
+## 🎨 Color codes
 ...
+
+## Versionlog
+- I've put v1 in the branch called ...
