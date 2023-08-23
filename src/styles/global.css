@@ -17,23 +17,3 @@ html.dark {
 body {
 	font-family: Verdana, sans-serif;
 }
-
-#themeToggle {
-	border: 0;
-	background: none;
-}
-.sun {
-	fill: #27374D;
-}
-.moon {
-	fill: white;
-}
-
-:global(.dark) .sun {
-	fill: white;
-	display: none;
-}
-:global(.dark) .moon {
-	fill: #FFF8EA;
-	display: none;
-}
