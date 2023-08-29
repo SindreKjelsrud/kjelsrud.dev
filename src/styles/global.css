@@ -1,19 +1,39 @@
-/*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+:root {
+	--light-bg: #FFF8EA;
+	--light-1: #594545;
+	--light-2: #815B5B;
+	--light-3: #9E7676;
+	--light-hover: #DAC0A3;
+	--dark-bg: #27374D;
+	--dark-1: #DDE6ED;
+	--dark-2: #9DB2BF;
+	--dark-3: #526D82;
+	--dark-hover: #001C30;
+  }
 
 html {
-	background-color: #FFF8EA;
-	color: #815B5B;
+	background-color: var(--light-bg);
+	color: var(--light-1);
 }
 
 html.dark {
-	background-color: #27374D;
-	color: #DDE6ED;
+	background-color: var(--dark-bg);
+	color: var(--dark-1);
 }
 
 body {
 	font-family: Verdana, sans-serif;
 }
+
+/* TOOLS */
+.cards :hover { background: var(--light-hover) }
+
+.dark .cards :hover { background: var(--dark-hover) }
+
+.description p { color: var(--light-2); }
+
+.dark .description p { color: var(--dark-2); }
+
+.tag button { color: var(--light-3); border-color: var(--light-3); }
+
+.dark .tag button { color: var(--dark-3); border-color: var(--dark-3); }
