@@ -25,6 +25,31 @@ body {
 	font-family: Verdana, sans-serif;
 }
 
+/* HOME */
+.social a {
+	color: var(--light-1);
+}
+
+.dark .social a {
+	color: var(--dark-1);
+}
+
+.social a:nth-child(1) :hover {
+    color: #0A66C2 !important;
+}
+
+.social a:nth-child(2) :hover {
+    color: grey !important;
+}
+
+.social a:nth-child(3) :hover {
+    color: #C84370 !important;
+}
+
+.social a:nth-child(4) :hover {
+    color: #1DB954 !important;
+}
+
 /* TOOLS */
 .cards :hover { background: var(--light-hover) }
 

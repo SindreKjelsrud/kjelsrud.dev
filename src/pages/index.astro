@@ -4,6 +4,10 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,20 +15,45 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
-		<div class="flex flex-col fixed w-screen">
+		<div class="flex flex-col fixed w-screen p-5">
 			<Header title={SITE_TITLE} />
-			<main class="flex flex-col justify-center items-center p-48">
-				<!-- Local image stored at public/assets/stars.png -->
-				<img class="w-40 rounded-full" src="/assets/pb.jpg" alt="Profile picture of me.">
-
-				<h1>🧑‍🚀 Hello, Astronaut!</h1>
+			<main class="flex flex-col justify-center items-center p-48 description gap-4">
+				<!--<img class="w-40 rounded-full" src="/assets/pb.jpg" alt="Profile picture of me.">-->
+				<div class="profile"></div>
+				<h1 class="text-3xl font-bold">Sindre Kjelsrud</h1>
 				<p class="max-w-md">
-					Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-					template serves as a lightweight, minimally-styled starting point for anyone looking to build
-					a personal website, blog, or portfolio with Astro.
+					Student at Western University of Applied Sciences.
 				</p>
+				<div class="flex gap-1 social">
+					<a href="https://www.linkedin.com/in/sindre-kjelsrud-345583218/">
+						<iconify-icon icon="lucide:linkedin" width="30" height="30" />
+					</a>
+					<a href="https://github.com/SindreKjelsrud">
+						<iconify-icon icon="ri:github-line" width="30" height="30" />
+					</a>
+					<a href="https://www.instagram.com/SindreKjelsrud/">
+						<iconify-icon icon="mdi:instagram" width="30" height="30" />
+					</a>
+					<a href="https://open.spotify.com/user/kjelsrud!">
+						<iconify-icon icon="mdi:spotify" width="30" height="30" />
+					</a>
+				</div>
 			</main>
 			<Footer />
 		</div>
 	</body>
 </html>
+
+<style>
+	.profile {
+            width: 10rem;
+			height: 10rem;
+            background: url("../../public/assets/pb.jpg");
+			background-size: cover;
+			border-radius: 9999px;
+        }
+  
+	.profile:hover {
+		background-image: url("https://media.tenor.com/yheo1GGu3FwAAAAC/rick-roll-rick-ashley.gif");
+	}
+</style>
