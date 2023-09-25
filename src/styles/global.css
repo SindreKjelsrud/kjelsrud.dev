@@ -62,3 +62,30 @@ body {
 .tag button { color: var(--light-3); border-color: var(--light-3); }
 
 .dark .tag button { color: var(--dark-3); border-color: var(--dark-3); }
+
+/* BLOG */
+.blog h1 {
+	display: none;
+}
+
+.blog h2 {
+	font-size: 24px;
+	margin-top: 24px;
+	font-weight: 600;
+}
+
+.blog h3 {
+	font-size: 20px;
+	margin-top: 24px;
+	font-weight: 600;
+}
+
+.blog h4 {
+	font-size: 18px;
+	margin-top: 24px;
+	font-weight: 600;
+}
+
+.blogtime { color: var(--light-2); }
+
+.dark .blogtime { color: var(--dark-2); }

@@ -34,10 +34,10 @@ const posts = (await getCollection('blog')).sort(
 		</style>
 	</head>
 	<body>
-		<div class="flex flex-col fixed w-screen p-5">
+		<div class="flex flex-col fixed w-screen">
 			<Header />
-			<main class="flex flex-col justify-center items-left mx-auto mt-8">
-				<h1 class="text-2xl">Blog posts</h1>
+			<main class="flex flex-col justify-center items-left mx-auto">
+				<h1 class="text-4xl font-extrabold">Blog posts</h1>
 				<section class="mt-4">
 					<ul>
 						{
