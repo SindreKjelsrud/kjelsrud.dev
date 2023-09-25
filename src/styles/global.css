@@ -50,6 +50,15 @@ body {
     color: #1DB954 !important;
 }
 
+/* FOOTER */
+.footerbg {
+	background-color: var(--light-bg);
+}
+
+.dark .footerbg {
+	background-color: var(--dark-bg);
+}
+
 /* TOOLS */
 .cards :hover { background: var(--light-hover) }
 
