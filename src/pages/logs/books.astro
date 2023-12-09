@@ -1,0 +1,46 @@
+---
+import SectionContainer from '../../components/SectionContainer.astro';
+import books from '../../data/biblioteca.json'
+
+const postsByYear = books.reduce((acc, book) => {
+    const year = new Date(book.date.string).getFullYear();
+    if (!acc[year]) {
+        acc[year] = [];
+    }
+    acc[year].push(book);
+    return acc;
+}, {});
+
+const sortedYears = Object.keys(postsByYear).sort((a, b) => b - a);
+
+function getEmojiStars(rating) {
+    let stars = '';
+    for (let i = 0; i < rating; i++) {
+        stars += '⭐';
+    }
+    return stars;
+}
+---
+<SectionContainer>
+    <main class="flex flex-col h-screen gap-4 mt-4">
+		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
+		<h2 class="text-xl font-semibold">2023 - Currently Reading:</h2>
+        <p>📖 Barack Obama: A Promised Land</p>
+        {sortedYears.map(year => (
+			<section>
+				<div class="text-xl font-semibold mb-2">{year} - Finished</div>
+				<ul>
+                    {
+                        books.map((book) => (
+                            <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
+								<p class="text-s">{book.title} - {book.author}</p>
+                                <p>{getEmojiStars(book.my_rating)}</p>
+							</div>
+                        ))
+                    }
+                </ul>
+        </section>
+		))
+        }
+	</main>
+</SectionContainer>

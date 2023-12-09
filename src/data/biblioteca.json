@@ -1,0 +1,106 @@
+[
+    {
+        "isbn": "9781506727608",
+        "title": "Mob Psycho 100: Vol. 8",
+        "date": 
+            {
+              "year": "2023",
+              "month": "11",
+              "day": "30",
+              "string": "2023-11-30"
+            },
+        "my_rating": 4,
+        "author": "ONE"
+    },
+    {
+        "isbn": "9780140455526",
+        "title": "The Art of War",
+        "date": 
+            {
+              "year": "2023",
+              "month": "07",
+              "day": "12",
+              "string": "2023-07-12"
+            },
+        "my_rating": 4,
+        "author": "Sun-tzu"
+    },
+    {
+        "isbn": "9781506727592",
+        "title": "Mob Psycho 100: Vol. 7",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "16",
+              "string": "2023-06-16"
+            },
+        "my_rating": 3,
+        "author": "ONE"
+    },
+    {
+        "isbn": "9781529392401",
+        "title": "Will Artificial Intelligence Outsmart Us?",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "13",
+              "string": "2023-06-13"
+            },
+        "my_rating": 3,
+        "author": "Stephen Hawking"
+    },
+    {
+        "isbn": "9788269259346",
+        "title": "Magnus",
+        "date": 
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "01",
+              "string": "2023-06-01"
+            },
+        "my_rating": 5,
+        "author": "Magnus Midtbø, Thor Gotaas"
+    },
+    {
+        "isbn": "9788234713538",
+        "title": "Hjertet i to: Seks måneder med Karpe",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "28",
+              "string": "2023-05-28"
+            },
+        "my_rating": 5,
+        "author": "Yohan Shanmugaratnam"
+    },
+    {
+        "isbn": "9781421578798",
+        "title": "JoJo's Bizarre Adventure: Phantom Blood Vol. 1",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "22",
+              "string": "2023-05-22"
+            },
+        "my_rating": 3,
+        "author": "Araki, Hirohiko"
+    },
+    {
+        "isbn": "9788202410445",
+        "title": "Steve Jobs",
+        "date": 
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "15",
+              "string": "2023-05-15"
+            },
+        "my_rating": 4,
+        "author": "Walter Isaacson"
+    }
+]
