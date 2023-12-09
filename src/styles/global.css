@@ -59,19 +59,6 @@ body {
 	background-color: var(--dark-bg);
 }
 
-/* TOOLS */
-.cards :hover { background: var(--light-hover) }
-
-.dark .cards :hover { background: var(--dark-hover) }
-
-.description p { color: var(--light-2); }
-
-.dark .description p { color: var(--dark-2); }
-
-.tag button { color: var(--light-3); border-color: var(--light-3); }
-
-.dark .tag button { color: var(--dark-3); border-color: var(--dark-3); }
-
 /* BLOG */
 .blog h1 {
 	display: none;
