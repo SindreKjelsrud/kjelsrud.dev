@@ -4,17 +4,17 @@ import { SITE_TITLE } from '../consts';
 import ThemeIcon from './ThemeIcon.astro';
 ---
 
-<header class="flex justify-center mx-auto md:gap-64 gap-4 py-5">
+<header class="flex justify-between items-center py-5">
 	<div>
-		<a class="font-bold" href="/">
-			{SITE_TITLE}
+		<a class="text-2xl font-semibold" href="/">
+			$ ~/sidski
 		</a>
+		<ThemeIcon />
 	</div>
-	<nav class="flex gap-2">
+	<nav class="flex gap-4">
 		<HeaderLink href="/about">about</HeaderLink>
 		<HeaderLink href="#">projects</HeaderLink>
 		<HeaderLink href="#">resume</HeaderLink>
 		<HeaderLink href="/blog">blog</HeaderLink>
-		<ThemeIcon />
 	</nav>
 </header>
