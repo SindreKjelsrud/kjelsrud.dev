@@ -4,24 +4,40 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import SectionContainer from '../../components/SectionContainer.astro';
 
 const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+
+// Group posts by year
+const postsByYear = posts.reduce((acc, post) => {
+    const year = new Date(post.data.pubDate).getFullYear();
+    if (!acc[year]) {
+        acc[year] = [];
+    }
+    acc[year].push(post);
+    return acc;
+}, {});
+
+// Sort the years
+const sortedYears = Object.keys(postsByYear).sort((a, b) => b - a);
 ---
 <SectionContainer>
 	<main class="flex flex-col h-screen gap-4 mt-4">
 		<h1 class="text-4xl font-extrabold">Blog posts</h1>
-		<section class="mt-4">
-			<ul>
-				{
-					posts.map((post) => (
-						<li>
-							<FormattedDate date={post.data.pubDate} />
-							<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
-						</li>
-					))
-				}
-			</ul>
-		</section>
+		{sortedYears.map(year => (
+			<section>
+				<div class="text-xl font-semibold">{year}</div>
+				<ul>
+					{
+						postsByYear[year].map((post) => (
+							<div class="flex justify-between mb-2 break-words">
+								<a class="font-semibold" href={`/blog/${post.slug}/`}>✨ {post.data.title}</a>
+								<FormattedDate date={post.data.pubDate} />
+							</div>
+						))
+					}
+				</ul>
+			</section>
+		))}
 	</main>
 </SectionContainer>
 
