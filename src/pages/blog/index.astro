@@ -22,7 +22,7 @@ const sortedYears = Object.keys(postsByYear).sort((a, b) => b - a);
 ---
 <SectionContainer>
 	<main class="flex flex-col h-screen gap-4 mt-4">
-		<h1 class="text-4xl font-extrabold">Blog posts</h1>
+		<h1 class="text-3xl font-extrabold">Blog posts</h1>
 		{sortedYears.map(year => (
 			<section>
 				<div class="text-xl font-semibold">{year}</div>
