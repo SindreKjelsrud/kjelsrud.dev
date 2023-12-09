@@ -60,6 +60,14 @@ body {
 }
 
 /* BLOG */
+.blog p {
+	margin: 10px 0 0 0;
+}
+
+.blog li {
+	list-style: disc inside;
+}
+
 .blog h1 {
 	display: none;
 }

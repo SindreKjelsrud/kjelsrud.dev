@@ -6,7 +6,7 @@ layout: "../layouts/Layout.astro"
 
 [📜 CV (under construction)](/)
 
-[📚 Logs (under construction)](/)
+[📚 Logs (under construction)](/logs)
 
 [🌱 Digital garden (under construction)](/)
 
