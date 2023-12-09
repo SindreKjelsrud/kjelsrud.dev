@@ -3,51 +3,40 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import SectionContainer from '../components/SectionContainer.astro';
 ---
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<div class="flex flex-col fixed w-screen">
-			<Header title={SITE_TITLE} />
-			<main class="flex flex-col justify-center items-center text-center pt-48 description gap-4">
-				<div class="profile"></div>
-				<h1 class="text-3xl font-bold">Sindre Kjelsrud</h1>
-				<p class="md:max-w">
-					Student at Western University of Applied Sciences.
-				</p>
-				<div class="flex gap-1 social">
-					<a href="https://www.linkedin.com/in/sindre-kjelsrud-345583218/">
-						<iconify-icon icon="lucide:linkedin" width="30" height="30" />
-					</a>
-					<a href="https://github.com/SindreKjelsrud">
-						<iconify-icon icon="ri:github-line" width="30" height="30" />
-					</a>
-					<a href="https://www.instagram.com/SindreKjelsrud/">
-						<iconify-icon icon="mdi:instagram" width="30" height="30" />
-					</a>
-					<a href="https://open.spotify.com/user/kjelsrud!">
-						<iconify-icon icon="mdi:spotify" width="30" height="30" />
-					</a>
-				</div>
-			</main>
-			<Footer />
+<SectionContainer>
+	<main class="flex flex-col justify-center items-center h-screen gap-4 description">
+		<div class="profile"></div>
+		<h1 class="text-3xl font-bold">Sindre Kjelsrud</h1>
+		<p>Student at Western University of Applied Sciences.</p>
+		<div class="flex gap-1 social">
+			<a href="https://www.linkedin.com/in/sindre-kjelsrud-345583218/">
+				<iconify-icon icon="lucide:linkedin" width="30" height="30" />
+			</a>
+			<a href="https://github.com/SindreKjelsrud">
+				<iconify-icon icon="ri:github-line" width="30" height="30" />
+			</a>
+			<a href="https://www.instagram.com/SindreKjelsrud/">
+				<iconify-icon icon="mdi:instagram" width="30" height="30" />
+			</a>
+			<a href="https://open.spotify.com/user/kjelsrud!">
+				<iconify-icon icon="mdi:spotify" width="30" height="30" />
+			</a>
 		</div>
-	</body>
-</html>
+	</main>
+</SectionContainer>
 
 <style>
 	.profile {
             width: 10rem;
 			height: 10rem;
-            background: url("../../public/assets/pb.jpg");
+            background: url("../../assets/pb.jpg");
 			background-size: cover;
 			border-radius: 9999px;
         }

@@ -1,51 +1,38 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
-import stackData from '../../public/data/tools.json'
+import stackData from '../../data/tools.json'
+import SectionContainer from '../components/SectionContainer.astro';
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<div class="flex flex-col fixed w-screen p-5">
-			<Header title={SITE_TITLE} />
-			<main class="flex flex-col justify-center items-left mx-auto pt-8">
-				<h1 class="text-2xl">Tools</h1>
-                <p>Tools I use everyday (or at least most days)</p>
-                <ul class="pt-2">
-                    {stackData.map((data) => 
-                        <div class="p-2 mb-4 cards">
-                            <ul>
-                                <a 
-                                    href={data.link}
-                                    class="flex gap-2"
-                                >
-                                    <img src={data.icon} class="w-20 h-20" />
-                                    <div class="flex flex-col">
-                                        <p>
-                                            {data.name}
-                                        </p>
-                                        <div class="description">
-                                            <p>{data.description}</p>
-                                        </div>
-                                        <div class="tag">
-                                            <button class="flex auto border-solid border-2 px-1 rounded-md text-sm">
-                                                #{data.tag}
-                                            </button>
-                                        </div>
+<SectionContainer>
+    <main class="flex flex-col justify-center items-left mx-auto pt-8">
+        <h1 class="text-2xl">Tools</h1>
+        <p>Tools I use everyday (or at least most days)</p>
+        <ul class="pt-2">
+            {stackData.map((data) => 
+                <div class="p-2 mb-4 cards">
+                    <ul>
+                        <a 
+                        href={data.link}
+                        class="flex gap-2"
+                        >
+                        <img src={data.icon} class="w-20 h-20" />
+                        <div class="flex flex-col">
+                            <p>
+                                {data.name}
+                                </p>
+                                <div class="description">
+                                    <p>{data.description}</p>
                                     </div>
-                                </a>
-                            </ul>
-                        </div>
-                    )}
-                </ul>
-			</main>
-			<Footer />
-		</div>
-	</body>
-</html>
+                                    <div class="tag">
+                                        <button class="flex auto border-solid border-2 px-1 rounded-md text-sm">
+                                            #{data.tag}
+                                            </button>
+                                            </div>
+                                            </div>
+                                            </a>
+                                            </ul>
+                                            </div>
+                                            )}
+        </ul>
+    </main>
+</SectionContainer>
