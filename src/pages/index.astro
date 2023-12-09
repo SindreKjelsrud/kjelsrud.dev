@@ -1,8 +1,4 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import SectionContainer from '../components/SectionContainer.astro';
 ---
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
@@ -11,8 +7,8 @@ import SectionContainer from '../components/SectionContainer.astro';
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
 <SectionContainer>
-	<main class="flex flex-col justify-center items-center h-screen gap-4 description">
-		<div class="profile"></div>
+	<main class="flex flex-col flex-1 justify-center items-center gap-4 description">
+		<div class="profile"></div> <!-- Image -->
 		<h1 class="text-3xl font-bold">Sindre Kjelsrud</h1>
 		<p>Student at Western University of Applied Sciences.</p>
 		<div class="flex gap-1 social">
