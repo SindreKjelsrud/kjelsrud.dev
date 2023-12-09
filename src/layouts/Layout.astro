@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import SectionContainer from '../components/SectionContainer.astro';
+
+const {frontmatter} = Astro.props;
+---
+<head>
+	<BaseHead title={frontmatter.title} description={frontmatter.description} />
+</head>
+
+<SectionContainer>
+	<main class="flex flex-col flex-1 mb-auto break-words mt-4">
+		<article>
+			<h1 class="text-4xl font-extrabold">{frontmatter.title}</h1>
+			<p class="italic mb-4">{frontmatter.description}</p>
+			<div class="blog">
+				<slot />
+			</div>
+		</article>
+	</main>
+</SectionContainer>
