@@ -105,3 +105,13 @@ code {
 	border-radius: 10px;
 	padding: 20px;
 }
+
+.blog blockquote {
+	padding: 0 0 0 10px;
+	border-left: 5px solid var(--light-1);
+}
+
+.dark .blog blockquote {
+	padding: 0 0 0 10px;
+	border-left: 5px solid var(--dark-1);
+}
