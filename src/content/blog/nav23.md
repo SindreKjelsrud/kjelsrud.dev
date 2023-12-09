@@ -1,10 +1,8 @@
 ---
-title: "Min sommer som utvikler hos NAV IT"
+title: "(NO) Min sommer som utvikler hos NAV IT"
 pubDate: 'Aug 11 2023'
 description: "Hva jeg har gjort i løpet av sommer-internshipet mitt hos NAV IT."
-tags: ["NO", "Internship", "Job-related"]
 draft: false
-showToc: true
 ---
 
 ## Introduksjon

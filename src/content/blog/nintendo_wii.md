@@ -2,9 +2,6 @@
 title: "Why you should get the Nintendo Wii in 2023"
 pubDate: 'Feb 06 2023'
 description: "Reason 1: Funky Kong."
-tags: ["EN", "Technology", "Nostalgia"]
-image: https://www.turn-on.de/media/webp/media/cache/article_image_slider/media/cms/2015/06/wii.webp?356188
-showToc: true
 draft: false
 ---
 

@@ -1,10 +1,8 @@
 ---
-title: "may23"
+title: "Recently ~ May"
 pubDate: 'Jun 01 2023'
 description: "What I've been doing during the month of May."
-tags: ["EN", "Journaling"]
 draft: false
-showToc: true
 ---
 
 ## ✍️ Blogging

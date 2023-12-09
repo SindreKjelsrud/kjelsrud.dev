@@ -2,8 +2,6 @@
 title: "Making the Leap - My Journey from Windows to Arch Linux"
 pubDate: 'Sep 20 2023'
 description: "I use Arch btw."
-tags: ["EN", "Technology", "Open-Source", "Linux", "Arch"]
-showToc: true
 draft: false
 ---
 

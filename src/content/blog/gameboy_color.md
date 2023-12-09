@@ -2,8 +2,6 @@
 title: "Breathing new life into my old GameBoy Color!"
 pubDate: 'Nov 30 2022'
 description: "The pinnacle of Nostalgia."
-tags: ["EN", "Technology", "Nostalgia"]
-showToc: true
 draft: false
 ---
 

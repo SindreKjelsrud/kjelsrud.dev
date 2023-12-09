@@ -1,10 +1,8 @@
 ---
-title: "september23"
+title: "Recently ~ September"
 pubDate: 'Oct 02 2023'
 description: "What I've been doing during the month of September."
-tags: ["EN", "Journaling"]
 draft: false
-showToc: true
 ---
 ## 🪴 Life
 
