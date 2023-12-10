@@ -15,7 +15,7 @@ Also this month I got an idea I wanted to incorporate as a segment to this secti
 
 ### *månedens varde🪨*
 
-![varde140623](/src/static/img/varder/varde140623.jpg)
+![varde140623](../../static/img/varder/varde140623.jpg)
 
 > *Blåmanen, Bergen ~ 14.06.23*
 

@@ -17,7 +17,7 @@ The other two trips to Sweden was to my familys summerhouse, one with some frien
 
 ### *månedens varde🪨*
 
-![varde290723](/src/static/img/varder/varde290723.jpg)
+![varde290723](../../static/img/varder/varde290723.jpg)
 
 > *Bohus-Malmön, Bohuslän ~ 29.07.23*
 
@@ -35,7 +35,7 @@ This month has gone by super fast, and I've learned so much at the internship! I
 
 Also this month I've started using [Gitmojis](https://gitmoji.dev/) for my commits! I like it a lot even though it doesn't necessarily provide any functionality other than being cool lol.
 
-I've started my Astro rebuilding process for my website, it's going slow but enjoying the process! Working on it under the [*astro-rewrite* branch](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io/tree/astro-rewrite) on the repo if you want to take a look.
+I've started my Astro rebuilding process for my website, it's going slow but enjoying the process! Working on it under the *astro-rewrite* branch on the repo if you want to take a look.
 
 ## 📚 Reading
 

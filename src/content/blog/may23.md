@@ -22,7 +22,7 @@ During this month, I've not gotten to code as much as I'd like to, but my websit
 
 I've set up a [wiki](https://wiki.kjelsrud.dev) (or digital garden as some call it) for myself, can't wait to fill it up with info and stuff I've learned.
 
-I've also set up a [blogsite](https://pblog.kjelsrud.dev/) for a course I'll have next semester. It's for blogging about my days at an internship during next semester where I'll learn about React, TypeScript and Redux. I'll add a blogpost later where I'll just collect everything that will be blogged during the internship into one post.
+I've also set up a blogsite for a course I'll have next semester. It's for blogging about my days at an internship during next semester where I'll learn about React, TypeScript and Redux. I'll add a blogpost later where I'll just collect everything that will be blogged during the internship into one post.
 
 ## 📚 Reading
 
