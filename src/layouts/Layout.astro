@@ -4,10 +4,6 @@ import SectionContainer from '../components/SectionContainer.astro';
 
 const {frontmatter} = Astro.props;
 ---
-<head>
-	<BaseHead title={frontmatter.title} description={frontmatter.description} />
-</head>
-
 <SectionContainer>
 	<main class="flex flex-col flex-1 mb-auto break-words mt-4">
 		<article>

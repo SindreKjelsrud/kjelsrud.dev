@@ -8,10 +8,6 @@ type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate } = Astro.props;
 ---
-<head>
-	<BaseHead title={title} description={description} />
-</head>
-
 <SectionContainer>
 	<main class="flex flex-col flex-1 mb-auto break-words mt-4">
 		<article>
