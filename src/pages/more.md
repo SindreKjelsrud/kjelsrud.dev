@@ -8,6 +8,6 @@ layout: "../layouts/Layout.astro"
 
 [📚 Logs](/logs)
 
-[🌱 Digital garden (under construction)](/)
+[🌱 Digital garden](/garden)
 
 [✨ Uses (under construction)](/)
