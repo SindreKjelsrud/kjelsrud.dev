@@ -78,21 +78,25 @@ p {
 
 .blog h2 {
 	font-size: 24px;
-	margin-top: 24px;
+	margin-top: 18px;
 	font-weight: 600;
 }
 
 .blog h3 {
 	font-size: 20px;
-	margin-top: 24px;
+	margin-top: 18px;
 	font-weight: 600;
 }
 
 .blog h4 {
 	font-size: 18px;
-	margin-top: 24px;
+	margin-top: 18px;
 	font-weight: 600;
 }
+
+.blog a { text-decoration: underline 3px; text-decoration-color: var(--light-1);}
+
+.dark .blog a { text-decoration: underline 3px; text-decoration-color: var(--dark-1);}
 
 .blogtime { color: var(--light-2); }
 
@@ -112,8 +116,10 @@ p {
 /* RANDOM */
 code {
 	display: block;
+	background-color: #24292E;
+	color: #A5A8AD;
 	border-radius: 10px;
-	padding: 20px;
+	padding: 10px;
 }
 
 .blog blockquote {
