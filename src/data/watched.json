@@ -34,7 +34,7 @@
     },
     {
         "title": "Breaking Bad S01-S05",
-        "type": "anime",
+        "type": "series",
         "date": {
             "year": "2023",
             "month": "11",
@@ -341,17 +341,6 @@
         "my_rating": 5
     },
     {
-        "title": "Dr. Stone S03",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "06",
-            "day": "24",
-            "string": "2023-06-24"
-        },
-        "my_rating": 3
-    },
-    {
         "title": "2001: A Space Odyssey",
         "type": "movie",
         "date": {
@@ -518,7 +507,7 @@
     },
     {
         "title": "The Wind Rises",
-        "type": "movie",
+        "type": "anime",
         "date": {
             "year": "2023",
             "month": "04",
