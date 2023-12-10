@@ -2,13 +2,14 @@
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 import SectionContainer from '../../components/SectionContainer.astro';
+import BaseHead from '../../components/BaseHead.astro';
 
 const posts = (await getCollection('blog')).sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
 // Group posts by year
-const postsByYear = posts.reduce((acc, post) => {
+const postsByYear = posts.reduce((acc:any, post) => {
     const year = new Date(post.data.pubDate).getFullYear();
     if (!acc[year]) {
         acc[year] = [];
@@ -18,17 +19,18 @@ const postsByYear = posts.reduce((acc, post) => {
 }, {});
 
 // Sort the years
-const sortedYears = Object.keys(postsByYear).sort((a, b) => b - a);
+const sortedYears = Object.keys(postsByYear).sort((a:any, b:any) => b - a);
 ---
 <SectionContainer>
 	<main class="flex flex-col h-screen gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">Blog posts</h1>
+		<a href="/rss.xml">💥 Subscribe via RSS</a>
 		{sortedYears.map(year => (
 			<section>
 				<div class="text-xl font-semibold">{year}</div>
 				<ul>
 					{
-						postsByYear[year].map((post) => (
+						postsByYear[year].map((post:any) => (
 							<div class="flex justify-between mb-2 break-words">
 								<a class="font-semibold" href={`/blog/${post.slug}/`}>✨ {post.data.title}</a>
 								<FormattedDate date={post.data.pubDate} />
