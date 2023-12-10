@@ -5,7 +5,7 @@
   <a href="https://kjelsrud.dev">kjelsrud.dev</a>
 </h1>
 <p align="center">
-  The second iteration of my personal website, built with <a href="https://astro.build/">Astro</a>.
+  The third iteration of my personal website, built with <a href="https://astro.build/">Astro</a>.
 </p>
 
 ## 📝 Info
@@ -56,4 +56,5 @@
 | Catppuccin Crust | ![#181926](https://via.placeholder.com/10/181926?text=+) `#181926` |
 
 ## Versionlog
-- The first iteration of my website was a Hugo-instance that used a readymade theme called "PaperMod".
+- The first iteration of my website was plain html and css..
+- The second iteration of my website was a Hugo-instance that used a readymade theme called "PaperMod".
