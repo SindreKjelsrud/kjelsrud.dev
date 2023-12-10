@@ -1,0 +1,706 @@
+[
+    {
+        "title": "The Hunger Games: Catching Fire",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "12",
+            "day": "03",
+            "string": "2023-12-03"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "The Hunger Games",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "26",
+            "string": "2023-11-26"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "El Camino",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "20",
+            "string": "2023-11-20"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Breaking Bad S01-S05",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "20",
+            "string": "2023-11-20"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Gemini Man",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "12",
+            "string": "2023-11-12"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Attack on Titan: Final Season",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "05",
+            "string": "2023-11-05"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Barbie",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "04",
+            "string": "2023-11-04"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "The Little Mermaid (liveaction)",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "11",
+            "day": "03",
+            "string": "2023-11-03"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Mr. & Mrs. Smith",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "10",
+            "day": "26",
+            "string": "2023-10-26"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Sex Education S4",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "10",
+            "day": "23",
+            "string": "2023-10-23"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "10",
+            "day": "22",
+            "string": "2023-10-22"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Moneyball",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "10",
+            "day": "01",
+            "string": "2023-10-01"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Tetris",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "10",
+            "day": "01",
+            "string": "2023-10-01"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "AlphaGo",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "09",
+            "day": "28",
+            "string": "2023-09-28"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "One Piece S01 (liveaction)",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "09",
+            "day": "10",
+            "string": "2023-09-10"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Jobs",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "27",
+            "string": "2023-08-27"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "The Queen's Gambit",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "23",
+            "string": "2023-08-23"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Dragon Ball",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "20",
+            "string": "2023-08-20"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Lost in Translation",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "11",
+            "string": "2023-08-11"
+        },
+        "my_rating": 2
+    },
+    {
+        "title": "Transformers: Rise of the Beasts",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "08",
+            "string": "2023-08-08"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "How to Lose a Guy in 10 Days",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "06",
+            "string": "2023-08-06"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Arrival",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "08",
+            "day": "06",
+            "string": "2023-08-06"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Oppenheimer",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "22",
+            "string": "2023-07-22"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Formula 1: Drive to Survive S05",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "22",
+            "string": "2023-07-22"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Blade Runner 2049",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "17",
+            "string": "2023-07-17"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Insurgent",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "16",
+            "string": "2023-07-16"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Divergent",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "15",
+            "string": "2023-07-15"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Demon Slayer S03",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "03",
+            "string": "2023-07-03"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Vinland Saga S02",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "03",
+            "string": "2023-07-03"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Bridget Jones's Baby",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "07",
+            "day": "01",
+            "string": "2023-07-01"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "06",
+            "day": "27",
+            "string": "2023-06-27"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Dr. Stone S03",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "06",
+            "day": "24",
+            "string": "2023-06-24"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "06",
+            "day": "13",
+            "string": "2023-06-13"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Stone Locals: Rediscovering the Soul of Climbing",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "29",
+            "string": "2023-05-29"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Fishpeople | Lives Transformed by the Sea",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "29",
+            "string": "2023-05-29"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Surfs Up",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "26",
+            "string": "2023-05-26"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "S.W.A.T. S06",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "22",
+            "string": "2023-05-22"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Encanto",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "20",
+            "string": "2023-05-20"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "19",
+            "string": "2023-05-19"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Whiplash",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "16",
+            "string": "2023-05-16"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Star Wars: Visions S02",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "05",
+            "day": "11",
+            "string": "2023-05-11"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "The Last of Us S01",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "23",
+            "string": "2023-04-23"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "The Mandalorian S03",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "23",
+            "string": "2023-04-23"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "A girl and an astronaut",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "16",
+            "string": "2023-04-16"
+        },
+        "my_rating": 1
+    },
+    {
+        "title": "The Terminal",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "10",
+            "string": "2023-04-10"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "The Whole Nine Yards",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "09",
+            "string": "2023-04-09"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Murder Mystery 2",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "08",
+            "string": "2023-04-08"
+        },
+        "my_rating": 2
+    },
+    {
+        "title": "The Wind Rises",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "04",
+            "day": "03",
+            "string": "2023-04-03"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "29",
+            "string": "2023-03-29"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Black Panther: Wakanda Forever",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "24",
+            "string": "2023-03-24"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "My Hero Academia S06",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "24",
+            "string": "2023-03-24"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Rick and Morty S06",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "24",
+            "string": "2023-03-24"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Schumacher",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "21",
+            "string": "2023-03-21"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Nightcrawler",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "21",
+            "string": "2023-03-21"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "How to Sell Drugs Online (Fast) S03",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "20",
+            "string": "2023-03-20"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Outer Banks S03",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "15",
+            "string": "2023-03-15"
+        },
+        "my_rating": 4
+    },
+    {
+        "title": "Community S01-S06",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "15",
+            "string": "2023-03-15"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Free! S01-S03",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "03",
+            "day": "08",
+            "string": "2023-03-08"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Fantastic Beasts and Where to Find Them",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "02",
+            "day": "17",
+            "string": "2023-02-17"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "Kaleidoscope",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "02",
+            "day": "02",
+            "string": "2023-02-02"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "The Recruit S01",
+        "type": "series",
+        "date": {
+            "year": "2023",
+            "month": "01",
+            "day": "30",
+            "string": "2023-01-30"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "01",
+            "day": "28",
+            "string": "2023-01-28"
+        },
+        "my_rating": 5
+    },
+    {
+        "title": "The Way of the Househusband S02",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "01",
+            "day": "23",
+            "string": "2023-01-23"
+        },
+        "my_rating": 3
+    },
+    {
+        "title": "TRON: Legacy",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "01",
+            "day": "11",
+            "string": "2023-01-11"
+        },
+        "my_rating": 4
+    }
+]

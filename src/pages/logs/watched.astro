@@ -1,0 +1,46 @@
+---
+import SectionContainer from '../../components/SectionContainer.astro';
+import watched from '../../data/watched.json'
+
+const tvByYear = watched.reduce((acc:any, tv) => {
+    const year = new Date(tv.date.string).getFullYear();
+    if (!acc[year]) {
+        acc[year] = [];
+    }
+    acc[year].push(tv);
+    return acc;
+}, {});
+
+const sortedYears = Object.keys(tvByYear).sort((a:any, b:any) => b - a);
+
+function getEmojiStars(rating:any) {
+    let stars = '';
+    for (let i = 0; i < rating; i++) {
+        stars += '⭐';
+    }
+    return stars;
+}
+---
+<SectionContainer>
+    <main class="flex flex-col gap-4 mt-4">
+		<h1 class="text-3xl font-extrabold">📺 La télévision</h1>
+		<h2 class="text-xl font-semibold">2023 - Currently Watching:</h2>
+        <p>👀 One Piece ~ Final Saga</p>
+        <p>👀 Star Wars: The Clone Wars S02</p>
+        {sortedYears.map(year => (
+			<section>
+				<div class="text-xl font-semibold mb-2">{year} - Finished</div>
+				<ul>
+                    {
+                        watched.map((tv) => (
+                            <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
+								<p class="text-s">{tv.title}</p>
+                                <p>{getEmojiStars(tv.my_rating)}</p>
+							</div>
+                        ))
+                    }
+                </ul>
+        </section>
+		))}
+	</main>
+</SectionContainer>
