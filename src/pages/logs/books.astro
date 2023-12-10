@@ -2,7 +2,7 @@
 import SectionContainer from '../../components/SectionContainer.astro';
 import books from '../../data/biblioteca.json'
 
-const postsByYear = books.reduce((acc, book) => {
+const booksByYear = books.reduce((acc:any, book) => {
     const year = new Date(book.date.string).getFullYear();
     if (!acc[year]) {
         acc[year] = [];
@@ -11,9 +11,9 @@ const postsByYear = books.reduce((acc, book) => {
     return acc;
 }, {});
 
-const sortedYears = Object.keys(postsByYear).sort((a, b) => b - a);
+const sortedYears = Object.keys(booksByYear).sort((a:any, b:any) => b - a);
 
-function getEmojiStars(rating) {
+function getEmojiStars(rating:any) {
     let stars = '';
     for (let i = 0; i < rating; i++) {
         stars += '⭐';
