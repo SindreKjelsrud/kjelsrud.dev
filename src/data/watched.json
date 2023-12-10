@@ -1,5 +1,27 @@
 [
     {
+        "title": "Believer 2",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "12",
+            "day": "08",
+            "string": "2023-12-08"
+        },
+        "my_rating": 1
+    },
+    {
+        "title": "Sand Castle",
+        "type": "movie",
+        "date": {
+            "year": "2023",
+            "month": "12",
+            "day": "05",
+            "string": "2023-12-05"
+        },
+        "my_rating": 2
+    },
+    {
         "title": "The Hunger Games: Catching Fire",
         "type": "movie",
         "date": {
