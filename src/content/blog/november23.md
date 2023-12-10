@@ -14,7 +14,7 @@ This month was filled up with school as well since it's the examperiod.. My work
 
 ### _månedens varde🪨_
 
-![varde071123](/img/varder/varde071123.jpg)
+![varde071123](../../static/img/varder/varde071123.jpg)
 
 > ***Fløyenvarden trail, Bergen*** ~ ***07.11.23***
 
