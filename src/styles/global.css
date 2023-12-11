@@ -70,6 +70,7 @@ p {
 
 .blog li {
 	list-style: disc inside;
+	padding-left: 10px;
 }
 
 .blog h1 {
@@ -96,7 +97,7 @@ p {
 
 .blog a { text-decoration: underline 3px; text-decoration-color: var(--light-1);}
 
-.dark .blog a { text-decoration: underline 3px; text-decoration-color: var(--dark-1);}
+.dark .blog a { text-decoration: underline 2px; text-decoration-color: var(--dark-1);}
 
 .blogtime { color: var(--light-2); }
 
