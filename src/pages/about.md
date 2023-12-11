@@ -4,33 +4,24 @@ description: 'Some information about me & stuff I like'
 layout: "../layouts/Layout.astro"
 ---
 
-```js
-public class Me {
-    
-    private String self;
+Hello! My name is Sindre Kjelsrud, also known as "**Sid**". I'm a 3rd year Computer Science student at Western University of Applied Sciences, campus Bergen.
 
-    public Information info(self) {
-        self.name = "Sindre Kjelsrud";
-        self.nickname = "Sid";
-        self.year_born = 1999;
-        self.hometown = "Skedsmokorset, Viken";
-        self.curr_location = "Bergen, Vestlandet";
-        self.university = "Western University of Applied Sciences";
-    } 
+During my free time I like to go bouldering/climbing, play some games on my Wii or try to catch up with One Piece.
 
-    public Favourites favs(self) {
-        self.fav_sport = "bouldering && climbing";
-        self.fav_color = "purple";
-        self.fav_series = "Silicon Valley";
-        self.fav_anime = "One Piece";
-        self.fav_movie = "The Social Network || Ready Player One";
-        self.fav_animemov = "Le Sommet des Dieux";
-    }
+👵 **Age:** 24
 
-    public ContactInformation contact_info(self) {
-        self.github = "SindreKjelsrud";
-        self.linkedin = "Sindre Kjelsrud";
-        self.instagram = "sindrekjelsrud";
-    }
-}
-```
+👒 **Favorite Anime:** One Piece && Le Sommet des Dieux
+
+🎵 **Favorite Music:** Everything indie (indie-rock/indie-pop/etc) && J-Pop.
+
+📽️ **Favorite Movie:** The Social Network || Ready Player One
+
+🎮 **Favorite Games:** Minecraft && Pokémon Firered && Wii Sports && Rocket League
+
+📺 **Favorite Series:** Limitless || Silicon Valley
+
+📚 **Favorite Books:** MAGNUS || Hjertet i to: Seks måneder med Karpe
+
+## Want to contact me? 📫
+
+You'll find all my contact information, and social media, under [connect](/connect)!
