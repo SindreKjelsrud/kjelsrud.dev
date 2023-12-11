@@ -70,7 +70,15 @@ p {
 
 .blog li {
 	list-style: disc inside;
+	padding: 10px 0 0 10px;
+}
+
+.blog li ul {
 	padding-left: 10px;
+}
+
+.blog img {
+	border-radius: 10px;
 }
 
 .blog h1 {
