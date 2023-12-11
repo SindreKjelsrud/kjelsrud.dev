@@ -6,7 +6,7 @@ layout: "../layouts/Layout.astro"
 
 [🌐 Connect](/connect)
 
-[✨ Uses (under construction)](/)
+[✨ Uses](/uses)
 
 [📜 CV (under construction)](/)
 
