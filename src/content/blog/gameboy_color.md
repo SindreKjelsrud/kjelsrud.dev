@@ -15,14 +15,14 @@ But one video, by [Macho Nacho Productions](https://www.youtube.com/watch?v=yqnr
 
 As soon as I got to Bergen I ordered a GameBoy Color 2.0 Q5 IPS Laminated Backlight Kit, a white GameBoy Color 2.0 Laminated Q5 IPS Ready Shell and some purple buttons/pads from [FunnyPlaying](https://retrogamerepairshop.com/), and waited excitedly for them to arrive..
 
-![Products](../../static/img/gameboy/funnyplaying-products.jpg)
+![Products](/img/gameboy/funnyplaying-products.jpg)
 _Photo of my old GameBoy Color and the products from FunnyPlaying_
 
 ### Modding process
 
 The first step of the project was to disassemble the old GameBoy and clean the circuit board. This process was fairly easy as it only involved rubbing some q-tips, dipped in isopropyl alcohol, around the board to remove dirt and dust.
 
-![Cleaning](../../static/img/gameboy/cleaning.jpg)
+![Cleaning](/img/gameboy/cleaning.jpg)
 _Cleaning the circuit board with some isopropyl alcohol_
 
 The soldering part of the project wasn't something you needed to do, unless you wanted the ability to change the color of the logo and/or change the screens x- and y-position.
@@ -33,7 +33,7 @@ I still haven't soldered on the new board (that's why the logo is kinda scuffed 
 
 | | |
 |- | - |
-|![Soldering1](../../static/img/gameboy/soldering-1.jpg)|![Soldering2](../../static/img/gameboy/soldering-2.jpg) |
+|![Soldering1](/img/gameboy/soldering-1.jpg)|![Soldering2](/img/gameboy/soldering-2.jpg) |
 
 _Photo of me trying to solder.. For a noob it was pretty good!_
 
@@ -44,6 +44,6 @@ I recommend trying this out if you want to bust out your old GameBoy Color again
 
 | | |
 |- | - |
-![ShowcasePokémon](../../static/img/gameboy/showcasePok-1.jpg)|![ShowcaseBattleOfSteel](../../static/img/gameboy/showcaseBoS-1.jpg)
+![ShowcasePokémon](/img/gameboy/showcasePok-1.jpg)|![ShowcaseBattleOfSteel](/img/gameboy/showcaseBoS-1.jpg)
 
 _Pokémon Yellow & Blades of Steel 1991_

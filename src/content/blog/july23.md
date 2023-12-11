@@ -17,7 +17,7 @@ The other two trips to Sweden was to my familys summerhouse, one with some frien
 
 ### *månedens varde🪨*
 
-![varde290723](../../static/img/varder/varde290723.jpg)
+![varde290723](/img/varder/varde290723.jpg)
 
 > *Bohus-Malmön, Bohuslän ~ 29.07.23*
 

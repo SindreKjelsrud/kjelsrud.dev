@@ -12,7 +12,7 @@ I also started my last year of university! This semester I'm gonna have courses 
 
 ### _månedens varde🪨_
 
-![varde060823](../../static/img/varder/varde060823.jpg)
+![varde060823](/img/varder/varde060823.jpg)
 
 > *Varderåsen, Skedsmokorset ~ 06.08.23*
 
