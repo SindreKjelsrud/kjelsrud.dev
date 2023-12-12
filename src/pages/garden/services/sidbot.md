@@ -6,7 +6,7 @@ layout: "../../../layouts/Layout.astro"
 
 ## 📝 Info
 
-This is a Discord bot made by me with JavaScript. I made it originally in Python, but there were some talk about the *discord.py* library getting shut down so I switched. Here's the source code: [GitHub link](https://github.com/SindreKjelsrud/sidBot)
+This is a Discord bot made by me with JavaScript. I made it originally in Python, but there were some talk about the *discord.py* library getting shut down so I switched. Here's the source code: [**GitHub link**](https://github.com/SindreKjelsrud/sidBot)
 
 ## 👷 Installation
 

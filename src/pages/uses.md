@@ -8,11 +8,11 @@ layout: "../layouts/Layout.astro"
 
 ## What do I use?
 
-The following is a list of the  different technologies that I use on a daily basis. This page was inspired by [uses this](https://usesthis.com/), and you can see more pages like this there.
+The following is a list of the  different technologies that I use on a daily basis. This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
 
 ![Image of my terminal](/img/term.png)
 
-For more details about my [dotfiles click here](https://github.com/SindreKjelsrud/dotfiles).
+For more details about my [**dotfiles click here**](https://github.com/SindreKjelsrud/dotfiles).
 
 ## 🐧 Hardware (+ OS)
 
@@ -25,15 +25,15 @@ For more details about my [dotfiles click here](https://github.com/SindreKjelsru
 
 ## 🧑‍💻 Software
 
-- [Alacritty](https://github.com/alacritty/alacritty). A cross-platform, OpenGL terminal emulator. 
-- [Bitwarden](https://bitwarden.com/). Open source password manager.
-- [Discord](https://discord.com/). For communication while gaming/coding.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/). Browser of choice.
-    - [uBlock Origin](https://ublockorigin.com/)
-- [GitHub](https://github.com/). For storing my Git-repos.
-- [Gmail](https://gmail.com). Current email provider, but want to switch.
-- [NetNewsWire](https://netnewswire.com/). RSS Reader.
-- [Obsidian](https://obsidian.md/). Private and flexible notetaking app.
-- [Spotify](https://spotify.com/). Current music-service of choice.
-- [VSCode](https://github.com/microsoft/vscode). IDE of choice most of the time.
-    - [neovim](https://neovim.io/). In progress of learning.
+- [**Alacritty**](https://github.com/alacritty/alacritty). A cross-platform, OpenGL terminal emulator. 
+- [**Bitwarden**](https://bitwarden.com/). Open source password manager.
+- [**Discord**](https://discord.com/). For communication while gaming/coding.
+- [**Firefox**](https://www.mozilla.org/en-US/firefox/new/). Browser of choice.
+    - [**uBlock Origin**](https://ublockorigin.com/)
+- [**GitHub**](https://github.com/). For storing my Git-repos.
+- [**Gmail**](https://gmail.com). Current email provider, but want to switch.
+- [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
+- [**Obsidian**](https://obsidian.md/). Private and flexible notetaking app.
+- [**Spotify**](https://spotify.com/). Current music-service of choice.
+- [**VSCode**](https://github.com/microsoft/vscode). IDE of choice most of the time.
+    - [**neovim**](https://neovim.io/). In progress of learning.
