@@ -21,7 +21,7 @@ const postsByYear = posts.reduce((acc:any, post) => {
 const sortedYears = Object.keys(postsByYear).sort((a:any, b:any) => b - a);
 ---
 <SectionContainer>
-	<main class="flex flex-col h-screen gap-4 mt-4">
+	<main class="flex flex-col gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">Blog posts</h1>
 		<a href="/rss.xml">💥 Subscribe via RSS</a>
 		{sortedYears.map(year => (
@@ -31,7 +31,7 @@ const sortedYears = Object.keys(postsByYear).sort((a:any, b:any) => b - a);
 					{
 						postsByYear[year].map((post:any) => (
 							<div class="flex justify-between mb-2 break-words">
-								<a class="font-semibold" href={`/blog/${post.slug}/`}>✨ {post.data.title}</a>
+								<a class="font-semibold w-1/2" href={`/blog/${post.slug}/`}>✨ {post.data.title}</a>
 								<FormattedDate date={post.data.pubDate} />
 							</div>
 						))
