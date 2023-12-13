@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "9781506727615",
+        "title": "Mob Psycho 100: Vol. 9",
+        "date": 
+            {
+              "year": "2023",
+              "month": "12",
+              "day": "12",
+              "string": "2023-12-12"
+            },
+        "my_rating": 4,
+        "author": "ONE"
+    },
+    {
         "isbn": "9781506727608",
         "title": "Mob Psycho 100: Vol. 8",
         "date": 
