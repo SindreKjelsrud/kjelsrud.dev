@@ -27,13 +27,13 @@
 - Blog
 - Logs
 - Digital garden
+- Uses
+- Vinyl collection
 
 ### Future plans:
 
 - [ ] CV
-- [ ] Uses
 - [ ] Food wall
-- [ ] Vinyl collection
 
 ## 🛠️ How do I run it locally?
 
