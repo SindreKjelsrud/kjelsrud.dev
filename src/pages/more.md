@@ -6,10 +6,12 @@ layout: "../layouts/Layout.astro"
 
 [🌐 Connect](/connect)
 
-[✨ Uses](/uses)
-
 [📜 CV (under construction)](/)
+
+[🌱 Digital garden](/garden)
 
 [📚 Logs](/logs)
 
-[🌱 Digital garden](/garden)
+[✨ Uses](/uses)
+
+[📀 Vinyl collection](/vinyl)

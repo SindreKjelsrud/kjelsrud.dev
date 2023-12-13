@@ -1,0 +1,22 @@
+[
+    {
+        "album": "Minecraft Volume Alpha",
+        "artist": "C418",
+        "cover": "/img/vinyl/minecraft_volume_alpha.jpg"
+    },
+    {
+        "album": "College Park",
+        "artist": "Logic",
+        "cover": "/img/vinyl/college_park.png"
+    },
+    {
+        "album": "Evig Eventyr",
+        "artist": "Ka2",
+        "cover": "/img/vinyl/evig_eventyr.jpg"
+    },
+    {
+        "album": "SÅ KLART DET GJØR VONDT",
+        "artist": "Ramón",
+        "cover": "/img/vinyl/sa_klart_det_gjor_vondt.jpg"
+    }
+]

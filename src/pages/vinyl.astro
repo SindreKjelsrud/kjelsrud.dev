@@ -1,0 +1,51 @@
+---
+import SectionContainer from '../components/SectionContainer.astro';
+import vinyl from '../data/vinyl.json'
+
+const vinylByAlbumTitle = vinyl.reduce((acc:any, currentVinyl) => {
+    const { album, artist, cover } = currentVinyl;
+    if (!acc[album]) {
+        acc[album] = {
+            vinyls: [],
+            artist: artist,
+            cover: cover
+        };
+    }
+    acc[album].vinyls.push(currentVinyl);
+    return acc;
+}, {});
+
+const vinylData = Object.keys(vinylByAlbumTitle).map(albumTitle => {
+    const albumData = vinylByAlbumTitle[albumTitle];
+    return {
+        title: albumTitle,
+        artist: albumData.artist,
+        cover: albumData.cover,
+        vinyl: albumData.vinyls,
+    };
+});
+---
+
+<SectionContainer>
+    <div class="flex flex-col gap-4 mt-4">
+        <div>
+
+            <h1 class="font-bold text-3xl">
+                📀 Platesamlinga
+            </h1>
+            <p class="italic">Here's a collection of all the vinyl's that I got!</p>
+        </div>
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+            {vinylData.map((album) => (
+                <div class="flex flex-col">
+                    <img
+                        src={album.cover}
+                        class="w-400"
+                    />
+                    <p class="font-bold">{album.title}</p>
+                    <p>{album.artist}</p>
+                </div>
+            ))}
+        </div>
+    </div>
+</SectionContainer>
