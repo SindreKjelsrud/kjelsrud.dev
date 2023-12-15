@@ -1,22 +1,90 @@
 [
     {
+        "album": "SÅ KLART DET GJØR VONDT",
+        "artist": "Ramón"
+    },
+    {
         "album": "Minecraft Volume Alpha",
-        "artist": "C418",
-        "cover": "/img/vinyl/minecraft_volume_alpha.jpg"
+        "artist": "C418"
     },
     {
         "album": "College Park",
-        "artist": "Logic",
-        "cover": "/img/vinyl/college_park.png"
+        "artist": "Logic"
     },
     {
         "album": "Evig Eventyr",
-        "artist": "Ka2",
-        "cover": "/img/vinyl/evig_eventyr.jpg"
+        "artist": "Ka2"
     },
     {
-        "album": "SÅ KLART DET GJØR VONDT",
-        "artist": "Ramón",
-        "cover": "/img/vinyl/sa_klart_det_gjor_vondt.jpg"
+        "album": "Grease",
+        "artist": "John Travolta & Olivia Newton-John"
+    },
+    {
+        "album": "Under Cover",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "album": "The Beatles (The White Album)",
+        "artist": "The Beatles"
+    },
+    {
+        "album": "Beverly Hills Cop",
+        "artist": "Various artists"
+    },
+    {
+        "album": "One Trick Pony",
+        "artist": "Paul Simon"
+    },
+    {
+        "album": "The Domino Theory",
+        "artist": "Bolland"
+    },
+    {
+        "album": "Master of Reality",
+        "artist": "Black Sabbath"
+    },
+    {
+        "album": "Studio Tan",
+        "artist": "Frank Zappa"
+    },
+    {
+        "album": "The Human League",
+        "artist": "DARE!"
+    },
+    {
+        "album": "Saturday Night Fever",
+        "artist": "Bee Gees"
+    },
+    {
+        "album": "Cruisin",
+        "artist": "Village People"
+    },
+    {
+        "album": "Turn Back",
+        "artist": "Toto"
+    },
+    {
+        "album": "Arrival",
+        "artist": "ABBA"
+    },
+    {
+        "album": "Knights of the New Thunder",
+        "artist": "TNT"
+    },
+    {
+        "album": "Combat Rock",
+        "artist": "The Clash"
+    },
+    {
+        "album": "Asia",
+        "artist": "Asia"
+    },
+    {
+        "album": "Face Value",
+        "artist": "Phil Collins"
+    },
+    {
+        "album": "Greatest Hits",
+        "artist": "Air Supply"
     }
 ]
