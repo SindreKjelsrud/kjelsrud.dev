@@ -12,7 +12,6 @@ E-mail: kjelsrudsindre@gmail.com
 
 - [GitHub](https://github.com/SindreKjelsrud)
 - [LinkedIn](https://www.linkedin.com/in/sindrekjelsrud)
-- [Instagram](https://www.instagram.com/sindrekjelsrud/)
 - [Spotify](https://open.spotify.com/user/kjelsrud!)
 
 
