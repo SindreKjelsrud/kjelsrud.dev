@@ -10,3 +10,5 @@ I don’t use any third-party services for my logs, I store everything in a JSON
 [📚 ***Books***](/logs/books)
 
 [📺 ***Watched***](/logs/watched)
+
+[🔖 ***Bookmarks***](/logs/bookmarks)
