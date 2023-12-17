@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="logo" src="/public/coolkid.svg" width="100" />
+  <img alt="logo" src="/public/favicon.svg" width="100" />
 </div>
 <h1 align="center">
   <a href="https://kjelsrud.dev">kjelsrud.dev</a>
