@@ -26,9 +26,10 @@ But where do you find these websites? Good question! You can find them by just g
 - [**The Forest**](https://theforest.link/)
 - [**bearblog.dev**](https://bearblog.dev/)
 - [**Neocities**](https://neocities.org/browse)
-- The different performance-focused clubs like: 
-    - [**1MB Club**](https://1mb.club/) 
-    - [**512KB Club**](https://512kb.club/) 
-    - [**1kB Club**](https://1kb.club/).
+
+And the different performance-focused clubs like: 
+- [**1MB Club**](https://1mb.club/) 
+- [**512KB Club**](https://512kb.club/) 
+- [**1kB Club**](https://1kb.club/).
 
 On an ending note I think you should explore the web like you're wandering through a forest. Every click takes you somewhere new. Have fun finding your way and seeing what's around each corner of the web.

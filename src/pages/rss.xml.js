@@ -14,5 +14,12 @@ export async function GET(context) {
       customData: post.data.customData,
       link: `/blog/${post.slug}/`,
     })),
+    source: {
+      title: 'Sindre Kjelsrud',
+      url: 'http://kjelsrud.dev/rss.xml',
+    },
+    enclosure: {
+      url: '/public'
+    },
   });
 }
