@@ -8,7 +8,6 @@ layout: "../../layouts/Layout.astro"
 
 - [Christian Engelsen](https://cengelsen.no)
 - [Mathias Haugsbø](https://mathiash98.github.io/)
-- [mnmlist](https://mnmlist.com/)
 - [Pengeblogg](https://pengeblogg.bloggnorge.com/)
 - [Tim Hårek](https://timharek.no/)
 - [Vitalik Buterin](https://vitalik.eth.limo/)
@@ -16,3 +15,7 @@ layout: "../../layouts/Layout.astro"
 ## Podcasts
 
 - [Lex Fridman](https://lexfridman.com/podcast/)
+
+## Miscellaneous
+
+- [mnmlist](https://mnmlist.com/) great articles about minimalism

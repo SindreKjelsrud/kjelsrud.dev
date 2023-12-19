@@ -16,7 +16,7 @@ During my free time I like to go bouldering/climbing, play some games on my Wii 
 
 📽️ **Favorite Movie:** The Social Network || Ready Player One
 
-🎮 **Favorite Games:** Minecraft && Pokémon FireRed && Wii Sports && Rocket League
+🎮 **Favorite Games:** Minecraft && Wii Sports
 
 📺 **Favorite Series:** Limitless && Silicon Valley
 
