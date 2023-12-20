@@ -4,11 +4,13 @@
 	--light-2: #815B5B;
 	--light-3: #9E7676;
 	--light-hover: #DAC0A3;
+	--light-link: #CD5C08;
 	--dark-bg: #24273a;
 	--dark-1: #cad3f5;
 	--dark-2: #6e738d;
 	--dark-3: #363a4f;
 	--dark-hover: #181926;
+	--dark-link: #8aadf4;
   }
 
 html {
@@ -99,9 +101,11 @@ p {
 	font-weight: 600;
 }
 
-.blog a { text-decoration: underline 3px; text-decoration-color: var(--light-1);}
+.blog a { color: var(--light-link);}
 
-.dark .blog a { text-decoration: underline 2px; text-decoration-color: var(--dark-1);}
+.dark .blog a { color: var(--dark-link);}
+
+.blog a:hover { text-decoration: underline 2px;;}
 
 .blogtime { color: var(--light-2); }
 
