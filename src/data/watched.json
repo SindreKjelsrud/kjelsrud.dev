@@ -1,5 +1,16 @@
 [
     {
+        "title": "Chainsaw Man S01",
+        "type": "anime",
+        "date": {
+            "year": "2023",
+            "month": "12",
+            "day": "20",
+            "string": "2023-12-20"
+        },
+        "my_rating": 4
+    },
+    {
         "title": "Believer 2",
         "type": "movie",
         "date": {
