@@ -4,6 +4,8 @@ description: "The navbar was becoming unwieldy, here you'll see some more of the
 layout: "../layouts/Layout.astro"
 ---
 
+[🔖 Bookmarks](/bookmarks)
+
 [🌐 Connect](/connect)
 
 [📜 CV (under construction)](/)

@@ -21,7 +21,7 @@ Exploring the small web is like taking a relaxed walk through a calm forest, far
 
 For those, like me, feeling overwhelmed by the digital version of a cramped city center, I encourage you to explore the small web instead of those mainstream platforms. I find this much more giving than doomscrolling for hours on end.
 
-But where do you find these websites? Good question! You can find them by just getting recommendations from your friends, which is a reason for you to have a blogroll/feedroll - [**like mine**](/logs/bookmarks). Some other places to discover these websites are:
+But where do you find these websites? Good question! You can find them by just getting recommendations from your friends, which is a reason for you to have a blogroll/feedroll - [**like mine**](/bookmarks). Some other places to discover these websites are:
 
 - [**The Forest**](https://theforest.link/)
 - [**bearblog.dev**](https://bearblog.dev/)
