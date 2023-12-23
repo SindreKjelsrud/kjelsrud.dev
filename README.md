@@ -42,19 +42,30 @@
 2. Start the development server: `yarn dev`
 
 ## 🎨 Color codes
+
+### Light mode
+
 | Color | Hex |
 |-|-|
-| Light bg | ![#FFF8EA](https://via.placeholder.com/10/FFF8EA?text=+) `#FFF8EA` |
-| Coffee brown | ![#594545](https://via.placeholder.com/10/594545?text=+) `#594545` |
-| Tan | ![#815B5B](https://via.placeholder.com/10/815B5B?text=+) `#815B5B` |
-| Light tan | ![#9E7676](https://via.placeholder.com/10/9E7676?text=+) `#9E7676` |
-| Sand | ![#DAC0A3](https://via.placeholder.com/10/DAC0A3?text=+) `#DAC0A3` |
+| Peach Cream | ![#FFF8EA](https://via.placeholder.com/10/FFF8EA?text=+) `#FFF8EA` |
+| Dark Chestnut | ![#594545](https://via.placeholder.com/10/594545?text=+) `#594545` |
+| Dusty Rose | ![#815B5B](https://via.placeholder.com/10/815B5B?text=+) `#815B5B` |
+| Old Rose | ![#9E7676](https://via.placeholder.com/10/9E7676?text=+) `#9E7676` |
+| Pale Taupe | ![#DAC0A3](https://via.placeholder.com/10/DAC0A3?text=+) `#DAC0A3` |
+| Duke Blue | ![#0D47A1](https://via.placeholder.com/10/0D47A1?text=+) `#0D47A1` |
+
+### Dark mode
+
+| Color | Hex |
+|-|-|
 | Catppuccin Base | ![#FFF8EA](https://via.placeholder.com/10/FFF8EA?text=+) `#FFF8EA` |
 | Catppuccin Text | ![#cad3f5](https://via.placeholder.com/10/cad3f5?text=+) `#cad3f5` |
 | Catppuccin Overlay0 | ![#6e738d](https://via.placeholder.com/10/6e738d?text=+) `#6e738d` |
 | Catppuccin Surface0 | ![#363a4f](https://via.placeholder.com/10/363a4f?text=+) `#363a4f` |
 | Catppuccin Crust | ![#181926](https://via.placeholder.com/10/181926?text=+) `#181926` |
+| Catppuccin Maroon | ![#ee99a0](https://via.placeholder.com/10/ee99a0?text=+) `#ee99a0` |
 
 ## Versionlog
 - The first iteration of my website was plain html and css..
 - The second iteration of my website was a Hugo-instance that used a readymade theme called "PaperMod".
+
