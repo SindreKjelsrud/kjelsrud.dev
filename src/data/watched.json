@@ -1,5 +1,17 @@
 [
     {
+        "title": "Dr. Stone S03",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2023",
+            "month": "12",
+            "day": "23",
+            "string": "2023-12-23"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "Chainsaw Man S01",
         "type": "anime",
         "date": {
