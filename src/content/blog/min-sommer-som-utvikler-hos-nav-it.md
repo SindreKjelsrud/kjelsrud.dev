@@ -18,7 +18,7 @@ Oppfølgingen man får, det sosiale miljøet på og utenfor kontoret, teknologie
 
 > **PS:** Her er en [link](https://github.com/navikt/helse-sprik) til prosjektets GitHub repository som jeg jobbet på i sommer!
 
-![setup](/img/nav_setup.jpg)
+![setup](/img/nav_setup.webp)
 > *Slik så pulten min ut for det meste i løpet av sommeren!*
 
 ## Uke 1

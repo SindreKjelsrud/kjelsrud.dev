@@ -10,7 +10,7 @@ October's gone by slow ahahh! This month I've done a little bit of everything, I
 
 ### _månedens varde🪨_
 
-![varde191023](/img/varder/varde191023.jpg)
+![varde191023](/img/varder/varde191023.webp)
 
 > ***Fløyen trail, Bergen*** ~ ***19.10.23***
 
@@ -26,7 +26,7 @@ As promised here is my first selfmade sportsclimbing route, I proudly present **
 
 > PS: we graded it 7- with the consideration of the other grades given in the hall, so maybe it's a bit higher than it should lol..
 
-![teknobamsane](/img/teknobamsane.jpg)
+![teknobamsane](/img/teknobamsane.webp)
 
 ## 🎬 Entertainment
 

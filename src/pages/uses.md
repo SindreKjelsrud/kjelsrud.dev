@@ -10,7 +10,7 @@ layout: "../layouts/Layout.astro"
 
 The following is a list of the  different technologies that I use on a daily basis. This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
 
-![Image of my terminal](/img/term.png)
+![Image of my terminal](/img/term.webp)
 
 For more details about my [**dotfiles click here**](https://github.com/SindreKjelsrud/dotfiles).
 

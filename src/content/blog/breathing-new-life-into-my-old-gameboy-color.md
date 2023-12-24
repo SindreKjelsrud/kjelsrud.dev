@@ -30,4 +30,4 @@ I still haven't soldered on the new board (that's why the logo is kinda scuffed 
 Here is the "finished" product. I'm very satisfied with the outcome as this was my first console mod, like ever. The games look so good and I will definitely enjoy taking this with me on trips forward!  
 I recommend trying this out if you want to bust out your old GameBoy Color again and play some good old games like Pokémon!
 
-![gameboy_showcase](/img/gameboy_showcase.jpg)
+![gameboy_showcase](/img/gameboy_showcase.webp)

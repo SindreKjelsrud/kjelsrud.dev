@@ -16,7 +16,7 @@ Otherwise there has been a lot of jobsearching and participation in innovation-r
 
 ### _månedens varde🪨_
 
-![varde060923](/img/varder/varde060923.jpg)
+![varde060923](/img/varder/varde060923.webp)
 
 > *Løvstien, Bergen ~ 06.09.23*
 
