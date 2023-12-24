@@ -1,7 +1,7 @@
 ---
-title: "Recently ~ May"
+title: "recently ~ may23"
 pubDate: 'Jun 01 2023'
-description: "What I've been doing during the month of May."
+description: "what i've been doing during the month of may."
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "a life filled with spontaneous interests"
 pubDate: 'Dec 23 2023'
-description: "🐇 on falling into rabbit holes"
+description: ""
 draft: false
 ---
 

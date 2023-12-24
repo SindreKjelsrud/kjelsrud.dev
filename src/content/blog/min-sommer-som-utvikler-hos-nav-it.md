@@ -1,7 +1,7 @@
 ---
-title: "(NO) Min sommer som utvikler hos NAV IT"
+title: "(NO) min sommer som utvikler hos nav it"
 pubDate: 'Aug 11 2023'
-description: "Hva jeg har gjort i løpet av sommer-internshipet mitt hos NAV IT."
+description: "hva jeg har gjort i løpet av sommer-internshipet mitt hos nav it."
 draft: false
 ---
 

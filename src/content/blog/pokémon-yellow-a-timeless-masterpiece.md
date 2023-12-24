@@ -1,7 +1,7 @@
 ---
-title: "Pokémon Yellow: A Timeless Masterpiece"
+title: "pokémon yellow: a timeless masterpiece"
 pubDate: 'Dec 11 2023'
-description: "🕹️ Retro Game Love <3"
+description: "🕹️ retro game love"
 draft: false
 ---
 

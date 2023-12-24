@@ -1,7 +1,7 @@
 ---
-title: "Making the Leap - My Journey from Windows to Arch Linux"
+title: "making the leap - my journey from windows to arch linux"
 pubDate: 'Sep 20 2023'
-description: "I use Arch btw."
+description: "i use arch btw."
 draft: false
 ---
 

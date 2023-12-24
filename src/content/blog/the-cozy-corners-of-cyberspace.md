@@ -1,7 +1,7 @@
 ---
-title: "The Cozy Corners of Cyberspace: Rediscovering the Internet's Charm"
+title: "the cozy corners of cyberspace"
 pubDate: 'Dec 17 2023'
-description: "🌌 A journey beyond the mainstream Internet!"
+description: ""
 draft: false
 ---
 

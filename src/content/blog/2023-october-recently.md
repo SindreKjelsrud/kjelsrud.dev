@@ -1,7 +1,7 @@
 ---
-title: "Recently ~ October"
+title: "recently ~ october23"
 pubDate: 'Oct 31 2023'
-description: "What I've been doing during the month of October."
+description: "what i've been doing during the month of october."
 draft: false
 ---
 ## 🪴 Life
@@ -26,10 +26,7 @@ As promised here is my first selfmade sportsclimbing route, I proudly present **
 
 > PS: we graded it 7- with the consideration of the other grades given in the hall, so maybe it's a bit higher than it should lol..
 
-| | |
-| - | - |
-| ![teknobamsane1](/img/teknobamsane1.jpg) | ![teknobamsane2](/img/teknobamsane2.jpg)
- |
+![teknobamsane](/img/teknobamsane.jpg)
 
 ## 🎬 Entertainment
 

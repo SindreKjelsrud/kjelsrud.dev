@@ -1,7 +1,7 @@
 ---
-title: "Recently ~ November"
+title: "recently ~ november23"
 pubDate: 'Dec 03 2023'
-description: "What I've been doing during the month of November."
+description: "what i've been doing during the month of november."
 draft: false
 ---
 ## 🪴 Life
@@ -46,8 +46,6 @@ I've renamed the development-section to  technology since then I can include mor
 - *Breaking Bad S01-S05:* Binged BB for the whole october and november hehe. I've never seen the whole series, just episodes here and there. Loved it!
 
 ## 🎧 Music
-
-I bought [Ramóns'](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) *"SÅ KLART DET GJØR VONDT"* vinyl. Can't wait to hear it when I get home for christmas!
 
 ### _vibes and variations: november's tunes🎶_
 

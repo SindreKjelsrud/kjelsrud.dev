@@ -1,7 +1,7 @@
 ---
-title: "Why you should get the Nintendo Wii in 2023"
+title: "why you should get the nintendo wii in 2023"
 pubDate: 'Feb 06 2023'
-description: "Reason 1: Funky Kong."
+description: ""
 draft: false
 ---
 
