@@ -9,7 +9,7 @@ const { title, description, pubDate } = Astro.props;
 ---
 <SectionContainer>
 	<main class="flex flex-col flex-1 mb-auto break-words mt-4">
-		<article>
+		<article class="flex flex-col gap-1">
 			<h1 class="text-4xl font-extrabold">{title}</h1>
 			<p class="italic">{description}</p>
 			<FormattedDate date={pubDate}/>
