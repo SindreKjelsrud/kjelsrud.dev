@@ -4,16 +4,18 @@ description: "The navbar was becoming unwieldy, here you'll see some more of the
 layout: "../layouts/Layout.astro"
 ---
 
-[🔖 Bookmarks](/bookmarks)
+[🔖 bookmarks](/bookmarks) · collection of my favorite links to content around the web
 
-[🌐 Connect](/connect)
+[🌐 connect](/connect) · ways to reach me across the cyberspace
 
-[📜 CV (under construction)](/)
+[📜 cv (under construction)](/) · my resume
 
-[🌱 Digital garden](/garden)
+[🌱 digital garden](/garden) · wild garden, filled with drafts, ideas and more
 
-[📚 Logs](/logs)
+[📸 gallery (under construction)](/) · moments and places of my life, in pictures
 
-[✨ Uses](/uses)
+[📚 logs](/logs) · logs for movies, series, anime, books, manga et-cetera
 
-[📀 Vinyl collection](/vinyl)
+[✨ uses](/uses) · what i use on a daily basis
+
+[📀 vinyl collection](/vinyl) · all my vinyls
