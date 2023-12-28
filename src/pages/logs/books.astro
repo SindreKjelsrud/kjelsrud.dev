@@ -25,13 +25,13 @@ function getEmojiStars(rating:any) {
     <main class="flex flex-col h-screen gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
 		<h2 class="text-xl font-semibold">2023 - Currently Reading:</h2>
-        <p>📖 Barack Obama: A Promised Land</p>
+        <p>📖 The Summit Of The Gods: Vol.1</p>
         {sortedYears.map(year => (
 			<section>
-				<div class="text-xl font-semibold mb-2">{year} - Finished</div>
+				<div class="flex items-center gap-2 text-xl font-semibold mb-2">{year} - Finished <p class="text-xs">({booksByYear[year].length} entries)</p></div>
 				<ul>
                     {
-                        books.map((book) => (
+                        booksByYear[year].map((book) => (
                             <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
 								<p class="text-s">{book.title} - {book.author}</p>
                                 <p>{getEmojiStars(book.my_rating)}</p>
