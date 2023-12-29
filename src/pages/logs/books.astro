@@ -33,7 +33,7 @@ function getEmojiStars(rating:any) {
                     {
                         booksByYear[year].map((book) => (
                             <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
-								<p class="text-s">{book.title} - {book.author}</p>
+								<p class="text-s">{book.title}</p>
                                 <p>{getEmojiStars(book.my_rating)}</p>
 							</div>
                         ))
