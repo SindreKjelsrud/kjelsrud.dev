@@ -20,3 +20,8 @@ layout: "../layouts/Layout.astro"
 
 - [**mnmlist**](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer 
 - [**Pengeblogg**](https://pengeblogg.bloggnorge.com/) tips & ideas about personal finances, stockmarket et-cetera
+
+##  Videos
+
+- [**alone.**](https://www.youtube.com/watch?v=6jth3t0_ZqE) a video essay exploring why a minecraft player feels so alone
+- [**A Time For Everything**](https://www.youtube.com/watch?v=ODPT6R_zWEc) one of my favorite ski-films by Nikolai Schirmer
