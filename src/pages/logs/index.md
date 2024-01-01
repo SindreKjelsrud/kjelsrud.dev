@@ -7,6 +7,6 @@ All my logs where I keep track of stuff I’ve watched and things I’ve read. I
 
 I don’t use any third-party services for my logs, I store everything in a JSON-format for this website.
 
-[📚 ***Books***](/logs/books)
+[📚 **Books**](/logs/books)
 
-[📺 ***Watched***](/logs/watched)
+[📺 **Watched**](/logs/watched)
