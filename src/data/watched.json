@@ -1,5 +1,29 @@
 [
     {
+        "title": "Night Agent S01",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "01",
+            "string": "2024-01-01"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "JUJUTSU KAISEN S02",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "01",
+            "string": "2024-01-01"
+            },
+        "my_rating": 5
+    },
+    {
         "title": "Dr. Stone S03",
         "type": "anime",
         "date": 
