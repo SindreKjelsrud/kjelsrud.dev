@@ -125,6 +125,18 @@ p {
 	border-color: var(--dark-3);
 }
 
+/* GALLERY */
+.gallery {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.gallery img {
+	border: 15px solid white;
+	margin-bottom: 100px;
+}
+
 /* RANDOM */
 code {
 	display: block;

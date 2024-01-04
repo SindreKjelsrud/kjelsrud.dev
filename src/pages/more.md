@@ -12,7 +12,7 @@ layout: "../layouts/Layout.astro"
 
 [🌱 **digital garden**](/garden) · wild garden, filled with drafts, ideas and more
 
-[📸 **gallery** (under construction)](/) · moments and places of my life, in pictures
+[📸 **gallery**](/gallery) · moments and places of my life, in pictures
 
 [📚 **logs**](/logs) · logs for movies, series, anime, books, manga et-cetera
 
