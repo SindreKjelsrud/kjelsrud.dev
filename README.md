@@ -25,8 +25,11 @@
 ### Features
 
 - Blog
-- Logs
+- Bookmarks
+- Connect
 - Digital garden
+- Gallery
+- Logs
 - Uses
 - Vinyl collection
 
