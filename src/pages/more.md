@@ -8,7 +8,7 @@ layout: "../layouts/Layout.astro"
 
 [🌐 **connect**](/connect) · ways to reach me across the cyberspace
 
-[📜 **cv** (under construction)](/) · my resume
+[📜 **cv**](/cv) · my resume
 
 [🌱 **digital garden**](/garden) · wild garden, filled with drafts, ideas and more
 

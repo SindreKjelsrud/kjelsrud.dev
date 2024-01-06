@@ -1,0 +1,143 @@
+{
+    "basics": {
+      "name": "Sindre Kjelsrud",
+      "email": "kjelsrudsindre@gmail.com",
+      "url": "https://kjelsrud.dev",
+      "summary": "Aspiring IT professional with a commitment to joining Capgemini post-graduation in 2024. Passionate about software development, open source and the dynamic of collaborative teamwork. Eager to leverage my technical and professional expertise to grow in the new role of Software Engineer."
+    },
+    "work": [
+      {
+        "name": "Wide Assessment",
+        "location": "Bergen, Vestland",
+        "position": "Intern",
+        "url": "https://wa.works/",
+        "startDate": "Aug 2023",
+        "endDate": "Dec 2023",
+        "highlights": [
+          "Developed a movie database application as well as an api for it",
+          "Pairprogrammed with another intern the whole internship",
+          "Full-stack development with React.js, C# and PostgreSQL"
+        ]
+      },
+      {
+        "name": "NAV IT",
+        "location": "Helsfyr, Viken",
+        "position": "Summer intern",
+        "url": "https://detsombetyrnoe.no",
+        "startDate": "Jun 2023",
+        "endDate": "Aug 2023",
+        "highlights": [
+          "Developed an error reporting application for the new adoption solution for sick pay",
+          "Worked in a team consisting of our mentor and 2 other interns",
+          "Full-stack development with React.js, Kotlin and PostgreSQL"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Western University of Applied Sciences",
+        "url": "https://www.hvl.no/",
+        "area": "Bachelor in Information Technology",
+        "startDate": "Aug 2021",
+        "endDate": "present"
+      },
+      {
+        "institution": "NLA University College",
+        "url": "https://www.nla.no/",
+        "area": "Secondary School Teacher, class 5-10",
+        "startDate": "Aug 2020",
+        "endDate": "May 2021"
+      },
+      {
+        "institution": "University of South-Eastern Norway",
+        "url": "https://www.hvl.no/",
+        "area": "IT & Information Systems",
+        "startDate": "Aug 2019",
+        "endDate": "May 2020"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "friByte",
+        "position": "Member",
+        "url": "https://fribyte.no/",
+        "startDate": "Sep 2022",
+        "endDate": "present",
+        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
+        "highlights": [
+          "Collaborated in team environments to enhance project efficiency",
+          "Managed and operated Linux servers in a multi-user setting",
+          "Deployed Docker images and containers for application virtualization",
+          "Utilized Git for version control and efficient code management",
+          "Implemented and maintained Wordpress websites for clients"
+        ]
+      },
+      {
+        "organization": "friByte",
+        "position": "PR-manager",
+        "url": "https://fribyte.no/",
+        "startDate": "Jul 2023",
+        "endDate": "Dec 2023",
+        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
+        "highlights": [
+          "Led member recruitment initiatives, expanding team talent and capabilities",
+          "Significantly increased social media presence, effectively enhancing brand visibility",
+          "Achieved a 250% increase in social media followers, adding 65 new followers",
+          "Lead the planning phase of the Bergen Open Source conference, successfully hosting ~90 participants & 5 speakers"
+        ]
+      },
+      {
+        "organization": "friByte",
+        "position": "Leader",
+        "url": "https://fribyte.no/",
+        "startDate": "Jan 2023",
+        "endDate": "Jun 2023",
+        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
+        "highlights": [
+          "Administrative tasks, convene meetings etc.",
+          "Successfully recruited and integrated new team members",
+          "Acquired three new clients, and managed already established client relationships",
+          "Orchestrated a successful Capture The Flag (CTF) event, drawing ~35 participants and enhancing community engagement"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming languages",
+        "keywords": [
+          "C#",
+          "HTML",
+          "CSS",
+          "Java",
+          "JavaScript",
+          "Kotlin",
+          "Python",
+          "TypeScript"
+        ]
+      },
+      {
+        "name": "Libraries & Frameworks",
+        "keywords": [
+          "Astro",
+          "dotNET",
+          "Hugo",
+          "React.js",
+          "Spring",
+          "Svelte",
+          "TailwindCSS"
+        ]
+      },
+      {
+        "name": "Tools",
+        "keywords": [
+          "Docker",
+          "Figma",
+          "Git"
+        ]
+      }
+    ],
+    "meta": {
+      "version": "v1.0.0",
+      "lastModified": "January 06, 2024"
+    }
+  }

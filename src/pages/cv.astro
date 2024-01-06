@@ -1,0 +1,95 @@
+---
+import SectionContainer from '../components/SectionContainer.astro';
+import resume from '../data/resume.json';
+---
+<SectionContainer>
+    <main class="flex flex-col gap-4 mt-4 cv">
+      <h1 class="text-3xl font-extrabold">📜 Sindre Kjelsrud</h1>
+      <blockquote><p><em>Last update: {resume.meta.lastModified}</em></p></blockquote>
+
+      <!-- PROFILE -->
+      <div>
+        <h2>Profile</h2>
+        <p>{resume.basics.summary}</p>
+      </div>
+
+      <!-- WORK -->
+      <div>
+        <h2>Work</h2>
+        <div class="flex flex-col gap-2">
+          {resume.work.map((work) => (
+            <div>
+              <div class="flex gap-2 flex-wrap items-center justify-between">
+                <div class="flex gap-2 flex-wrap items-center">
+                    <h3>{work.position}</h3>
+                    <p><a href={work.url}>{work.name}</a></p>
+                </div>
+                <p class="cv-date">{work.startDate} - {work.endDate}</p>
+              </div>
+                  
+              <ul>
+                {work.highlights.map((highlight) => (
+                    <li>{highlight}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- EDUCATION -->
+      <div>
+        <h2>Education</h2>
+        <div class="flex flex-col gap-2">
+          {resume.education.map((education) => (
+            <div class="flex gap-2 flex-wrap items-center justify-between">
+              <div class="flex gap-2 flex-wrap items-center">
+                <h3>{education.area}</h3>
+                <p><a href={education.url}>{education.institution}</a></p>
+              </div>
+              <p class="cv-date">{education.startDate} - {education.endDate}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+      
+      <!-- VOLUNTEER -->
+      <div>
+        <h2>Volunteer</h2>
+        <div class="flex flex-col gap-2">
+          {resume.volunteer.map((volunteer) => (
+            <div>
+              <div class="flex gap-2 flex-wrap items-center justify-between">
+                <div class="flex gap-2 flex-wrap items-center">
+                  <h3>{volunteer.position}</h3>
+                  <p><a href={volunteer.url}>{volunteer.organization}</a></p>
+                </div>
+                <p class="cv-date">{volunteer.startDate} - {volunteer.endDate}</p>
+              </div>
+
+              <ul>
+                {volunteer.highlights.map((highlight) => (
+                    <li>{highlight}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+      
+      <!-- SKILLS -->
+      <div>
+        <h2>Skills</h2>
+        <div class="flex flex-col gap-2">
+          {resume.skills.map((skill) => (
+            <div>
+              <h3>{skill.name}</h3>
+              <div>
+                {skill.keywords.join(', ')}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+	</main>
+</SectionContainer>
