@@ -20,11 +20,13 @@ function getEmojiStars(rating:any) {
     }
     return stars;
 }
+
+const today = new Date();
 ---
 <SectionContainer>
     <main class="flex flex-col gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
-		<h2 class="text-xl font-semibold">2023 - Currently Reading:</h2>
+		<h2 class="text-xl font-semibold">{today.getFullYear()} - Currently Reading:</h2>
         <p>📖 Multiverses: An Anthology of Alternate Realities</p>
         {sortedYears.map(year => (
 			<section>
