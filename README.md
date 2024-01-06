@@ -27,6 +27,7 @@
 - Blog
 - Bookmarks
 - Connect
+- CV
 - Digital garden
 - Gallery
 - Logs
@@ -35,7 +36,6 @@
 
 ### Future plans:
 
-- [ ] CV
 - [ ] Food wall
 
 ## 🛠️ How do I run it locally?
