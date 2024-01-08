@@ -20,6 +20,7 @@ layout: "../layouts/Layout.astro"
 
 - [**mnmlist**](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer 
 - [**Pengeblogg**](https://pengeblogg.bloggnorge.com/) tips & ideas about personal finances, stockmarket et-cetera
+- [**Lacero**](https://galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir
 
 ##  Videos
 
