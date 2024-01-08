@@ -26,3 +26,5 @@ layout: "../layouts/Layout.astro"
 
 - [**alone.**](https://www.youtube.com/watch?v=6jth3t0_ZqE) a video essay exploring why a minecraft player feels so alone
 - [**A Time For Everything**](https://www.youtube.com/watch?v=ODPT6R_zWEc) one of my favorite ski-films by Nikolai Schirmer
+- [**Stone Locals: Rediscovering the Soul of Climbing**](https://www.youtube.com/watch?v=Yj7ZCYMgSvw) fantastic documentary about the people who climb
+- [**The Yin & Yang of Gerry Lopez**](https://www.youtube.com/watch?v=GeTMPJ2B5VE) such a beautiful and inspiring surfing documentary
