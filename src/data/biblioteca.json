@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "",
+        "title": "Lacero",
+        "date": 
+            {
+              "year": "2024",
+              "month": "01",
+              "day": "08",
+              "string": "2024-01-08"
+            },
+        "my_rating": 5,
+        "author": "Andy Weir"
+    },
+    {
         "isbn": "9788496427877",
         "title": "The Summit of the Gods: Vol.1",
         "date": 
@@ -10,7 +23,7 @@
               "string": "2023-12-29"
             },
         "my_rating": 5,
-        "author": " Jiro Taniguchi, Yumemakura Baku"
+        "author": "Jiro Taniguchi, Yumemakura Baku"
     },
     {
         "isbn": "9788202662721",
