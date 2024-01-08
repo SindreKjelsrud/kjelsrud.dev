@@ -1,5 +1,17 @@
 [
     {
+        "title": "The Yin & Yang of Gerry Lopez",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "08",
+            "string": "2024-01-08"
+            },
+        "my_rating": 5
+    },
+    {
         "title": "The Hitman's Apprentice",
         "type": "movie",
         "date": 
