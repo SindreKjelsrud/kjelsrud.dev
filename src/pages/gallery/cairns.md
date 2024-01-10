@@ -4,7 +4,7 @@ description: ''
 layout: "../../layouts/Gallery.astro"
 ---
 
-[![varde140623](/img/varder/varde140623.webp)](/public/img/varder/varde140623.webp)
+[![varde140623](/img/varder/varde140623.webp)](/img/varder/varde140623.webp)
 
 [![varde290723](/img/varder/varde290723.webp)](/img/varder/varde290723.webp)
 
