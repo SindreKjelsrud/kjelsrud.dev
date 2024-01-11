@@ -1,5 +1,29 @@
 [
     {
+        "title": "14 Peaks: Nothing Is Impossible",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "11",
+            "string": "2024-01-11"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "S.W.A.T.: Firefight",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "11",
+            "string": "2024-01-11"
+            },
+        "my_rating": 1
+    },
+    {
         "title": "PROJECT ICEMAN",
         "type": "movie",
         "date": 
