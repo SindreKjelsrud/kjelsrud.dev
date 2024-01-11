@@ -29,6 +29,7 @@ const today = new Date();
 		<h2 class="text-xl font-semibold">{today.getFullYear()} - Currently Watching:</h2>
         <p>👀 ONE PIECE Egghead Arc</p>
         <p>👀 Star Wars: The Clone Wars S02</p>
+        <p>👀 Banana Fish</p>
         {sortedYears.map(year => (
             <section>
                 <div class="flex items-center gap-2 text-xl font-semibold mb-2">{year} - Finished <p class="text-xs">({tvByYear[year].length} entries)</p></div>
