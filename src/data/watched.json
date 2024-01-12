@@ -1,5 +1,17 @@
 [
     {
+        "title": "Inside Bill's Brain: Decoding Bill Gates",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "12",
+            "string": "2024-01-12"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "14 Peaks: Nothing Is Impossible",
         "type": "movie",
         "date": 
