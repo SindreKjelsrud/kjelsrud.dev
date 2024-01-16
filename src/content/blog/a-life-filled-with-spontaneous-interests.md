@@ -13,8 +13,8 @@ Some weeks later I remembered my girlfriend had some juggling balls laying aroun
 
 Next up, inspired by one of  [**PewDiePie's videos**](https://www.youtube.com/watch?v=L0zminwWyxI) where he learned 7 things in 7 days, I decided to try spinning a frisbee on my finger. Yep, you guessed it right. I started practicing, and although I haven't "mastered" it yet, the process has been a lot of fun.
 
-In a way, these hobbies are more than just pastimes. They are reflections of my curiosity and joy of learning. While each hobby is different, they all share a thread of creativity and challenge that appeals to my nature. Who knows what the next rabbit hole will bring?
+In a way, these hobbies are more than just pastimes. They are reflections of my curiosity and joy of learning. While each hobby is different, they all share a thread of creativity and challenge that appeals to my nature.
 
-Reflecting on these spontaneous interests, I realize they've brought more to my life than just moments of fun and learning. They've taught me the value of adaptability, the joy of small victories, and the importance of stepping out of my comfort zone. In a cliche way these moments of falling into a rabbit holes isn't just about the hobbies themselves, but about the journey of discovery and the endless possibilities that life offers.  
+Reflecting on these spontaneous interests, I realize they've brought more to my life than just moments of fun and learning. They've taught me the value of adaptability, the joy of small victories, and the importance of stepping out of my comfort zone. In a cliche way, these moments of falling into rabbit holes isn't just about the hobbies themselves, but about the journey of discovery and the endless possibilities that life offers.  
 
-On that I would like to end this post my encouring you to explore some new spontaneous interests of yours, or maybe even try some of the stuff I mentioned above! Feel free to [**reach out**](/connect) if you come across something exciting and would like to share it :)
+On that I would like to end this post by encouring you to explore some new spontaneous interests of yours, or maybe even try some of the stuff I mentioned above! Feel free to [**reach out**](/connect) if you come across something exciting and would like to share it :)
