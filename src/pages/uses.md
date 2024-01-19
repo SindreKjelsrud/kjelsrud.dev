@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: January 16, 2024*
+> *Last update: January 19, 2024*
 
 ## What do I use?
 > This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
@@ -77,7 +77,6 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 - [**Gmail**](https://gmail.com). Current email provider, but want to switch.
 - [**LocalSend**](https://localsend.org/#/). For sharing files to nearby devices.
 - [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
-- [**Obsidian**](https://obsidian.md/). Private and flexible notetaking app.
 - [**Spotify**](https://spotify.com/). Current music-service of choice.
 - [**VSCode**](https://github.com/microsoft/vscode). IDE of choice most of the time.
     - [**neovim**](https://neovim.io/). In progress of learning. How do I exit it?
