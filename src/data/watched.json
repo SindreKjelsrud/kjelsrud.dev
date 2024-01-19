@@ -1,5 +1,17 @@
 [
     {
+        "title": "The Wonderful Story of Henry Sugar",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "19",
+            "string": "2024-01-19"
+            },
+        "my_rating": 3
+    }, 
+    {
         "title": "One Piece: Baron Omatsuri and the Secret Island",
         "type": "movie",
         "date": 
