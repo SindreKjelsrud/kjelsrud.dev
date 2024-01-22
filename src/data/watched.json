@@ -1,5 +1,29 @@
 [
     {
+        "title": "Nordfor sola",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "20",
+            "string": "2024-01-20"
+            },
+        "my_rating": 5
+    },
+    {
+        "title": "Cyberbunker: The Criminal Underworld",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "20",
+            "string": "2024-01-20"
+            },
+        "my_rating": 3
+    }, 
+    {
         "title": "The Wonderful Story of Henry Sugar",
         "type": "movie",
         "date": 
