@@ -1,4 +1,16 @@
 [
+     {
+        "title": "Better Call Saul S01",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "01",
+            "day": "22",
+            "string": "2024-01-22"
+            },
+        "my_rating": 3
+    },
     {
         "title": "Nordfor sola",
         "type": "movie",
