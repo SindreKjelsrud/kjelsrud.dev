@@ -1,4 +1,17 @@
 [
+     {
+        "isbn": "9781803362328",
+        "title": "Multiverses: An anthology of alternate realities",
+        "date": 
+            {
+              "year": "2024",
+              "month": "01",
+              "day": "22",
+              "string": "2024-01-22"
+            },
+        "my_rating": 3,
+        "author": "Preston Grassmann, Alix Harrow, Ken Liu, Alastair Reynolds, Clive Barker"
+    },
     {
         "isbn": "",
         "title": "Lacero",
