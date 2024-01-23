@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: January 19, 2024*
+> *Last update: January 23, 2024*
 
 ## What do I use?
 > This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
@@ -38,6 +38,7 @@ Here is a list over some of the peripherals I use for it:
 - **HyperX Alloy Origins 60.** Keyboard of choice, love the 60%.
 - **Razor Ourobous.** My trustworthy mouse of 10 years!
 - **Logitech C920.** Webcam for Discord and school meetings.
+- **AOC 27" Curved gaming monitor**. I like this monitor, it's pretty good.
 
 #### home server (eastblue)
 
@@ -77,6 +78,7 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 - [**Gmail**](https://gmail.com). Current email provider, but want to switch.
 - [**LocalSend**](https://localsend.org/#/). For sharing files to nearby devices.
 - [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
+- [**Signal**](https://signal.org/). Chat service, trying to get more people to use it!
 - [**Spotify**](https://spotify.com/). Current music-service of choice.
 - [**VSCode**](https://github.com/microsoft/vscode). IDE of choice most of the time.
     - [**neovim**](https://neovim.io/). In progress of learning. How do I exit it?
