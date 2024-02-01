@@ -1,5 +1,17 @@
 [
-     {
+    {
+        "title": "5 Centimeters per Second",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "01",
+            "string": "2024-02-01"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Better Call Saul S02",
         "type": "series",
         "date": 
