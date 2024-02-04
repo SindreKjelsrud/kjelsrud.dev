@@ -16,6 +16,8 @@ layout: "../layouts/Layout.astro"
 
 [📚 **logs**](/logs) · logs for movies, series, anime, books, manga et-cetera
 
+[⏳ **now**](/now) · what i'm doing right now
+
 [✨ **uses**](/uses) · what i use on a daily basis
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls
