@@ -1,5 +1,29 @@
 [
     {
+        "title": "Erin Brockovich",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "12",
+            "string": "2024-02-12"
+            },
+        "my_rating": 5
+    },
+    {
+        "title": "Better Call Saul S04",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "08",
+            "string": "2024-02-08"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Sensus",
         "type": "movie",
         "date": 
