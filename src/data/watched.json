@@ -1,4 +1,16 @@
 [
+     {
+        "title": "Banana Fish",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "13",
+            "string": "2024-02-13"
+            },
+        "my_rating": 4
+    },
     {
         "title": "Erin Brockovich",
         "type": "movie",
