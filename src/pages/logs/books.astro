@@ -13,12 +13,20 @@ const booksByYear = books.reduce((acc:any, book) => {
 
 const sortedYears = Object.keys(booksByYear).sort((a:any, b:any) => b - a);
 
+/*
 function getEmojiStars(rating:any) {
     let stars = '';
     for (let i = 0; i < rating; i++) {
         stars += '⭐';
     }
     return stars;
+}
+*/
+
+function getHeartEmoji(rating:any) {
+  let heart = '';
+  if (rating == 5) heart = "❤️";
+  return heart;
 }
 
 const today = new Date();
@@ -36,7 +44,7 @@ const today = new Date();
                         booksByYear[year].map((book) => (
                             <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
 								<p class="text-s">{book.title}</p>
-                                <p>{getEmojiStars(book.my_rating)}</p>
+                                <p>{getHeartEmoji(book.my_rating)}</p>
 							</div>
                         ))
                     }
