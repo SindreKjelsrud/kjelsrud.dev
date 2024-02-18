@@ -8,4 +8,5 @@ Under you'll see different pages where I collect and showcase some of my photogr
 
 This way you can check out moments and places of my life, but keep in mind I'm no photographer lol. These are just my memories and a way to replace Instagram.
 
-- [**my cairn collection**](/gallery/cairns)
+- [**cairn collection**](/gallery/cairns)
+- [**valencia**](/gallery/valencia)
