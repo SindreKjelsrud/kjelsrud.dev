@@ -1,0 +1,29 @@
+---
+import SectionContainer from '../../components/SectionContainer.astro';
+import gallery from '../../data/gallery.json';
+
+const valenciaImages = gallery.valencia.map(image => ({
+  date: image.date.string,
+  image: image.image
+}));
+---
+
+<SectionContainer>
+  <main class="flex flex-col gap-6 py-8">
+    <h1 class="text-4xl font-bold">gallery: valencia</h1>
+    <div class="grid grid-cols-3 gap-4">
+      {
+        valenciaImages.map(image => (
+          <div class="overflow-hidden">
+            <img
+              class="object-contain w-full h-full transform transition duration-500 hover:scale-105"
+              src={image.image}
+              alt="Valencia image"
+              loading="lazy"
+            />
+          </div>
+        ))
+      }
+    </div>
+  </main>
+</SectionContainer>
