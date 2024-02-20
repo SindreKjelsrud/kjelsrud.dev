@@ -1,5 +1,17 @@
 [
     {
+        "title": "Better Call Saul S05",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "20",
+            "string": "2024-02-20"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "Bullet Train",
         "type": "movie",
         "date": 
