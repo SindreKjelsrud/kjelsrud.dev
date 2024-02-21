@@ -1,7 +1,19 @@
 ---
 const today = new Date();
 ---
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
-<footer class="flex justify-center py-5 mt-auto footerbg">
-	{today.getFullYear()} &copy; Sindre Kjelsrud.
+<footer class="flex justify-between py-5 mt-5 mt-auto footerbg">
+	<div>Sindre Kjelsrud &copy; {today.getFullYear()}</div>
+	<div class="social">
+    <a href="https://github.com/SindreKjelsrud" aria-label="Link to my GitHub">
+      <iconify-icon icon="ri:github-line" width="30" height="30" />
+    </a>
+    <a href="https://open.spotify.com/user/kjelsrud!" aria-label="Link to my Spotify">
+				<iconify-icon icon="mdi:spotify" width="30" height="30" />
+		</a>
+  </div>
 </footer>

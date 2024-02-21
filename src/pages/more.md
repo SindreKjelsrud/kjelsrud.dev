@@ -1,6 +1,6 @@
 ---
 title: "More"
-description: "The navbar was becoming unwieldy, here you'll see some more of the various pages."
+description: "Here you'll see some more of the various pages so that the landing page doesn't overflow with pages lol."
 layout: "../layouts/Layout.astro"
 ---
 
@@ -11,10 +11,6 @@ layout: "../layouts/Layout.astro"
 [📜 **cv**](/cv) · my resume
 
 [🌱 **digital garden**](/garden) · wild garden, filled with drafts, ideas and more
-
-[📸 **gallery**](/gallery) · moments and places of my life, in pictures
-
-[📚 **logs**](/logs) · logs for movies, series, anime, books, manga et-cetera
 
 [⏳ **now**](/now) · what i'm doing right now
 
