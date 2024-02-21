@@ -4,7 +4,7 @@ description: ''
 layout: "../layouts/Layout.astro"
 ---
 
-Hello! My name is Sindre Kjelsrud, also known as "**Sid**". I'm a 3rd year Computer Science student at Western University of Applied Sciences, campus Bergen.
+Hello! My name is Sindre Kjelsrud, also known as [**"Sid"**](/avatar.webp). I'm a 3rd year Computer Science student at Western University of Applied Sciences, campus Bergen.
 
 During my free time I like to go bouldering/climbing, play some games on my Wii or try to catch up with One Piece.
 
