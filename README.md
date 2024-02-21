@@ -50,23 +50,22 @@
 
 | Color | Hex |
 |-|-|
-| Peach Cream | ![#FFF8EA](https://via.placeholder.com/10/FFF8EA?text=+) `#FFF8EA` |
-| Dark Chestnut | ![#594545](https://via.placeholder.com/10/594545?text=+) `#594545` |
-| Dusty Rose | ![#815B5B](https://via.placeholder.com/10/815B5B?text=+) `#815B5B` |
-| Old Rose | ![#9E7676](https://via.placeholder.com/10/9E7676?text=+) `#9E7676` |
-| Pale Taupe | ![#DAC0A3](https://via.placeholder.com/10/DAC0A3?text=+) `#DAC0A3` |
-| Duke Blue | ![#0D47A1](https://via.placeholder.com/10/0D47A1?text=+) `#0D47A1` |
+| Coffee Cream | ![#F7F0E8](https://via.placeholder.com/10/F7F0E8?text=+) `#F7F0E8` |
+| Espresso Text | ![#3B2C29](https://via.placeholder.com/10/3B2C29?text=+) `#3B2C29` |
+| Latte Secondary Text | ![#78605C](https://via.placeholder.com/10/78605C?text=+) `#78605C` |
+| Cappuccino Accents | ![#A48B82](https://via.placeholder.com/10/A48B82?text=+) `#A48B82` |
+| Caramel Macchiato | ![#B08968](https://via.placeholder.com/10/B08968?text=+) `#B08968` |
 
 ### Dark mode
 
 | Color | Hex |
 |-|-|
-| Catppuccin Base | ![#FFF8EA](https://via.placeholder.com/10/FFF8EA?text=+) `#FFF8EA` |
-| Catppuccin Text | ![#cad3f5](https://via.placeholder.com/10/cad3f5?text=+) `#cad3f5` |
-| Catppuccin Overlay0 | ![#6e738d](https://via.placeholder.com/10/6e738d?text=+) `#6e738d` |
-| Catppuccin Surface0 | ![#363a4f](https://via.placeholder.com/10/363a4f?text=+) `#363a4f` |
-| Catppuccin Crust | ![#181926](https://via.placeholder.com/10/181926?text=+) `#181926` |
-| Catppuccin Maroon | ![#ee99a0](https://via.placeholder.com/10/ee99a0?text=+) `#ee99a0` |
+| Deep Ocean | ![#0F1A1C](https://via.placeholder.com/10/0F1A1C?text=+) `#0F1A1C` |
+| Mint Foam Text | ![#9AD3BB](https://via.placeholder.com/10/9AD3BB?text=+) `#9AD3BB` |
+| Coral Reef Accent | ![#3A6F7F](https://via.placeholder.com/10/3A6F7F?text=+) `#3A6F7F` |
+| Seaweed Highlight | ![#2B4F60](https://via.placeholder.com/10/2B4F60?text=+) `#2B4F60` |
+| Lagoon | ![#1A333F](https://via.placeholder.com/10/1A333F?text=+) `#1A333F` |
+| Aquamarine | ![#7FCDCD](https://via.placeholder.com/10/7FCDCD?text=+) `#7FCDCD` |
 
 ## Versionlog
 - The first iteration of my website was plain html and css..
