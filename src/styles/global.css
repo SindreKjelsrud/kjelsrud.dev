@@ -1,17 +1,17 @@
 :root {
-	--light-bg: #FFF8EA;
-	--light-1: #594545;
-	--light-2: #815B5B;
-	--light-3: #9E7676;
-	--light-hover: #DAC0A3;
-	--light-link: #0D47A1;
-	--dark-bg: #24273a;
-	--dark-1: #cad3f5;
-	--dark-2: #6e738d;
-	--dark-3: #363a4f;
-	--dark-hover: #181926;
-	--dark-link: #ee99a0;
-  }
+  --light-bg: #F7F0E8; /* Coffee Cream Background */
+  --light-1: #3B2C29; /* Espresso Text */
+  --light-2: #78605C; /* Latte Secondary Text */
+  --light-3: #A48B82; /* Cappuccino Accents */
+  --light-hover: #A48B82; /* Cappuccino Accents (for hover states) */
+  --light-link: #B08968; /* Caramel Macchiato Links */
+  --dark-bg: #0F1A1C; /* Deep Ocean Background */
+  --dark-1: #9AD3BB; /* Mint Foam Text */
+  --dark-2: #3A6F7F; /* Coral Reef Accent */
+  --dark-3: #2B4F60; /* Seaweed Highlight */
+  --dark-hover: #1A333F; /* Lagoon Hover */
+  --dark-link: #7FCDCD; /* Aquamarine Links */
+}
 
 html {
 	background-color: var(--light-bg);
@@ -45,20 +45,18 @@ p {
 }
 
 .social a:nth-child(2) :hover {
-    color: #0A66C2 !important;
-}
-
-.social a:nth-child(3) :hover {
     color: #1DB954 !important;
 }
 
 /* FOOTER */
 .footerbg {
 	background-color: var(--light-bg);
+	border-top: 1px solid var(--light-1);
 }
 
 .dark .footerbg {
 	background-color: var(--dark-bg);
+  	border-top: 1px solid var(--dark-1);
 }
 
 /* BLOG */
