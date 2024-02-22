@@ -12,12 +12,12 @@
       border: 0;
       background: none;
     }
-    .sun { fill: #3B2C29; }
-    .moon { fill: transparent; }
+    .sun { fill: transparent; }
+    .moon { fill: #9AD3BB; }
   
   
-    :global(.dark) .sun { fill: transparent; }
-    :global(.dark) .moon { fill: #9AD3BB; }
+    :global(.dark) .sun { fill: #3B2C29; }
+    :global(.dark) .moon { fill: transparent; }
   </style>
 
 <script is:inline>
@@ -25,16 +25,16 @@
       if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
         return localStorage.getItem('theme');
       }
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        return 'dark';
-      }
+      if (window.matchMedia('(prefers-color-scheme: light)').matches) {
         return 'light';
+      }
+        return 'dark';
     })();
   
-    if (theme === 'light') {
-      document.documentElement.classList.remove('dark');
+    if (theme === 'dark') {
+      document.documentElement.classList.remove('light');
     } else {
-      document.documentElement.classList.add('dark');
+      document.documentElement.classList.add('light');
     }
   
     window.localStorage.setItem('theme', theme);
