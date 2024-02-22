@@ -1,20 +1,20 @@
 ---
 const today = new Date();
 ---
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
-
 <script type="module" client:load>
-  const themeImage = document.getElementById('themeImage');
+  const githubImage = document.getElementById('githubImage');
+  const spotifyImage = document.getElementById('spotifyImage');
+  const webringImage = document.getElementById('webringImage');
 
   const updateImageForTheme = () => {
     const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    themeImage.src = currentTheme === 'dark' ? '/webring_dark.svg' : '/webring_light.svg';
+    githubImage.src = currentTheme === 'dark' ? '/socials/github_dark.svg' : '/socials/github_light.svg';
+    spotifyImage.src = currentTheme === 'dark' ? '/socials/spotify_dark.svg' : '/socials/spotify_light.svg';
+    webringImage.src = currentTheme === 'dark' ? '/socials/webring_dark.svg' : '/socials/webring_light.svg';
   };
 
-  // Initial update on page load
   updateImageForTheme();
 
-  // Listen for theme changes if your theme toggle updates a class or attribute
   const themeToggle = document.getElementById('themeToggle');
   if (themeToggle) {
     themeToggle.addEventListener('click', updateImageForTheme);
@@ -23,15 +23,15 @@ const today = new Date();
 
 <footer class="flex justify-between py-5 mt-5 footerbg">
 	<div>Sindre Kjelsrud &copy; {today.getFullYear()}</div>
-	<div class="flex social">
+	<div class="flex gap-1">
     <a href="https://github.com/SindreKjelsrud" aria-label="Link to my GitHub">
-      <iconify-icon icon="ri:github-line" width="30" height="30" />
+      <img id="githubImage" height="30" width="30" src="/socials/github_light.svg" alt="GitHub"/>
     </a>
     <a href="https://open.spotify.com/user/kjelsrud!" aria-label="Link to my Spotify">
-				<iconify-icon icon="mdi:spotify" width="30" height="30" />
-		</a>
+      <img id="spotifyImage" height="30" width="30" src="/socials/spotify_light.svg" alt="Spotify"/>
+    </a>
     <a href="https://webring.xxiivv.com/#sid" target="_blank" rel="noopener">
-      <img id="themeImage" height="30" width="30" src="/webring_light.svg" alt="XXIIVV webring"/>
+      <img id="webringImage" height="30" width="30" src="/socials/webring_light.svg" alt="XXIIVV webring"/>
     </a>
   </div>
 </footer>
