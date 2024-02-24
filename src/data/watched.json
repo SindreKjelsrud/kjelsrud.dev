@@ -1,4 +1,28 @@
 [
+     {
+        "title": "Better Call Saul S06",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "string": "2024-02-24"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Aksel",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "string": "2024-02-24"
+            },
+        "my_rating": 4
+    },
     {
         "title": "Better Call Saul S05",
         "type": "series",
