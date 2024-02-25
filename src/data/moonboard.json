@@ -5,7 +5,7 @@
       "grade":"6B+",
       "benchmark":false,
       "tries":5,
-      "image":"/img/moonboard_2016/bokchoiboi.png",
+      "image":"/img/moonboard_2016/bokchoiboi.webp",
       "date": 
         {
           "year": "2024",
@@ -19,7 +19,7 @@
       "grade":"6B+",
       "benchmark":true,
       "tries":1,
-      "image":"/img/moonboard_2016/aneasyproblem.png",
+      "image":"/img/moonboard_2016/aneasyproblem.webp",
       "date": 
         {
           "year": "2024",
