@@ -5,6 +5,16 @@
           {
           "year": "2024",
           "month": "02",
+          "day": "25",
+          "string": "2024-02-25"
+          },
+      "image": "/img/gallery/valencia/orangesky.webp"
+    }, 
+    {
+      "date": 
+          {
+          "year": "2024",
+          "month": "02",
           "day": "18",
           "string": "2024-02-18"
           },
@@ -89,6 +99,16 @@
           "string": "2024-02-11"
           },
       "image": "/img/gallery/valencia/aventador_bellus.webp"
+    },
+    {
+      "date": 
+          {
+          "year": "2024",
+          "month": "02",
+          "day": "11",
+          "string": "2024-02-11"
+          },
+      "image": "/img/gallery/valencia/snailshell_bellus.webp"
     }, 
     {
       "date": 
