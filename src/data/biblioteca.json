@@ -1,5 +1,18 @@
 [
-     {
+    {
+        "isbn": "9781529035667",
+        "title": "Permanent Record",
+        "date": 
+            {
+              "year": "2024",
+              "month": "02",
+              "day": "19",
+              "string": "2024-02-19"
+            },
+        "my_rating": 5,
+        "author": "Edward Snowden"
+    },
+    {
         "isbn": "9788492444328",
         "title": "The Summit of the Gods: Vol.2",
         "date": 

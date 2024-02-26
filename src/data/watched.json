@@ -1,4 +1,52 @@
 [
+     {
+        "title": "Citizenfour",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "25",
+            "string": "2024-02-25"
+            },
+        "my_rating": 5
+    },
+    {
+        "title": "Better Call Saul S06",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "string": "2024-02-24"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Aksel",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "string": "2024-02-24"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Better Call Saul S05",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "20",
+            "string": "2024-02-20"
+            },
+        "my_rating": 3
+    },
     {
         "title": "Bullet Train",
         "type": "movie",

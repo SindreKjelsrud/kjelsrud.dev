@@ -35,7 +35,7 @@ const today = new Date();
     <main class="flex flex-col gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
 		<h2 class="text-xl font-semibold">{today.getFullYear()} - Currently Reading:</h2>
-        <p>📖 Permanent Record</p>
+        <p>📖 Invisible Women: Exposing Data Bias in a World Designed for Men</p>
         {sortedYears.map(year => (
 			<section>
 				<div class="flex items-center gap-2 text-xl font-semibold mb-2">{year} - Finished <p class="text-xs">({booksByYear[year].length} entries)</p></div>

@@ -1,18 +1,30 @@
 ---
-import HeaderLink from './HeaderLink.astro';
 import ThemeIcon from './ThemeIcon.astro';
+
+const pathname = new URL(Astro.request.url).pathname;
+const pathSegments = pathname.slice(1).split('/').filter(segment => segment !== '');
+
+function buildHref(index) {
+    if (pathSegments.length === 0) return '/';
+    return ' /' + pathSegments.slice(0, index + 1).join('/');
+}
+
+const isLandingPage = pathSegments.length === 0;
 ---
 
 <header class="flex justify-between items-center py-5">
-	<div>
-		<a class="text-2xl font-semibold" href="/">
-			$ ~/sidski
-		</a>
-		<ThemeIcon />
-	</div>
-	<nav class="flex gap-2">
-		<HeaderLink href="/about">whoami</HeaderLink>
-		<HeaderLink href="/blog">blog</HeaderLink>
-		<HeaderLink href="/more">more</HeaderLink>
-	</nav>
+  <div>
+    <a class="text-l font-semibold" href="/">~</a>
+    {isLandingPage ? <span> / </span> : ''}
+    {pathSegments.map((segment, index) => (
+      <>
+        <span> / </span>
+        <a class="text-l font-semibold italic" href={buildHref(index)}>
+          {segment}
+        </a>
+      </>
+    ))}
+  </div>
+  <ThemeIcon />
 </header>
+

@@ -1,94 +1,117 @@
 [
     {
         "album": "Harry's House",
-        "artist": "Harry Styles"
+        "artist": "Harry Styles",
+        "cover": "/img/vinyl/harrys_house.webp"
     },
     {
         "album": "SÅ KLART DET GJØR VONDT",
-        "artist": "Ramón"
+        "artist": "Ramón",
+        "cover": "/img/vinyl/sa_klart_det_gjor_vondt.webp"
     },
     {
         "album": "Minecraft Volume Alpha",
-        "artist": "C418"
+        "artist": "C418",
+        "cover": "/img/vinyl/minecraft_volume_alpha.webp"
     },
     {
         "album": "College Park",
-        "artist": "Logic"
+        "artist": "Logic",
+        "cover": "/img/vinyl/college_park.webp"
     },
     {
         "album": "Evig Eventyr",
-        "artist": "Ka2"
+        "artist": "Ka2",
+        "cover": "/img/vinyl/evig_eventyr.webp"
     },
     {
         "album": "Grease",
-        "artist": "John Travolta & Olivia Newton-John"
+        "artist": "John Travolta & Olivia Newton-John",
+        "cover": "/img/vinyl/grease.webp"
     },
     {
         "album": "Under Cover",
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "cover": "/img/vinyl/under_cover.webp"
     },
     {
         "album": "The Beatles (The White Album)",
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "cover": "/img/vinyl/the_white_album.webp"
     },
     {
         "album": "Beverly Hills Cop",
-        "artist": "Various artists"
+        "artist": "Various artists",
+        "cover": "/img/vinyl/beverly_hills_cop.webp"
     },
     {
         "album": "One Trick Pony",
-        "artist": "Paul Simon"
+        "artist": "Paul Simon",
+        "cover": "/img/vinyl/one_trick_pony.webp"
     },
     {
         "album": "The Domino Theory",
-        "artist": "Bolland"
+        "artist": "Bolland",
+        "cover": "/img/vinyl/the_domino_theory.jpg"
     },
     {
         "album": "Master of Reality",
-        "artist": "Black Sabbath"
+        "artist": "Black Sabbath",
+        "cover": "/img/vinyl/master_of_reality.webp"
     },
     {
         "album": "Studio Tan",
-        "artist": "Frank Zappa"
+        "artist": "Frank Zappa",
+        "cover": "/img/vinyl/studio_tan.webp"
     },
     {
         "album": "DARE!",
-        "artist": "The Human League"
+        "artist": "The Human League",
+        "cover": "/img/vinyl/dare.webp"
     },
     {
         "album": "Saturday Night Fever",
-        "artist": "Bee Gees"
+        "artist": "Bee Gees",
+        "cover": "/img/vinyl/saturday_night_fever.webp"
     },
     {
         "album": "Cruisin",
-        "artist": "Village People"
+        "artist": "Village People",
+        "cover": "/img/vinyl/cruisin.webp"
     },
     {
         "album": "Turn Back",
-        "artist": "Toto"
+        "artist": "Toto",
+        "cover": "/img/vinyl/turn_back.jpg"
     },
     {
         "album": "Arrival",
-        "artist": "ABBA"
+        "artist": "ABBA",
+        "cover": "/img/vinyl/arrival.webp"
     },
     {
         "album": "Knights of the New Thunder",
-        "artist": "TNT"
+        "artist": "TNT",
+        "cover": "/img/vinyl/knights_of_the_new_thunder.webp"
     },
     {
         "album": "Combat Rock",
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "cover": "/img/vinyl/combat_rock.webp"
     },
     {
         "album": "Asia",
-        "artist": "Asia"
+        "artist": "Asia",
+        "cover": "/img/vinyl/asia.webp"
     },
     {
         "album": "Face Value",
-        "artist": "Phil Collins"
+        "artist": "Phil Collins",
+        "cover": "/img/vinyl/face_value.webp"
     },
     {
         "album": "Greatest Hits",
-        "artist": "Air Supply"
+        "artist": "Air Supply",
+        "cover": "/img/vinyl/greatest_hits_airsupply.webp"
     }
 ]

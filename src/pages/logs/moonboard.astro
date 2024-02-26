@@ -1,0 +1,27 @@
+---
+import SectionContainer from '../../components/SectionContainer.astro';
+import mb from '../../data/moonboard.json';
+const mb2016Setups = mb["2016"];
+---
+
+<SectionContainer>
+  <main class="flex flex-col flex-1 gap-4 mt-4">
+     <h1 class="text-3xl font-extrabold">MoonBoard 2016</h1>
+
+     <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
+            {mb2016Setups.map((mb) => (
+                <div class="flex flex-col items-center">
+                    <img
+                        src={mb.image}
+                        class="bg-yellow-500 rounded-xl"
+                    />
+                    <p class="font-bold text-xs">{mb.route} ({mb.grade}):</p>
+                    <p class="text-xs">
+                      {mb.tries == 1 ? "Flash" : `${mb.tries} tries`} | {mb.benchmark ? "Benchmarked" : "Not benchmarked"} | {mb.date.string}
+                    </p>
+                </div>
+            ))}
+     </div>
+  </main>
+</SectionContainer>
+

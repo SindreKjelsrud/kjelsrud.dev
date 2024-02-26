@@ -1,7 +1,37 @@
 ---
 const today = new Date();
 ---
+<script type="module" client:load>
+  const githubImage = document.getElementById('githubImage');
+  const spotifyImage = document.getElementById('spotifyImage');
+  const webringImage = document.getElementById('webringImage');
 
-<footer class="flex justify-center py-5 mt-auto footerbg">
-	{today.getFullYear()} &copy; Sindre Kjelsrud.
+  const updateImageForTheme = () => {
+    const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+    githubImage.src = currentTheme === 'dark' ? '/socials/github_light.svg' : '/socials/github_dark.svg';
+    spotifyImage.src = currentTheme === 'dark' ? '/socials/spotify_light.svg' : '/socials/spotify_dark.svg';
+    webringImage.src = currentTheme === 'dark' ? '/socials/webring_light.svg' : '/socials/webring_dark.svg';
+  };
+
+  updateImageForTheme();
+
+  const themeToggle = document.getElementById('themeToggle');
+  if (themeToggle) {
+    themeToggle.addEventListener('click', updateImageForTheme);
+  }
+</script>
+
+<footer class="flex justify-between py-5 mt-5 footerbg">
+	<div>Sindre Kjelsrud &copy; {today.getFullYear()}</div>
+	<div class="flex gap-1">
+    <a href="https://github.com/SindreKjelsrud" aria-label="Link to my GitHub" target="_blank">
+      <img id="githubImage" height="30" width="30" src="/socials/github_dark.svg" alt="GitHub"/>
+    </a>
+    <a href="https://open.spotify.com/user/kjelsrud!" aria-label="Link to my Spotify" target="_blank">
+      <img id="spotifyImage" height="30" width="30" src="/socials/spotify_dark.svg" alt="Spotify"/>
+    </a>
+    <a href="https://webring.xxiivv.com/#sid" target="_blank" rel="noopener" target="_blank">
+      <img id="webringImage" height="30" width="30" src="/socials/webring_dark.svg" alt="XXIIVV webring"/>
+    </a>
+  </div>
 </footer>
