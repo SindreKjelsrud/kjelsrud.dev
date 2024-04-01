@@ -3,25 +3,18 @@ title: 'Digital garden'
 description: '🪴 My personal digital garden. A wild garden, filled with drafts, ideas and more.'
 layout: "../../layouts/Layout.astro"
 ---
-> 🌱 *Seedlings for very rough and early ideas.*  
-🌿 *Budding for work I've cleaned up and clarified.*  
-🌳 *Evergreen for work that is reasonably complete.*
+#### Different types of drafts / ideas
 
-#### Machines
+- 🌱 *Seedlings for very rough and early ideas.*  
+- 🌿 *Budding for work I've cleaned up and clarified.*  
+- 🌳 *Evergreen for work that is reasonably complete.*
 
-- [kanto 🌳](/garden/machines/kanto)
+#### Pages
 
-#### Instructions
+[🗒️ **Instructions**](/garden/instructions)
 
-- [Wireguard 🌱](/garden/instructions/wireguard)
-- [Linux 🌱](/garden/instructions/linux)
-- [Windows 🌱](/garden/instructions/windows)
+[ℹ️ **Lifehacks**](/garden/lifehacks)
 
-#### Services
+[⚙️ **Machines**](/garden/machines)
 
-- [sidBot 🌱](/garden/services/sidbot)
-- [sidsIgloo Minecraft Server 🌱](/garden/services/mc_server)
-
-#### Random
-
-- [Wii 🌱](/garden/wii)
+[🔧 **Services**](/garden/services)

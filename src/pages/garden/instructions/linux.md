@@ -10,11 +10,19 @@ layout: "../../../layouts/Layout.astro"
 
 ## ❓ Random
 
-### Remove .DS_Store files
+#### Remove .DS_Store files
 
 `find . -name ".DS_Store" -print -delete`
 
-### Get & Send files/folders from/to Linux machine
+#### Fix clock on Arch after updates
+
+`sudo systemctl restart systemd-timesyncd.servicekeyboard`
+
+#### Fix keyboard layout on Arch after updates
+
+`setxkbmap -layout no`
+
+#### Get & Send files/folders from/to Linux machine
 
 ```
 Get files/folder from Linux machine:
@@ -24,8 +32,9 @@ Send files/folder to Linux machine:
 scp pepenarutorun.png sid@10.0.0.1:~/minecraft-old
 ```
 
-### How to Format USB using the Terminal (link)
+#### How to Format USB using the Terminal
 
+```
 **Step 1: Locate USB Drive**
 
 > Open the terminal and run the following command: ***df***  
@@ -42,3 +51,4 @@ Locate the USB in the list and find the corresponding device.
 **Step 3: Verify USB Drive Formatting**
 
 > Confirm the formatting process has completed successfully: ***sudo fsck /dev/{NAME_OF_DEVICE}***. A USB drive with no files indicates successful formatting.
+```
