@@ -1,5 +1,17 @@
 [
     {
+        "title": "Mad Max",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "string": "2024-04-02"
+            },
+        "my_rating": 3
+    },    
+    {
         "title": "Star Wars: The Clone Wars S03",
         "type": "series",
         "date": 
