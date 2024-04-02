@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "9781421550794",
+        "title": "Neon Genesis Evangelion, Vol. 1",
+        "date": 
+            {
+              "year": "2024",
+              "month": "04",
+              "day": "01",
+              "string": "2024-04-01"
+            },
+        "my_rating": 4,
+        "author": "Yoshiyuki Sadamoto"
+    },    
+    {
         "isbn": "9781784706289",
         "title": "Invisible Women: Exposing Data Bias in a World Designed for Men",
         "date": 
