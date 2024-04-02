@@ -1,5 +1,17 @@
 [
     {
+        "title": "Star Wars: The Clone Wars S03",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "string": "2024-04-02"
+            },
+        "my_rating": 4
+    },   
+    {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
         "type": "movie",
         "date": 
