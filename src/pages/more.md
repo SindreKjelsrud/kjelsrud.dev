@@ -17,3 +17,5 @@ layout: "../layouts/Layout.astro"
 [✨ **uses**](/uses) · what i use on a daily basis
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls
+
+[🗺️ **worldmap**](/worldmap) · map of places I've been in the world
