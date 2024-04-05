@@ -1,5 +1,17 @@
 [
     {
+        "title": "Mad Max Beyond Thunderdome",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "05",
+            "string": "2024-04-05"
+            },
+        "my_rating": 3
+    },    
+    {
         "title": "Mad Max 2",
         "type": "movie",
         "date": 
@@ -45,7 +57,7 @@
             "day": "02",
             "string": "2024-04-02"
             },
-        "my_rating": 5
+        "my_rating": 4
     },   
     {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
