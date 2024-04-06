@@ -1,6 +1,6 @@
 ---
 title: 'sidBot'
-description: '🌱 ~ Very rough notes about the bot'
+description: '🌿 ~ Rough, but cleaned up notes about the bot'
 layout: "../../../layouts/Layout.astro"
 ---
 

@@ -10,7 +10,7 @@ layout: "../layouts/Layout.astro"
 
 [📜 **cv**](/cv) · my resume
 
-[🌱 **digital garden**](/garden) · wild garden, filled with drafts, ideas and more
+[🪴 **digital garden**](/garden) · wild garden, filled with drafts, ideas and more
 
 [⏳ **now**](/now) · what i'm doing right now
 

@@ -8,7 +8,11 @@ layout: "../../../layouts/Layout.astro"
 
 ...
 
-## Commands
+### 🔗 Links
+
+- [Encrypting and Decrypting Directory in Linux](https://www.baeldung.com/linux/encrypting-decrypting-directory)
+
+## 📋 Commands
 
 ### Encrypt Directory Using Symmetric Key
 
