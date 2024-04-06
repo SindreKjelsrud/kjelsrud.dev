@@ -1,5 +1,17 @@
 [
     {
+        "title": "Mad Max: Fury Road",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "06",
+            "string": "2024-04-06"
+            },
+        "my_rating": 5
+    },    
+    {
         "title": "Mad Max Beyond Thunderdome",
         "type": "movie",
         "date": 
