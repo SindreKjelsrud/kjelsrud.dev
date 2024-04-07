@@ -129,6 +129,18 @@ p {
 	margin-bottom: 100px;
 }
 
+.gallery table img {
+  width: 95%;
+  border: 10px solid white;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .gallery table img {
+    border-width: 5px;
+  }
+}
+
 /* CV */
 .cv h2 {
 	font-size: x-large;
