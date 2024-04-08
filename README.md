@@ -12,16 +12,7 @@
 
 ### What I've learned from the project so far
 
-- Coding with HTML, CSS, TypeScript, etc.
-- Usage of SSG/frameworks like Hugo or Astro
-- How to use Git
-- How to selfhost websites using Caddy
-- Some understanding of Github Actions + Pages
-- How to create websites that are faster, more secure, and easier to maintain
-- How to use templates to generate static websites
-- How to use DNS pointers (A- & CNAME records)
-- How to create & use layouts for a static website
-- How to write JSON-docs and use data from it
+Through this project, I've learned HTML, CSS, TypeScript coding, SSG/frameworks like Hugo or Astro usage, Git version control, self-hosting websites with Caddy, Github Actions + Pages basics, creating faster, more secure, and maintainable websites, template-based static website generation, DNS pointers (A- & CNAME records) utilization, static website layout creation, and JSON-docs writing for data usage.
 
 ### Features
 
@@ -36,12 +27,15 @@
 - Now
 - Uses
 - Vinyl collection
+- Worldmap
 
 ### Future plans:
 
-- [ ] Food wall
-- [ ] Worldmap of places I've been
-- [ ] Page filled with quotes I like
+- [ ] Food wall with recipes
+- [ ] Page filled with quotes I like 
+- [ ] Page filled with wine/gin I like
+- [ ] A page dedicated to work I'm proud of
+- [ ] Wishlist page
 
 ## 🛠️ How do I run it locally?
 
@@ -72,7 +66,8 @@
 | Lagoon | ![#1A333F](https://via.placeholder.com/10/1A333F?text=+) `#1A333F` |
 | Aquamarine | ![#7FCDCD](https://via.placeholder.com/10/7FCDCD?text=+) `#7FCDCD` |
 
-## Versionlog
-- The first iteration of my website was plain html and css..
+## 📜 Versionlog
+
+- The first iteration of my website was plain HTML and CSS.
 - The second iteration of my website was a Hugo-instance that used a readymade theme called "PaperMod".
 
