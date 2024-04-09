@@ -1,5 +1,30 @@
 [
     {
+        "isbn": "9781646090174",
+        "title": "Hi Score Girl: Vol. 2",
+        "date": 
+            {
+              "year": "2024",
+              "month": "04",
+              "day": "08",
+              "string": "2024-04-08"
+            },
+        "my_rating": 4,
+        "author": "Rensuke Oshikiri"
+    },     {
+        "isbn": "9781646090167",
+        "title": "Hi Score Girl: Vol. 1",
+        "date": 
+            {
+              "year": "2024",
+              "month": "04",
+              "day": "08",
+              "string": "2024-04-08"
+            },
+        "my_rating": 4,
+        "author": "Rensuke Oshikiri"
+    },    
+    {
         "isbn": "9781421550794",
         "title": "Neon Genesis Evangelion: Vol. 1",
         "date": 
