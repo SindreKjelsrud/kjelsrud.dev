@@ -1,4 +1,16 @@
 [
+     {
+        "title": "Call Me by Your Name",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "24",
+            "string": "2024-04-24"
+            },
+        "my_rating": 3
+    },    
     {
         "title": "Fractale",
         "type": "anime",
