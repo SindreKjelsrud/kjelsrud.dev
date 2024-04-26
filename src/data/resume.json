@@ -36,10 +36,16 @@
     ],
     "education": [
       {
+        "institution": "Universitat Politècnica de València",
+        "url": "https://www.upv.es/",
+        "area": "Exchange semester",
+        "startDate": "Jan 2024",
+        "endDate": "present"
+      },
+      {
         "institution": "Western University of Applied Sciences",
         "url": "https://www.hvl.no/",
         "area": "Bachelor in Information Technology",
-        "description": "Did an exchange semester @ UPV in Valencia, Spain during my 6th semester." ,
         "startDate": "Aug 2021",
         "endDate": "present"
       },
@@ -70,8 +76,18 @@
           "Collaborated in team environments to enhance project efficiency",
           "Managed and operated Linux servers",
           "Deployed Docker images and containers for application virtualization",
-          "Utilized Git for version control and efficient code management",
           "Implemented and maintained Wordpress websites for clients"
+        ]
+      },
+      {
+        "organization": "Bergen Open Source conference",
+        "position": "Leader",
+        "url": "https://boskonf.no/en",
+        "startDate": "2023",
+        "endDate": "2023",
+        "summary": "Bergen Open Source is an annual tech conference in Bergen driven by students and other volunteers. The conference focuses on open source code and open data.",
+        "highlights": [
+          "Initiated and led the first-ever Bergen Open Source conference in 2023, overseeing all planning phases and successfully hosting over 70 participants & 5 speakers"
         ]
       },
       {
@@ -85,8 +101,7 @@
           "Led member recruitment initiatives, expanding team talent and capabilities",
           "Significantly increased social media presence, effectively enhancing brand visibility",
           "Achieved a 250% increase in social media followers, adding 65 new followers",
-          "Lead the planning phase of the Bergen Open Source conference, successfully hosting ~90 participants & 5 speakers"
-        ]
+          "Coordinated PR-efforts for the Bergen Open Source conference, contributing to its successful first year"]
       },
       {
         "organization": "friByte",
@@ -108,8 +123,6 @@
         "name": "Programming languages",
         "keywords": [
           "C#",
-          "HTML",
-          "CSS",
           "Java",
           "JavaScript",
           "Kotlin",
@@ -139,6 +152,6 @@
       }
     ],
     "meta": {
-      "lastModified": "March 12, 2024"
+      "lastModified": "April 26, 2024"
     }
 }

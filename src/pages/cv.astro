@@ -22,7 +22,7 @@ import resume from '../data/resume.json';
               <div class="flex gap-2 flex-wrap items-center justify-between">
                 <div class="flex gap-2 flex-wrap items-center">
                     <h3>{work.position}</h3>
-                    <p><a href={work.url}>{work.name}</a></p>
+                    <p class="font-bold"><a href={work.url}>{work.name}</a></p>
                 </div>
                 <p class="cv-date">{work.startDate} - {work.endDate}</p>
               </div>
@@ -45,7 +45,7 @@ import resume from '../data/resume.json';
             <div class="flex md:gap-2 flex-wrap items-center justify-between">
               <div class="flex md:gap-2 flex-wrap items-center">
                 <h3>{education.area}</h3>
-                <p><a href={education.url}>{education.institution}</a></p>
+                <p class="font-bold"><a href={education.url}>{education.institution}</a></p>
               </div>
               <p class="cv-date">{education.startDate} - {education.endDate}</p>
               {education.description ? 
@@ -65,7 +65,7 @@ import resume from '../data/resume.json';
               <div class="flex gap-2 flex-wrap items-center justify-between">
                 <div class="flex gap-2 flex-wrap items-center">
                   <h3>{volunteer.position}</h3>
-                  <p><a href={volunteer.url}>{volunteer.organization}</a></p>
+                  <p class="font-bold"><a href={volunteer.url}>{volunteer.organization}</a></p>
                 </div>
                 <p class="cv-date">{volunteer.startDate} - {volunteer.endDate}</p>
               </div>
