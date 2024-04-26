@@ -19,13 +19,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '21'
-          cache: 'yarn'
       
+      - name: Install pnpm
+        run: npm install -g @pnpm/exe
+
       - name: Install dependencies
-        run: yarn install 
+        run: pnpm install 
 
       - name: Build Astro website 
-        run: yarn build 
+        run: pnpm build
 
       - name: Rsync files
         uses: burnett01/rsync-deployments@5.2

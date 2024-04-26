@@ -39,9 +39,9 @@ Through this project, I've learned HTML, CSS, TypeScript coding, SSG/frameworks 
 
 ## 🛠️ How do I run it locally?
 
-1. Install the dependencies: `yarn`
+1. Install the dependencies: `pnpm i`
 
-2. Start the development server: `yarn dev`
+2. Start the development server: `pnpm dev`
 
 ## 🎨 Color codes
 
