@@ -1,5 +1,17 @@
 [
      {
+        "title": "Plastic Memories",
+        "type": "anime",
+        "date": 
+            {
+            "year": "2024",
+            "month": "04",
+            "day": "29",
+            "string": "2024-04-29"
+            },
+        "my_rating": 3
+    },    
+    {
         "title": "Call Me by Your Name",
         "type": "movie",
         "date": 
