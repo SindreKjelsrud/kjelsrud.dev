@@ -10,24 +10,13 @@
 
 ## 📝 Info
 
-### What I've learned from the project so far
+This is my personal website that I started on during my bachelor-studies. Currently it's on its third version, which is coded in Astro!
 
-Through this project, I've learned HTML, CSS, TypeScript coding, SSG/frameworks like Hugo or Astro usage, Git version control, self-hosting websites with Caddy, Github Actions + Pages basics, creating faster, more secure, and maintainable websites, template-based static website generation, DNS pointers (A- & CNAME records) utilization, static website layout creation, and JSON-docs writing for data usage.
+Through this project I've learned a lot. Some of this include working with different web-technologies, like TypeScript, Hugo and Astro, getting more familiar with Git, self-hosting the website with Caddy and using GitHub Actions to build and deploy it, as well as grapsing how DNS pointers are utilized and how to structure JSON-docs.
 
-### Features
+## 🔋 Features
 
-- Blog
-- Bookmarks
-- Connect
-- CV
-- Digital garden
-- Gallery
-- Guestbook
-- Logs
-- Now
-- Uses
-- Vinyl collection
-- Worldmap
+The webpage offers a variety of features including a blog, bookmarks, ways to reach me, my CV, a digital garden for evolving ideas, a gallery for sharing images, a guestbook, logs for books, movies, etc., /now & /uses, my vinyl collection, and a world map showing all the places I've been.
 
 ### Future plans:
 
@@ -37,7 +26,7 @@ Through this project, I've learned HTML, CSS, TypeScript coding, SSG/frameworks 
 - [ ] A page dedicated to work I'm proud of
 - [ ] Wishlist page
 
-## 🛠️ How do I run it locally?
+## 🤸 Quick Start
 
 1. Install the dependencies: `pnpm i`
 
