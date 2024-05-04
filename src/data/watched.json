@@ -1,5 +1,17 @@
 [
      {
+        "title": "The Founder",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "05",
+            "day": "04",
+            "string": "2024-05-04"
+            },
+        "my_rating": 5
+    },    
+    {
         "title": "Plastic Memories",
         "type": "anime",
         "date": 
