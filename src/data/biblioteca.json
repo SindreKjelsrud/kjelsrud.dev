@@ -1,7 +1,20 @@
 [
+  {
+        "isbn": "9781646090204",
+        "title": "Hi Score Girl 05",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "06",
+              "string": "2024-05-06"
+            },
+        "my_rating": 4,
+        "author": "Rensuke Oshikiri"
+   },
    {
         "isbn": "9781646090198",
-        "title": "Hi Score Girl: Vol. 4",
+        "title": "Hi Score Girl 04",
         "date": 
             {
               "year": "2024",
@@ -14,7 +27,7 @@
    },
    {
         "isbn": "9781646090181",
-        "title": "Hi Score Girl: Vol. 3",
+        "title": "Hi Score Girl 03",
         "date": 
             {
               "year": "2024",
@@ -27,7 +40,7 @@
     },
     {
         "isbn": "9781646090174",
-        "title": "Hi Score Girl: Vol. 2",
+        "title": "Hi Score Girl 02",
         "date": 
             {
               "year": "2024",
@@ -40,7 +53,7 @@
     },
     {
         "isbn": "9781646090167",
-        "title": "Hi Score Girl: Vol. 1",
+        "title": "Hi Score Girl 01",
         "date": 
             {
               "year": "2024",
