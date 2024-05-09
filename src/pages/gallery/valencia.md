@@ -6,6 +6,9 @@ layout: "../../layouts/Gallery.astro"
 
 | | | |
 | - | - | - |
+| [![](/img/gallery/valencia/CIMG0677.webp)](/img/gallery/valencia/CIMG0677.webp) | [![](/img/gallery/valencia/CIMG0676.webp)](/img/gallery/valencia/CIMG0676.webp) | [![](/img/gallery/valencia/CIMG0675.webp)](/img/gallery/valencia/CIMG0675.webp) |
+| [![](/img/gallery/valencia/CIMG0674.webp)](/img/gallery/valencia/CIMG0674.webp) | [![](/img/gallery/valencia/CIMG0673.webp)](/img/gallery/valencia/CIMG0673.webp) | [![](/img/gallery/valencia/CIMG0672.webp)](/img/gallery/valencia/CIMG0672.webp) |
+| [![](/img/gallery/valencia/CIMG0667.webp)](/img/gallery/valencia/CIMG0667.webp) | [![](/img/gallery/valencia/CIMG0668.webp)](/img/gallery/valencia/CIMG0668.webp) | [![](/img/gallery/valencia/CIMG0669.webp)](/img/gallery/valencia/CIMG0669.webp) |
 | [![](/img/gallery/valencia/kitefestival.webp)](/img/gallery/valencia/kitefestival.webp) | [![](/img/gallery/valencia/tikitacos.webp)](/img/gallery/valencia/tikitacos.webp) | [![](/img/gallery/valencia/overviewofcity.webp)](/img/gallery/valencia/overviewofcity.webp) |
 | [![](/img/gallery/valencia/pinkleaves.webp)](/img/gallery/valencia/pinkleaves.webp) | [![](/img/gallery/valencia/signinwater.webp)](/img/gallery/valencia/signinwater.webp) | [![](/img/gallery/valencia/icecreamishappiness.webp)](/img/gallery/valencia/icecreamishappiness.webp) |
 | [![](/img/gallery/valencia/beeronbench.webp)](/img/gallery/valencia/beeronbench.webp) | [![](/img/gallery/valencia/apartmentcomplex.webp)](/img/gallery/valencia/apartmentcomplex.webp) | [![](/img/gallery/valencia/streetart.webp)](/img/gallery/valencia/streetart.webp) |
