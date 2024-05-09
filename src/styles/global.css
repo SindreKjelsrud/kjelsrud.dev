@@ -110,6 +110,7 @@ p {
 .borderbottom {
 	border-bottom-width: 2px;
 	border-color: var(--dark-3);
+  font-size: large;
 }
 
 .dark .borderbottom {

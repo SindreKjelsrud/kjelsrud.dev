@@ -34,11 +34,18 @@ const today = new Date();
 <SectionContainer>
     <main class="flex flex-col gap-4 mt-4">
 		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
-		<h2 class="text-xl font-semibold">{today.getFullYear()} - Currently Reading:</h2>
-        <p>📖 Maskiner som tenker</p>
-        {sortedYears.map(year => (
+    <h2 class="text-xl font-semibold">on the shelf</h2>
+    <ul class="flex flex-col text-s gap-2 text-l">
+      <li class="borderbottom">📚 Dune</li>
+      <li class="borderbottom">📚 The Intelligent Investor (NO)</li>
+      <li class="borderbottom">📚 The Summit of The Gods: Vol.3 - Vol.5</li>
+      <li class="borderbottom">📚 Star Wars: The Tales of Kenobi</li>
+    </ul>
+		<h2 class="text-xl font-semibold">on the nightstand</h2>
+        <p class="borderbottom">📖 Maskiner som tenker</p>
+    {sortedYears.map(year => (
 			<section>
-				<div class="flex items-center gap-2 text-xl font-semibold mb-2">{year} - Finished <p class="text-xs">({booksByYear[year].length} entries)</p></div>
+				<div class="flex items-center gap-2 text-xl font-semibold mb-2">{year}<p class="text-xs">({booksByYear[year].length} entries)</p></div>
 				<ul>
                     {
                         booksByYear[year].map((book) => (
