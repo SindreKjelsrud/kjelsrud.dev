@@ -20,4 +20,6 @@ layout: "../layouts/Layout.astro"
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls
 
+[🎁 **wishlist**](/wish) · my public wishlist
+
 [🗺️ **worldmap**](/worldmap) · map of places I've been in the world
