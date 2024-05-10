@@ -1,0 +1,22 @@
+---
+import SectionContainer from '../components/SectionContainer.astro';
+import quotes from '../data/quotes.json'
+const today = new Date();
+---
+<SectionContainer>
+    <main class="flex flex-col gap-4 mt-4">
+		<h1 class="text-3xl font-extrabold">💬 quotes</h1>
+      <section>
+        <ul>
+           {
+             quotes.map(quote => (
+               <li class="flex flex-col mb-10 break-words">
+                 <p class="italic">{quote.quote}</p>
+                 <p class="author">- {quote.author}</p>
+               </li>
+             ))
+           }
+        </ul>
+      </section>
+	</main>
+</SectionContainer>

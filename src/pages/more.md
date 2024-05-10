@@ -14,6 +14,8 @@ layout: "../layouts/Layout.astro"
 
 [⏳ **now**](/now) · what i'm doing right now
 
+[💬 **quotes**](/quotes) · my favorite quotes
+
 [✨ **uses**](/uses) · what i use on a daily basis
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls

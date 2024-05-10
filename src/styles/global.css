@@ -158,6 +158,11 @@ p {
 	font-size: small;
 }
 
+.dark .cv-date {
+	color: var(--light-2);
+	font-size: small;
+}
+
 .cv a { 
 	color: var(--dark-link);
 	font-size: small;
@@ -185,6 +190,18 @@ p {
 .dark .guestbook a:hover {
   background-color: var(--light-link);
 }
+
+/* QUOTES */ 
+.author {
+	color: var(--dark-2);
+	font-size: medium;
+}
+
+.dark .author {
+	color: var(--light-2);
+	font-size: medium;
+}
+
 /* RANDOM */
 code {
 	display: inline;
