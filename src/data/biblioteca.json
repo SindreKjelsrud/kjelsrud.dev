@@ -1,5 +1,18 @@
 [
    {
+        "isbn": "9781646090242",
+        "title": "Hi Score Girl 09",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "10",
+              "string": "2024-05-10"
+            },
+        "my_rating": 4,
+        "author": "Rensuke Oshikiri"
+   },
+   {
         "isbn": "9781646090235",
         "title": "Hi Score Girl 08",
         "date": 
