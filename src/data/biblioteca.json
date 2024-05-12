@@ -1,4 +1,17 @@
 [
+    {
+        "isbn": "9788248932505",
+        "title": "Maskiner som tenker",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "11",
+              "string": "2024-05-11"
+            },
+        "my_rating": 5,
+        "author": "Inga Strümke"
+   },
    {
         "isbn": "9781646090259",
         "title": "Hi Score Girl 10",
