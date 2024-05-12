@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "9781591161844",
+        "title": "One Piece: Vol.3",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "12",
+              "string": "2024-05-12"
+            },
+        "my_rating": 3,
+        "author": "Eiichiro Oda"
+    },    
+    {
         "isbn": "9788248932505",
         "title": "Maskiner som tenker",
         "date": 
