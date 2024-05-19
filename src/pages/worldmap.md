@@ -9,7 +9,8 @@ layout: "../layouts/Layout.astro"
 
 ### 🌍 List of countries shown in map
 
-- **Asia:** Indonesia, Morocco, United Arab Emirates
+- **Africa:** Morocco
+- **Asia:** Indonesia, United Arab Emirates
 - **Europe:** Bosnia and Herzegovina, Croatia, Denmark, Finland, France, Germany, Greece, Iceland, Netherlands, Norway, Spain, Sweden, United Kingdom
 
 ### ✈️ Places I want to visit
