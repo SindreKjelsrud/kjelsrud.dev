@@ -1,5 +1,31 @@
 [
     {
+        "isbn": "9788822651518",
+        "title": "One Piece: Vol.108",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "19",
+              "string": "2024-05-19"
+            },
+        "my_rating": 5,
+        "author": "Eiichiro Oda"
+    },
+    {
+        "isbn": "9781974749799",
+        "title": "One Piece: Vol.107",
+        "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "19",
+              "string": "2024-05-19"
+            },
+        "my_rating": 5,
+        "author": "Eiichiro Oda"
+    },   
+    {
         "isbn": "9781591161844",
         "title": "One Piece: Vol.3",
         "date": 
