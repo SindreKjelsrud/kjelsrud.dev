@@ -1,5 +1,17 @@
 [
     {
+        "title": "The Matrix Resurrections",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "05",
+            "day": "20",
+            "string": "2024-05-20"
+            },
+        "my_rating": 4
+    },   
+    {
         "title": "Star Wars: The Clone Wars S04",
         "type": "series",
         "date": 
