@@ -1,5 +1,17 @@
 [
     {
+        "title": "Live to 100: Secrets of the Blue Zones",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "05",
+            "day": "27",
+            "string": "2024-05-27"
+            },
+        "my_rating": 4
+    },   
+    {
         "title": "The Matrix Resurrections",
         "type": "movie",
         "date": 
