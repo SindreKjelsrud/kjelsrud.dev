@@ -16,15 +16,7 @@ Through this project I've learned a lot. Some of this include working with diffe
 
 ## 🔋 Features
 
-The webpage offers a variety of features including a blog, bookmarks, ways to reach me, my CV, a digital garden for evolving ideas, a gallery for sharing images, a guestbook, logs for books, movies, etc., /now & /uses, my vinyl collection, and a world map showing all the places I've been.
-
-### Future plans:
-
-- [ ] Food wall with recipes
-- [ ] Page filled with quotes I like 
-- [ ] Page filled with wine/gin I like
-- [ ] A page dedicated to work I'm proud of
-- [ ] Wishlist page
+The webpage offers a variety of features including a blog, bookmarks, ways to reach me, my CV, a digital garden for evolving ideas, a gallery for sharing images, a guestbook, logs for books, movies, etc., /now, /uses and /wish, my favorite quotes, my vinyl collection, a world map showing all the places I've been, and a todo list for the website.
 
 ## 🤸 Quick Start
 
