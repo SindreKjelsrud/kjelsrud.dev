@@ -16,6 +16,8 @@ layout: "../layouts/Layout.astro"
 
 [💬 **quotes**](/quotes) · my favorite quotes
 
+[📋 **todo**](/todo) · todo list for website
+
 [✨ **uses**](/uses) · what i use on a daily basis
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls
