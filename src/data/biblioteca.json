@@ -1,444 +1,483 @@
-[
+{
+  "name": "Sid's Biblioteca",
+  "url": "https://kjelsrud.dev/",
+  "bio": "A collection of books I've read with some ratings aswell.",
+  "lists":[
     {
-        "isbn": "9788822651518",
-        "title": "One Piece: Vol.108",
-        "date": 
-            {
-              "year": "2024",
-              "month": "05",
-              "day": "19",
-              "string": "2024-05-19"
-            },
-        "my_rating": 5,
-        "author": "Eiichiro Oda"
+      "name": "Currently reading",
+      "url": "https://kjelsrud.dev/logs/books/",
+      "books":[
+        {
+          "title": "The Intelligent Investor (NO)",
+          "isbn": 9788271463823,
+          "author": "Benjamin Graham"
+        }
+      ]
     },
     {
-        "isbn": "9781974749799",
-        "title": "One Piece: Vol.107",
-        "date": 
+      "name": "On the shelf",
+      "url": "https://kjelsrud.dev/logs/books/",
+      "books":[
+        {
+          "title": "Dune",
+          "isbn": 9780340960196,
+          "author": "Frank Herbert"
+        },
+        {
+          "title": "The Summit of The Gods: Vol.3 - Vol.5"
+        },
+        {
+          "title": "Star Wars: The Tales of Kenobi"
+        }
+      ]
+    },
+    {
+      "name": "Read",
+      "url": "https://kjelsrud.dev/logs/books/",
+      "books":[
+        {
+          "title": "One Piece: Vol.108",
+          "isbn": 9788822651518,
+          "author": "Eiichiro Oda",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "19",
               "string": "2024-05-19"
             },
-        "my_rating": 5,
-        "author": "Eiichiro Oda"
-    },   
-    {
-        "isbn": "9781591161844",
-        "title": "One Piece: Vol.3",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "One Piece: Vol.107",
+          "isbn": 9781974749799,
+          "author": "Eiichiro Oda",
+          "date": 
+            {
+              "year": "2024",
+              "month": "05",
+              "day": "19",
+              "string": "2024-05-19"
+            },
+          "rating": 5
+        },
+        {
+          "title": "One Piece: Vol.3",
+          "isbn": 9781591161844,
+          "author": "Eiichiro Oda",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "12",
               "string": "2024-05-12"
             },
-        "my_rating": 3,
-        "author": "Eiichiro Oda"
-    },    
-    {
-        "isbn": "9788248932505",
-        "title": "Maskiner som tenker",
-        "date": 
+          "rating": 3
+        },    
+        {
+          "title": "Maskiner som tenker",
+          "isbn": 9788248932505,
+          "author": "Inga Strümke",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "11",
               "string": "2024-05-11"
             },
-        "my_rating": 5,
-        "author": "Inga Strümke"
-   },
-   {
-        "isbn": "9781646090259",
-        "title": "Hi Score Girl 10",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "Hi Score Girl 10",
+          "isbn": 9781646090259,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "10",
               "string": "2024-05-10"
             },
-        "my_rating": 5,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090242",
-        "title": "Hi Score Girl 09",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "Hi Score Girl 09",
+          "isbn": 9781646090242,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "10",
               "string": "2024-05-10"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090235",
-        "title": "Hi Score Girl 08",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Hi Score Girl 08",
+          "isbn": 9781646090235,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "10",
               "string": "2024-05-10"
             },
-        "my_rating": 5,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090228",
-        "title": "Hi Score Girl 07",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "Hi Score Girl 07",
+          "isbn": 9781646090228,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "10",
               "string": "2024-05-10"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-   },  
-   {
-        "isbn": "",
-        "title": "YOU HAVE TOO MUCH SHIT",
-        "date": 
+          "rating": 4
+        },  
+        {
+          "title": "YOU HAVE TOO MUCH SHIT",
+          "isbn": null,
+          "author": "Chris Thomas",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "07",
               "string": "2024-05-07"
             },
-        "my_rating": 3,
-        "author": "Chris Thomas"
-   },
-   {
-        "isbn": "9781646090211",
-        "title": "Hi Score Girl 06",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Hi Score Girl 06",
+          "isbn": 9781646090211,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "06",
               "string": "2024-05-06"
             },
-        "my_rating": 5,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090204",
-        "title": "Hi Score Girl 05",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "Hi Score Girl 05",
+          "isbn": 9781646090204,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "05",
               "day": "06",
               "string": "2024-05-06"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090198",
-        "title": "Hi Score Girl 04",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Hi Score Girl 04",
+          "isbn": 9781646090198,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "04",
               "day": "29",
               "string": "2024-04-29"
             },
-        "my_rating": 3,
-        "author": "Rensuke Oshikiri"
-   },
-   {
-        "isbn": "9781646090181",
-        "title": "Hi Score Girl 03",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Hi Score Girl 03",
+          "isbn": 9781646090181,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "04",
               "day": "29",
               "string": "2024-04-29"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-    },
-    {
-        "isbn": "9781646090174",
-        "title": "Hi Score Girl 02",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Hi Score Girl 02",
+          "isbn": 9781646090174,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "04",
               "day": "08",
               "string": "2024-04-08"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-    },
-    {
-        "isbn": "9781646090167",
-        "title": "Hi Score Girl 01",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Hi Score Girl 01",
+          "isbn": 9781646090167,
+          "author": "Rensuke Oshikiri",
+          "date": 
             {
               "year": "2024",
               "month": "04",
               "day": "08",
               "string": "2024-04-08"
             },
-        "my_rating": 4,
-        "author": "Rensuke Oshikiri"
-    },    
-    {
-        "isbn": "9781421550794",
-        "title": "Neon Genesis Evangelion: Vol. 1",
-        "date": 
+          "rating": 4
+        },    
+        {
+          "title": "Neon Genesis Evangelion: Vol. 1",
+          "isbn": 9781421550794,
+          "author": "Yoshiyuki Sadamoto",
+          "date": 
             {
               "year": "2024",
               "month": "04",
               "day": "01",
               "string": "2024-04-01"
             },
-        "my_rating": 4,
-        "author": "Yoshiyuki Sadamoto"
-    },    
-    {
-        "isbn": "9781784706289",
-        "title": "Invisible Women: Exposing Data Bias in a World Designed for Men",
-        "date": 
+          "rating": 4
+        },    
+        {
+          "title": "Invisible Women: Exposing Data Bias in a World Designed for Men",
+          "isbn": 9781784706289,
+          "author": "Caroline Criado Perez",
+          "date": 
             {
               "year": "2024",
               "month": "03",
               "day": "18",
               "string": "2024-03-18"
             },
-        "my_rating": 5,
-        "author": "Caroline Criado Perez"
-    },    
-    {
-        "isbn": "9780575078697",
-        "title": "One Piece: Vol.2",
-        "date": 
+          "rating": 5
+        },    
+        {
+          "title": "One Piece: Vol.2",
+          "isbn": 9780575078697,
+          "author": "Eiichiro Oda",
+          "date": 
             {
               "year": "2024",
               "month": "03",
               "day": "08",
               "string": "2024-03-08"
             },
-        "my_rating": 4,
-        "author": "Eiichiro Oda"
-    },    
-    {
-        "isbn": "9781569319017",
-        "title": "One Piece: Vol.1",
-        "date": 
+          "rating": 4
+        },    
+        {
+          "title": "One Piece: Vol.1",
+          "isbn": 9781569319017,
+          "author": "Eiichiro Oda",
+          "date": 
             {
               "year": "2024",
               "month": "03",
               "day": "06",
               "string": "2024-03-06"
             },
-        "my_rating": 5,
-        "author": "Eiichiro Oda"
-    },   
-    {
-        "isbn": "9781529035667",
-        "title": "Permanent Record",
-        "date": 
+          "rating": 5
+        },   
+        {
+          "title": "Permanent Record",
+          "isbn": 9781529035667,
+          "author": "Edward Snowden",
+          "date": 
             {
               "year": "2024",
               "month": "02",
               "day": "19",
               "string": "2024-02-19"
             },
-        "my_rating": 5,
-        "author": "Edward Snowden"
-    },
-    {
-        "isbn": "9788492444328",
-        "title": "The Summit of the Gods: Vol.2",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "The Summit of the Gods: Vol.2",
+          "isbn": 9788492444328,
+          "author": "Jiro Taniguchi, Yumemakura Baku",
+          "date": 
             {
               "year": "2024",
               "month": "01",
               "day": "23",
               "string": "2024-01-23"
             },
-        "my_rating": 4,
-        "author": "Jiro Taniguchi, Yumemakura Baku"
-    },
-    {
-        "isbn": "9781803362328",
-        "title": "Multiverses: An anthology of alternate realities",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Multiverses: An anthology of alternate realities",
+          "isbn": 9781803362328,
+          "author": "Preston Grassmann, Alix Harrow, Ken Liu, Alastair Reynolds, Clive Barker",
+          "date": 
             {
               "year": "2024",
               "month": "01",
               "day": "22",
               "string": "2024-01-22"
             },
-        "my_rating": 3,
-        "author": "Preston Grassmann, Alix Harrow, Ken Liu, Alastair Reynolds, Clive Barker"
-    },
-    {
-        "isbn": "",
-        "title": "Lacero",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Lacero",
+          "isbn": null,
+          "author": "Andy Weir",
+          "date": 
             {
               "year": "2024",
               "month": "01",
               "day": "08",
               "string": "2024-01-08"
             },
-        "my_rating": 5,
-        "author": "Andy Weir"
-    },
-    {
-        "isbn": "9788496427877",
-        "title": "The Summit of the Gods: Vol.1",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "The Summit of the Gods: Vol.1",
+          "isbn": 9788496427877,
+          "author": "Jiro Taniguchi, Yumemakura Baku",
+          "date": 
             {
               "year": "2023",
               "month": "12",
               "day": "29",
               "string": "2023-12-29"
             },
-        "my_rating": 5,
-        "author": "Jiro Taniguchi, Yumemakura Baku"
-    },
-    {
-        "isbn": "9788202662721",
-        "title": "A Promised Land",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "A Promised Land",
+          "isbn": 9788202662721,
+          "author": "Barack Obama",
+          "date": 
             {
               "year": "2023",
               "month": "12",
               "day": "28",
               "string": "2023-12-28"
             },
-        "my_rating": 3,
-        "author": "Barack Obama"
-    },
-    {
-        "isbn": "9781506727615",
-        "title": "Mob Psycho 100: Vol. 9",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Mob Psycho 100: Vol. 9",
+          "isbn": 9781506727615,
+          "author": "ONE",
+          "date": 
             {
               "year": "2023",
               "month": "12",
               "day": "12",
               "string": "2023-12-12"
             },
-        "my_rating": 4,
-        "author": "ONE"
-    },
-    {
-        "isbn": "9781506727608",
-        "title": "Mob Psycho 100: Vol. 8",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Mob Psycho 100: Vol. 8",
+          "isbn": 9781506727608,
+          "author": "ONE",
+          "date": 
             {
               "year": "2023",
               "month": "11",
               "day": "30",
               "string": "2023-11-30"
             },
-        "my_rating": 4,
-        "author": "ONE"
-    },
-    {
-        "isbn": "9780140455526",
-        "title": "The Art of War",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "The Art of War",
+          "isbn": 9780140455526,
+          "author": "Sun-tzu",
+          "date": 
             {
               "year": "2023",
               "month": "07",
               "day": "12",
               "string": "2023-07-12"
             },
-        "my_rating": 4,
-        "author": "Sun-tzu"
-    },
-    {
-        "isbn": "9781506727592",
-        "title": "Mob Psycho 100: Vol. 7",
-        "date": 
+          "rating": 4
+        },
+        {
+          "title": "Mob Psycho 100: Vol. 7",
+          "isbn": 9781506727592,
+          "author": "ONE",
+          "date": 
             {
               "year": "2023",
               "month": "06",
               "day": "16",
               "string": "2023-06-16"
             },
-        "my_rating": 3,
-        "author": "ONE"
-    },
-    {
-        "isbn": "9781529392401",
-        "title": "Will Artificial Intelligence Outsmart Us?",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Will Artificial Intelligence Outsmart Us?",
+          "isbn": 9781529392401,
+          "author": "Stephen Hawking",
+          "date": 
             {
               "year": "2023",
               "month": "06",
               "day": "13",
               "string": "2023-06-13"
             },
-        "my_rating": 3,
-        "author": "Stephen Hawking"
-    },
-    {
-        "isbn": "9788269259346",
-        "title": "Magnus",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Magnus",
+          "isbn": 9788269259346,
+          "author": "Magnus Midtbø, Thor Gotaas",
+          "date": 
             {
               "year": "2023",
               "month": "06",
               "day": "01",
               "string": "2023-06-01"
             },
-        "my_rating": 5,
-        "author": "Magnus Midtbø, Thor Gotaas"
-    },
-    {
-        "isbn": "9788234713538",
-        "title": "Hjertet i to: Seks måneder med Karpe",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "Hjertet i to: Seks måneder med Karpe",
+          "isbn": 9788234713538,
+          "author": "Yohan Shanmugaratnam",
+          "date": 
             {
               "year": "2023",
               "month": "05",
               "day": "28",
               "string": "2023-05-28"
             },
-        "my_rating": 5,
-        "author": "Yohan Shanmugaratnam"
-    },
-    {
-        "isbn": "9781421578798",
-        "title": "JoJo's Bizarre Adventure: Phantom Blood Vol. 1",
-        "date": 
+          "rating": 5
+        },
+        {
+          "title": "JoJo's Bizarre Adventure: Phantom Blood Vol. 1",
+          "isbn": 9781421578798,
+          "author": "Araki, Hirohiko",
+          "date": 
             {
               "year": "2023",
               "month": "05",
               "day": "22",
               "string": "2023-05-22"
             },
-        "my_rating": 3,
-        "author": "Araki, Hirohiko"
-    },
-    {
-        "isbn": "9788202410445",
-        "title": "Steve Jobs",
-        "date": 
+          "rating": 3
+        },
+        {
+          "title": "Steve Jobs",
+          "isbn": 9788202410445,
+          "author": "Walter Isaacson",
+          "date": 
             {
               "year": "2023",
               "month": "05",
               "day": "15",
               "string": "2023-05-15"
             },
-        "my_rating": 4,
-        "author": "Walter Isaacson"
+          "rating": 4
+        }
+      ]
     }
-]
+  ]
+}

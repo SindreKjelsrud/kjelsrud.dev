@@ -1,8 +1,26 @@
 ---
 import SectionContainer from '../../components/SectionContainer.astro';
-import books from '../../data/biblioteca.json'
+import biblioteca from '../../data/biblioteca.json'
 
-const booksByYear = books.reduce((acc:any, book) => {
+let booksRead = [];
+let booksShelf = [];
+let booksReading = [];
+
+biblioteca.lists.forEach(list => {
+  switch (list.name) {
+    case "Read":
+      booksRead = list.books;
+      break;
+    case "On the shelf":
+      booksShelf = list.books;
+      break;
+    case "Currently reading":
+      booksReading = list.books;
+      break;
+  }
+});
+
+const booksByYear = booksRead.reduce((acc, book) => {
     const year = new Date(book.date.string).getFullYear();
     if (!acc[year]) {
         acc[year] = [];
@@ -11,52 +29,38 @@ const booksByYear = books.reduce((acc:any, book) => {
     return acc;
 }, {});
 
-const sortedYears = Object.keys(booksByYear).sort((a:any, b:any) => b - a);
-
-/*
-function getEmojiStars(rating:any) {
-    let stars = '';
-    for (let i = 0; i < rating; i++) {
-        stars += '⭐';
-    }
-    return stars;
-}
-*/
-
-function getHeartEmoji(rating:any) {
-  let heart = '';
-  if (rating == 5) heart = "❤️";
-  return heart;
-}
-
-const today = new Date();
+const sortedYears = Object.keys(booksByYear).sort((a: any, b: any) => b - a);
 ---
+
 <SectionContainer>
-    <main class="flex flex-col gap-4 mt-4">
-		<h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
-    <h2 class="text-xl font-semibold">on the shelf</h2>
-    <ul class="flex flex-col text-s gap-2 text-l">
-      <li class="borderbottom">📚 Dune</li>
-      <li class="borderbottom">📚 The Summit of The Gods: Vol.3 - Vol.5</li>
-      <li class="borderbottom">📚 Star Wars: The Tales of Kenobi</li>
-    </ul>
-		<h2 class="text-xl font-semibold">on the nightstand</h2>
-        <p class="borderbottom">📖 The Intelligent Investor (NO)</p>
-    {sortedYears.map(year => (
-			<section>
-				<div class="flex items-center gap-2 text-xl font-semibold mb-2">{year}<p class="text-xs">({booksByYear[year].length} entries)</p></div>
-				<ul>
-                    {
-                        booksByYear[year].map((book) => (
-                            <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
-								<p class="text-s">{book.title}</p>
-                                <p>{getHeartEmoji(book.my_rating)}</p>
-							</div>
-                        ))
-                    }
+    <main class="flex flex-col flex-1 gap-4 mt-4">
+        <h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
+        <h2 class="text-xl font-semibold">on the shelf</h2>
+        <ul class="flex flex-col text-s gap-2 text-l">
+            {booksShelf.map((book) => (
+                <li class="borderbottom">📚 {book.title}</li>
+            ))}
+        </ul>
+
+        <h2 class="text-xl font-semibold">on the nightstand</h2>
+        <ul>
+            {booksReading.map((book) => (
+                <li class="borderbottom">📖 {book.title}</li>
+            ))}
+        </ul>
+
+        {sortedYears.map(year => (
+            <details>
+                <summary class="text-xl font-semibold cursor-pointer">{year} <span class="text-xs">({booksByYear[year].length} entries)</span></summary>
+                <ul class="mt-2">
+                    {booksByYear[year].map((book) => (
+                        <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
+                            <p class="text-s">{book.title}</p>
+                            <p>{book.rating === 5 ? "❤️" : ""}</p>
+                        </div>
+                    ))}
                 </ul>
-        </section>
-		))
-        }
-	</main>
+            </details>
+        ))}
+    </main>
 </SectionContainer>
