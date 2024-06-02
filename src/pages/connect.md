@@ -8,6 +8,8 @@ Feel free to drop me an email! Whether it's to say hello, discuss the latest mus
 
 E-mail: **hello@kjelsrud.dev**
 
+vCard: [***download here***](/sid.vcf)
+
 ## Across the cyberspace 
 
 - [**GitHub**](https://github.com/SindreKjelsrud)

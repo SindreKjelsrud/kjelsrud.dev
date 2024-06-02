@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Sindre Kjelsrud
+N;CHARSET=UTF-8:Kjelsrud;Sindre;;;
+NICKNAME;CHARSET=UTF-8:Sid
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hello@kjelsrud.dev
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;;;;Norway
+URL;CHARSET=UTF-8:https://kjelsrud.dev/
+X-SOCIALPROFILE;TYPE=GitHub:https://github.com/SindreKjelsrud/
+REV:2024-06-02T16:25:23.628Z
+END:VCARD
