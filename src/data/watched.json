@@ -1,1400 +1,1433 @@
-[
-    {
-        "title": "Live to 100: Secrets of the Blue Zones",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "05",
-            "day": "27",
-            "string": "2024-05-27"
-            },
-        "my_rating": 4
-    },   
-    {
-        "title": "The Matrix Resurrections",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "05",
-            "day": "20",
-            "string": "2024-05-20"
-            },
-        "my_rating": 4
-    },   
-    {
-        "title": "Star Wars: The Clone Wars S04",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "05",
-            "day": "08",
-            "string": "2024-05-08"
-            },
-        "my_rating": 4
-    },   
-    {
-        "title": "The Founder",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "05",
-            "day": "04",
-            "string": "2024-05-04"
-            },
-        "my_rating": 5
-    },    
-    {
-        "title": "Plastic Memories",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "29",
-            "string": "2024-04-29"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Call Me by Your Name",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "24",
-            "string": "2024-04-24"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Fractale",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "15",
-            "string": "2024-04-15"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Patema Inverted",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "09",
-            "string": "2024-04-09"
-            },
-        "my_rating": 4
-    },    
-    {
-        "title": "Mad Max: Fury Road",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "06",
-            "string": "2024-04-06"
-            },
-        "my_rating": 5
-    },    
-    {
-        "title": "Mad Max Beyond Thunderdome",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "05",
-            "string": "2024-04-05"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Mad Max 2",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "04",
-            "string": "2024-04-04"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Say 'I love you'",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "04",
-            "string": "2024-04-04"
-            },
-        "my_rating": 4
-    },    
-    {
-        "title": "Mad Max",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "02",
-            "string": "2024-04-02"
-            },
-        "my_rating": 3
-    },    
-    {
-        "title": "Star Wars: The Clone Wars S03",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "04",
-            "day": "02",
-            "string": "2024-04-02"
-            },
-        "my_rating": 4
-    },   
-    {
-        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "25",
-            "string": "2024-03-25"
-            },
-        "my_rating": 4
-    },    
-    {
-        "title": "Wonka",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "23",
-            "string": "2024-03-23"
-            },
-        "my_rating": 4
-    },    
-    {
-        "title": "Bitconned",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "18",
-            "string": "2024-03-18"
-            },
-        "my_rating": 4
-    },    
-    {
-        "title": "Anon",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "14",
-            "string": "2024-03-14"
-            },
-        "my_rating": 3
-    },   
-    {
-        "title": "Dungeons & Dragons: Honor Among Thieves",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "12",
-            "string": "2024-03-12"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Beautiful Boy",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "11",
-            "string": "2024-03-11"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Fantastic Beasts: The Crimes of Grindelwald",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "09",
-            "string": "2024-03-09"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Star Wars: The Clone Wars S01 & S02",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "09",
-            "string": "2024-03-09"
-            },
-        "my_rating": 4
-    },   
-    {
-        "title": "Ford v Ferrari",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "07",
-            "string": "2024-03-07"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "In Time",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "06",
-            "string": "2024-03-06"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Violet Evergarden",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "05",
-            "string": "2024-03-05"
-            },
-        "my_rating": 5
-    },   
-    {
-        "title": "Seven Pounds",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "03",
-            "day": "02",
-            "string": "2024-03-02"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "American Psycho",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "29",
-            "string": "2024-02-29"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Citizenfour",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "25",
-            "string": "2024-02-25"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "Better Call Saul S06",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "string": "2024-02-24"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Aksel",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "string": "2024-02-24"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Better Call Saul S05",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "20",
-            "string": "2024-02-20"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Bullet Train",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "15",
-            "string": "2024-02-15"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Children who Chase Lost Voices",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "15",
-            "string": "2024-02-15"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Banana Fish",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "13",
-            "string": "2024-02-13"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Erin Brockovich",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "12",
-            "string": "2024-02-12"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "Better Call Saul S04",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "08",
-            "string": "2024-02-08"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Sensus",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "02",
-            "string": "2024-02-02"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "Better Call Saul S03",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "02",
-            "string": "2024-02-02"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "5 Centimeters per Second",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "02",
-            "day": "01",
-            "string": "2024-02-01"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Better Call Saul S02",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "28",
-            "string": "2024-01-28"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "Better Call Saul S01",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "22",
-            "string": "2024-01-22"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Nordfor sola",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "20",
-            "string": "2024-01-20"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "Cyberbunker: The Criminal Underworld",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "20",
-            "string": "2024-01-20"
-            },
-        "my_rating": 3
-    }, 
-    {
-        "title": "The Wonderful Story of Henry Sugar",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "19",
-            "string": "2024-01-19"
-            },
-        "my_rating": 3
-    }, 
-    {
-        "title": "One Piece: Baron Omatsuri and the Secret Island",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "19",
-            "string": "2024-01-19"
-            },
-        "my_rating": 4
-    }, 
-    {
-        "title": "Inside Bill's Brain: Decoding Bill Gates",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "12",
-            "string": "2024-01-12"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "14 Peaks: Nothing Is Impossible",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "11",
-            "string": "2024-01-11"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "S.W.A.T.: Firefight",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "11",
-            "string": "2024-01-11"
-            },
-        "my_rating": 1
-    },
-    {
-        "title": "PROJECT ICEMAN",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "09",
-            "string": "2024-01-09"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "The Yin & Yang of Gerry Lopez",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "08",
-            "string": "2024-01-08"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "The Hitman's Apprentice",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "04",
-            "string": "2024-01-04"
-            },
-        "my_rating": 2
-    },
-    {
-        "title": "The Hunger Games: Mockingjay - Part 2",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "03",
-            "string": "2024-01-03"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "The Hunger Games: Mockingjay - Part 1",
-        "type": "movie",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "03",
-            "string": "2024-01-03"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Night Agent S01",
-        "type": "series",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "01",
-            "string": "2024-01-01"
-            },
-        "my_rating": 4
-    },
-    {
-        "title": "JUJUTSU KAISEN S02",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2024",
-            "month": "01",
-            "day": "01",
-            "string": "2024-01-01"
-            },
-        "my_rating": 5
-    },
-    {
-        "title": "Dr. Stone S03",
-        "type": "anime",
-        "date": 
-            {
-            "year": "2023",
-            "month": "12",
-            "day": "23",
-            "string": "2023-12-23"
-            },
-        "my_rating": 3
-    },
-    {
-        "title": "Chainsaw Man S01",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "12",
-            "day": "20",
-            "string": "2023-12-20"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Believer 2",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "12",
-            "day": "08",
-            "string": "2023-12-08"
-        },
-        "my_rating": 1
-    },
-    {
-        "title": "Sand Castle",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "12",
-            "day": "05",
-            "string": "2023-12-05"
-        },
-        "my_rating": 2
-    },
-    {
-        "title": "The Hunger Games: Catching Fire",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "12",
-            "day": "03",
-            "string": "2023-12-03"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "The Hunger Games",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "26",
-            "string": "2023-11-26"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "El Camino",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "20",
-            "string": "2023-11-20"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Breaking Bad S01-S05",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "20",
-            "string": "2023-11-20"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Gemini Man",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "12",
-            "string": "2023-11-12"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Attack on Titan: Final Season",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "05",
-            "string": "2023-11-05"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Barbie",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "04",
-            "string": "2023-11-04"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "The Little Mermaid (liveaction)",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "11",
-            "day": "03",
-            "string": "2023-11-03"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Mr. & Mrs. Smith",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "10",
-            "day": "26",
-            "string": "2023-10-26"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Sex Education S4",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "10",
-            "day": "23",
-            "string": "2023-10-23"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Guardians of the Galaxy Vol. 3",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "10",
-            "day": "22",
-            "string": "2023-10-22"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Moneyball",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "10",
-            "day": "01",
-            "string": "2023-10-01"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Tetris",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "10",
-            "day": "01",
-            "string": "2023-10-01"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "AlphaGo",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "09",
-            "day": "28",
-            "string": "2023-09-28"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "One Piece S01 (liveaction)",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "09",
-            "day": "10",
-            "string": "2023-09-10"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Jobs",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "27",
-            "string": "2023-08-27"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "The Queen's Gambit",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "23",
-            "string": "2023-08-23"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Dragon Ball",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "20",
-            "string": "2023-08-20"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Lost in Translation",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "11",
-            "string": "2023-08-11"
-        },
-        "my_rating": 2
-    },
-    {
-        "title": "Transformers: Rise of the Beasts",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "08",
-            "string": "2023-08-08"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "How to Lose a Guy in 10 Days",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "06",
-            "string": "2023-08-06"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Arrival",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "08",
-            "day": "06",
-            "string": "2023-08-06"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Oppenheimer",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "22",
-            "string": "2023-07-22"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Formula 1: Drive to Survive S05",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "22",
-            "string": "2023-07-22"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Blade Runner 2049",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "17",
-            "string": "2023-07-17"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Insurgent",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "16",
-            "string": "2023-07-16"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Divergent",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "15",
-            "string": "2023-07-15"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Demon Slayer S03",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "03",
-            "string": "2023-07-03"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Vinland Saga S02",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "03",
-            "string": "2023-07-03"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Bridget Jones's Baby",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "07",
-            "day": "01",
-            "string": "2023-07-01"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Spider-Man: Across the Spider-Verse",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "06",
-            "day": "27",
-            "string": "2023-06-27"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "2001: A Space Odyssey",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "06",
-            "day": "13",
-            "string": "2023-06-13"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Stone Locals: Rediscovering the Soul of Climbing",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "29",
-            "string": "2023-05-29"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Fishpeople | Lives Transformed by the Sea",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "29",
-            "string": "2023-05-29"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Surfs Up",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "26",
-            "string": "2023-05-26"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "S.W.A.T. S06",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "22",
-            "string": "2023-05-22"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Encanto",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "20",
-            "string": "2023-05-20"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Shang-Chi and the Legend of the Ten Rings",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "19",
-            "string": "2023-05-19"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Whiplash",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "16",
-            "string": "2023-05-16"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Star Wars: Visions S02",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "05",
-            "day": "11",
-            "string": "2023-05-11"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "The Last of Us S01",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "23",
-            "string": "2023-04-23"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "The Mandalorian S03",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "23",
-            "string": "2023-04-23"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "A girl and an astronaut",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "16",
-            "string": "2023-04-16"
-        },
-        "my_rating": 1
-    },
-    {
-        "title": "The Terminal",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "10",
-            "string": "2023-04-10"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "The Whole Nine Yards",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "09",
-            "string": "2023-04-09"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Murder Mystery 2",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "08",
-            "string": "2023-04-08"
-        },
-        "my_rating": 2
-    },
-    {
-        "title": "The Wind Rises",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "04",
-            "day": "03",
-            "string": "2023-04-03"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Ant-Man and the Wasp: Quantumania",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "29",
-            "string": "2023-03-29"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Black Panther: Wakanda Forever",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "24",
-            "string": "2023-03-24"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "My Hero Academia S06",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "24",
-            "string": "2023-03-24"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Rick and Morty S06",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "24",
-            "string": "2023-03-24"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Schumacher",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "21",
-            "string": "2023-03-21"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Nightcrawler",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "21",
-            "string": "2023-03-21"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "How to Sell Drugs Online (Fast) S03",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "20",
-            "string": "2023-03-20"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Outer Banks S03",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "15",
-            "string": "2023-03-15"
-        },
-        "my_rating": 4
-    },
-    {
-        "title": "Community S01-S06",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "15",
-            "string": "2023-03-15"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Free! S01-S03",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "03",
-            "day": "08",
-            "string": "2023-03-08"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Fantastic Beasts and Where to Find Them",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "02",
-            "day": "17",
-            "string": "2023-02-17"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "Kaleidoscope",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "02",
-            "day": "02",
-            "string": "2023-02-02"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "The Recruit S01",
-        "type": "series",
-        "date": {
-            "year": "2023",
-            "month": "01",
-            "day": "30",
-            "string": "2023-01-30"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "Avatar: The Way of Water",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "01",
-            "day": "28",
-            "string": "2023-01-28"
-        },
-        "my_rating": 5
-    },
-    {
-        "title": "The Way of the Househusband S02",
-        "type": "anime",
-        "date": {
-            "year": "2023",
-            "month": "01",
-            "day": "23",
-            "string": "2023-01-23"
-        },
-        "my_rating": 3
-    },
-    {
-        "title": "TRON: Legacy",
-        "type": "movie",
-        "date": {
-            "year": "2023",
-            "month": "01",
-            "day": "11",
-            "string": "2023-01-11"
-        },
-        "my_rating": 4
-    }
-]
+{
+    "name": "Sid's Television",
+    "url": "https://kjelsrud.dev/",
+    "bio": "A collection of TV series, movies and anime I've seen with some ratings aswell.",
+    "lists":[
+        {
+            "name": "Currently watching",
+            "url": "https://kjelsrud.dev/logs/watched/",
+            "tv":[
+                {
+                    "title": "ONE PIECE: Egghead Arc",
+                    "type": "anime"
+                },
+                {
+                    "title": "Star Wars: The Clone Wars S05",
+                    "type": "series"
+                },
+                {
+                    "title": "My Hero Academia S07",
+                    "type": "anime"
+                },
+                {
+                    "title": "Demon Slayer: Hashira Training Arc",
+                    "type": "anime"
+                }
+            ]
+        },
+        {
+            "name": "Watched",
+            "url": "https://kjelsrud.dev/logs/watched/",
+            "tv":[
+                {
+                    "title": "Live to 100: Secrets of the Blue Zones",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "05",
+                        "day": "27",
+                        "string": "2024-05-27"
+                        },
+                    "rating": 4
+                },   
+                {
+                    "title": "The Matrix Resurrections",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "05",
+                        "day": "20",
+                        "string": "2024-05-20"
+                        },
+                    "rating": 4
+                },   
+                {
+                    "title": "Star Wars: The Clone Wars S04",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "05",
+                        "day": "08",
+                        "string": "2024-05-08"
+                        },
+                    "rating": 4
+                },   
+                {
+                    "title": "The Founder",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "05",
+                        "day": "04",
+                        "string": "2024-05-04"
+                        },
+                    "rating": 5
+                },    
+                {
+                    "title": "Plastic Memories",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "29",
+                        "string": "2024-04-29"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Call Me by Your Name",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "24",
+                        "string": "2024-04-24"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Fractale",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "15",
+                        "string": "2024-04-15"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Patema Inverted",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "09",
+                        "string": "2024-04-09"
+                        },
+                    "rating": 4
+                },    
+                {
+                    "title": "Mad Max: Fury Road",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "06",
+                        "string": "2024-04-06"
+                        },
+                    "rating": 5
+                },    
+                {
+                    "title": "Mad Max Beyond Thunderdome",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "05",
+                        "string": "2024-04-05"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Mad Max 2",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "04",
+                        "string": "2024-04-04"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Say 'I love you'",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "04",
+                        "string": "2024-04-04"
+                        },
+                    "rating": 4
+                },    
+                {
+                    "title": "Mad Max",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "02",
+                        "string": "2024-04-02"
+                        },
+                    "rating": 3
+                },    
+                {
+                    "title": "Star Wars: The Clone Wars S03",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "04",
+                        "day": "02",
+                        "string": "2024-04-02"
+                        },
+                    "rating": 4
+                },   
+                {
+                    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "25",
+                        "string": "2024-03-25"
+                        },
+                    "rating": 4
+                },    
+                {
+                    "title": "Wonka",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "23",
+                        "string": "2024-03-23"
+                        },
+                    "rating": 4
+                },    
+                {
+                    "title": "Bitconned",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "18",
+                        "string": "2024-03-18"
+                        },
+                    "rating": 4
+                },    
+                {
+                    "title": "Anon",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "14",
+                        "string": "2024-03-14"
+                        },
+                    "rating": 3
+                },   
+                {
+                    "title": "Dungeons & Dragons: Honor Among Thieves",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "12",
+                        "string": "2024-03-12"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Beautiful Boy",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "11",
+                        "string": "2024-03-11"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "09",
+                        "string": "2024-03-09"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Star Wars: The Clone Wars S01 & S02",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "09",
+                        "string": "2024-03-09"
+                        },
+                    "rating": 4
+                },   
+                {
+                    "title": "Ford v Ferrari",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "07",
+                        "string": "2024-03-07"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "In Time",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "06",
+                        "string": "2024-03-06"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Violet Evergarden",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "05",
+                        "string": "2024-03-05"
+                        },
+                    "rating": 5
+                },   
+                {
+                    "title": "Seven Pounds",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "03",
+                        "day": "02",
+                        "string": "2024-03-02"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "American Psycho",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "29",
+                        "string": "2024-02-29"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Citizenfour",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "25",
+                        "string": "2024-02-25"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Better Call Saul S06",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "24",
+                        "string": "2024-02-24"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Aksel",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "24",
+                        "string": "2024-02-24"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Better Call Saul S05",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "20",
+                        "string": "2024-02-20"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Bullet Train",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "15",
+                        "string": "2024-02-15"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Children who Chase Lost Voices",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "15",
+                        "string": "2024-02-15"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Banana Fish",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "13",
+                        "string": "2024-02-13"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Erin Brockovich",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "12",
+                        "string": "2024-02-12"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Better Call Saul S04",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "08",
+                        "string": "2024-02-08"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Sensus",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "02",
+                        "string": "2024-02-02"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Better Call Saul S03",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "02",
+                        "string": "2024-02-02"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "5 Centimeters per Second",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "02",
+                        "day": "01",
+                        "string": "2024-02-01"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Better Call Saul S02",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "28",
+                        "string": "2024-01-28"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Better Call Saul S01",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "22",
+                        "string": "2024-01-22"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Nordfor sola",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "20",
+                        "string": "2024-01-20"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Cyberbunker: The Criminal Underworld",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "20",
+                        "string": "2024-01-20"
+                        },
+                    "rating": 3
+                }, 
+                {
+                    "title": "The Wonderful Story of Henry Sugar",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "19",
+                        "string": "2024-01-19"
+                        },
+                    "rating": 3
+                }, 
+                {
+                    "title": "One Piece: Baron Omatsuri and the Secret Island",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "19",
+                        "string": "2024-01-19"
+                        },
+                    "rating": 4
+                }, 
+                {
+                    "title": "Inside Bill's Brain: Decoding Bill Gates",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "12",
+                        "string": "2024-01-12"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "14 Peaks: Nothing Is Impossible",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "11",
+                        "string": "2024-01-11"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "S.W.A.T.: Firefight",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "11",
+                        "string": "2024-01-11"
+                        },
+                    "rating": 1
+                },
+                {
+                    "title": "PROJECT ICEMAN",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "09",
+                        "string": "2024-01-09"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "The Yin & Yang of Gerry Lopez",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "08",
+                        "string": "2024-01-08"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "The Hitman's Apprentice",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "04",
+                        "string": "2024-01-04"
+                        },
+                    "rating": 2
+                },
+                {
+                    "title": "The Hunger Games: Mockingjay - Part 2",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "03",
+                        "string": "2024-01-03"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "The Hunger Games: Mockingjay - Part 1",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "03",
+                        "string": "2024-01-03"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Night Agent S01",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "01",
+                        "string": "2024-01-01"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "JUJUTSU KAISEN S02",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "01",
+                        "day": "01",
+                        "string": "2024-01-01"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Dr. Stone S03",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2023",
+                        "month": "12",
+                        "day": "23",
+                        "string": "2023-12-23"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Chainsaw Man S01",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "12",
+                        "day": "20",
+                        "string": "2023-12-20"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Believer 2",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "12",
+                        "day": "08",
+                        "string": "2023-12-08"
+                    },
+                    "rating": 1
+                },
+                {
+                    "title": "Sand Castle",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "12",
+                        "day": "05",
+                        "string": "2023-12-05"
+                    },
+                    "rating": 2
+                },
+                {
+                    "title": "The Hunger Games: Catching Fire",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "12",
+                        "day": "03",
+                        "string": "2023-12-03"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "The Hunger Games",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "26",
+                        "string": "2023-11-26"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "El Camino",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "20",
+                        "string": "2023-11-20"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Breaking Bad S01-S05",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "20",
+                        "string": "2023-11-20"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Gemini Man",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "12",
+                        "string": "2023-11-12"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Attack on Titan: Final Season",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "05",
+                        "string": "2023-11-05"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Barbie",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "04",
+                        "string": "2023-11-04"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "The Little Mermaid (liveaction)",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "11",
+                        "day": "03",
+                        "string": "2023-11-03"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Mr. & Mrs. Smith",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "10",
+                        "day": "26",
+                        "string": "2023-10-26"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Sex Education S4",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "10",
+                        "day": "23",
+                        "string": "2023-10-23"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Guardians of the Galaxy Vol. 3",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "10",
+                        "day": "22",
+                        "string": "2023-10-22"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Moneyball",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "10",
+                        "day": "01",
+                        "string": "2023-10-01"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Tetris",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "10",
+                        "day": "01",
+                        "string": "2023-10-01"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "AlphaGo",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "09",
+                        "day": "28",
+                        "string": "2023-09-28"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "One Piece S01 (liveaction)",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "09",
+                        "day": "10",
+                        "string": "2023-09-10"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Jobs",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "27",
+                        "string": "2023-08-27"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "The Queen's Gambit",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "23",
+                        "string": "2023-08-23"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Dragon Ball",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "20",
+                        "string": "2023-08-20"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Lost in Translation",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "11",
+                        "string": "2023-08-11"
+                    },
+                    "rating": 2
+                },
+                {
+                    "title": "Transformers: Rise of the Beasts",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "08",
+                        "string": "2023-08-08"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "How to Lose a Guy in 10 Days",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "06",
+                        "string": "2023-08-06"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Arrival",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "08",
+                        "day": "06",
+                        "string": "2023-08-06"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Oppenheimer",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "22",
+                        "string": "2023-07-22"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Formula 1: Drive to Survive S05",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "22",
+                        "string": "2023-07-22"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Blade Runner 2049",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "17",
+                        "string": "2023-07-17"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Insurgent",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "16",
+                        "string": "2023-07-16"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Divergent",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "15",
+                        "string": "2023-07-15"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Demon Slayer S03",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "03",
+                        "string": "2023-07-03"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Vinland Saga S02",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "03",
+                        "string": "2023-07-03"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Bridget Jones's Baby",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "07",
+                        "day": "01",
+                        "string": "2023-07-01"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Spider-Man: Across the Spider-Verse",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "06",
+                        "day": "27",
+                        "string": "2023-06-27"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "2001: A Space Odyssey",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "06",
+                        "day": "13",
+                        "string": "2023-06-13"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Stone Locals: Rediscovering the Soul of Climbing",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "29",
+                        "string": "2023-05-29"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Fishpeople | Lives Transformed by the Sea",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "29",
+                        "string": "2023-05-29"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Surfs Up",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "26",
+                        "string": "2023-05-26"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "S.W.A.T. S06",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "22",
+                        "string": "2023-05-22"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Encanto",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "20",
+                        "string": "2023-05-20"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Shang-Chi and the Legend of the Ten Rings",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "19",
+                        "string": "2023-05-19"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Whiplash",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "16",
+                        "string": "2023-05-16"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Star Wars: Visions S02",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "05",
+                        "day": "11",
+                        "string": "2023-05-11"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "The Last of Us S01",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "23",
+                        "string": "2023-04-23"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "The Mandalorian S03",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "23",
+                        "string": "2023-04-23"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "A girl and an astronaut",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "16",
+                        "string": "2023-04-16"
+                    },
+                    "rating": 1
+                },
+                {
+                    "title": "The Terminal",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "10",
+                        "string": "2023-04-10"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "The Whole Nine Yards",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "09",
+                        "string": "2023-04-09"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Murder Mystery 2",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "08",
+                        "string": "2023-04-08"
+                    },
+                    "rating": 2
+                },
+                {
+                    "title": "The Wind Rises",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "04",
+                        "day": "03",
+                        "string": "2023-04-03"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Ant-Man and the Wasp: Quantumania",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "29",
+                        "string": "2023-03-29"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Black Panther: Wakanda Forever",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "24",
+                        "string": "2023-03-24"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "My Hero Academia S06",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "24",
+                        "string": "2023-03-24"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Rick and Morty S06",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "24",
+                        "string": "2023-03-24"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Schumacher",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "21",
+                        "string": "2023-03-21"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Nightcrawler",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "21",
+                        "string": "2023-03-21"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "How to Sell Drugs Online (Fast) S03",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "20",
+                        "string": "2023-03-20"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Outer Banks S03",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "15",
+                        "string": "2023-03-15"
+                    },
+                    "rating": 4
+                },
+                {
+                    "title": "Community S01-S06",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "15",
+                        "string": "2023-03-15"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Free! S01-S03",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "03",
+                        "day": "08",
+                        "string": "2023-03-08"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Fantastic Beasts and Where to Find Them",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "02",
+                        "day": "17",
+                        "string": "2023-02-17"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "Kaleidoscope",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "02",
+                        "day": "02",
+                        "string": "2023-02-02"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "The Recruit S01",
+                    "type": "series",
+                    "date": {
+                        "year": "2023",
+                        "month": "01",
+                        "day": "30",
+                        "string": "2023-01-30"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "Avatar: The Way of Water",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "01",
+                        "day": "28",
+                        "string": "2023-01-28"
+                    },
+                    "rating": 5
+                },
+                {
+                    "title": "The Way of the Househusband S02",
+                    "type": "anime",
+                    "date": {
+                        "year": "2023",
+                        "month": "01",
+                        "day": "23",
+                        "string": "2023-01-23"
+                    },
+                    "rating": 3
+                },
+                {
+                    "title": "TRON: Legacy",
+                    "type": "movie",
+                    "date": {
+                        "year": "2023",
+                        "month": "01",
+                        "day": "11",
+                        "string": "2023-01-11"
+                    },
+                    "rating": 4
+                }
+            ]
+        }
+    ]   
+}
