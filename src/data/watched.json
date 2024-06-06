@@ -12,7 +12,7 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Star Wars: The Clone Wars S05",
+                    "title": "Star Wars: The Clone Wars S06",
                     "type": "series"
                 },
                 {
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
+                {
+                    "title": "Star Wars: The Clone Wars S05",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "06",
+                        "string": "2024-06-06"
+                        },
+                    "rating": 5
+                },  
                 {
                     "title": "Live to 100: Secrets of the Blue Zones",
                     "type": "series",
