@@ -10,8 +10,8 @@ Kanto was an old MacBook Air I had lying around. Since joining [friByte](https:/
 
 I learned tons from it and had so much fun trying out different stuff!
 
-
 ## 🏗️ Setup
+
 ```
 OS: Ubuntu 20.04.6 LTS x86_64
 
@@ -23,7 +23,6 @@ GPU: Intel HD Graphics 6000
 
 Memory: ~4GB
 ```
-
 
 ## 🚀 Stuff hosted on it
 
