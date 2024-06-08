@@ -12,16 +12,16 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Star Wars: The Clone Wars S07",
-                    "type": "series"
-                },
-                {
                     "title": "My Hero Academia S07",
                     "type": "anime"
                 },
                 {
                     "title": "Demon Slayer: Hashira Training Arc",
                     "type": "anime"
+                },
+                {
+                    "title": "Star Wars: The Bad Batch S01",
+                    "type": "series"
                 }
             ]
         },
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
+                {
+                    "title": "Star Wars: The Clone Wars S07",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "07",
+                        "string": "2024-06-07"
+                        },
+                    "rating": 5
+                },
                 {
                     "title": "Star Wars: The Clone Wars S06",
                     "type": "series",
