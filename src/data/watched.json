@@ -30,6 +30,18 @@
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
                 {
+                    "title": "The Kings of Summer",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "09",
+                        "string": "2024-06-09"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Street Fighter II: The Animated Movie",
                     "type": "anime",
                     "date": 
