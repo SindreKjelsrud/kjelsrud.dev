@@ -30,6 +30,18 @@
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
                 {
+                    "title": "Street Fighter II: The Animated Movie",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "09",
+                        "string": "2024-06-09"
+                        },
+                    "rating": 3
+                },
+                {
                     "title": "Star Wars: The Clone Wars S07",
                     "type": "series",
                     "date": 
