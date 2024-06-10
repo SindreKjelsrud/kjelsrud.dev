@@ -8,20 +8,20 @@
       "url": "https://kjelsrud.dev/logs/books/",
       "books":[
         {
-          "title": "The Intelligent Investor (NO)",
-          "isbn": 9788271463823,
-          "author": "Benjamin Graham"
+          "title": "Dune",
+          "isbn": 9780340960196,
+          "author": "Frank Herbert"
         }
       ]
     },
     {
       "name": "On the shelf",
       "url": "https://kjelsrud.dev/logs/books/",
-      "books":[
+      "books":[    
         {
-          "title": "Dune",
-          "isbn": 9780340960196,
-          "author": "Frank Herbert"
+          "title": "The Intelligent Investor (NO)",
+          "isbn": 9788271463823,
+          "author": "Benjamin Graham"
         },
         {
           "title": "The Summit of The Gods: Vol.3 - Vol.5"
