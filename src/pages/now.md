@@ -4,16 +4,16 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: April 26, 2024*
+> *Last update: June 22, 2024*
 
-## what I'm doing right now
+## what i do now:
 
-- Doing an exchange semester in Valencia, Spain
-- Writing & [**coding**](https://github.com/haraldnilsen/helseveileder) my Bachelor's Thesis
-- Diving deeper into the world of servers & self-hosting
-- Currently leading and planning the second iteration of [**BOSkonf**](https://boskonf.no/en)
+☀️ **Summer vacation:** Enjoying my last full summer vacation before starting work as a software developer at Capgemini!
 
-If you want to check out what I'm currently watching or reading, visit the links below:
+🚚 **Moving:** Moving back home to Norway from Spain, and then moving to a new apartment in Bergen.
 
-- [**📚 ¿Dónde está la biblioteca?**](/logs/books)
-- [**📺 La télévision**](/logs/watched)
+📢 **BOSkonf:** As last year's conference was a success, we wanted to continue it! I have again taken on the leading role and am currently planning this year's iteration of [**the conference**](https://boskonf.no/en) with other volunteers.
+
+📖 **Reading:** If you want to check out what I'm currently reading, check out [**my bookshelf**](/logs/books).
+
+👀 **Watching:** If you want to check out what I'm currently watching, check out [**my tv-logs**](/logs/watched).
