@@ -11,6 +11,11 @@
           "title": "Dune",
           "isbn": 9780340960196,
           "author": "Frank Herbert"
+        },
+        {
+          "title": "Kagurabachi: Vol. 2",
+          "isbn": 9784088838809,
+          "author": "Takeru Gokazono"
         }
       ]
     },
@@ -24,7 +29,7 @@
           "author": "Benjamin Graham"
         },
         {
-          "title": "The Summit of The Gods: Vol.3 - Vol.5"
+          "title": "The Summit of The Gods: Vol. 3 - Vol. 5"
         },
         {
           "title": "Star Wars: The Tales of Kenobi"
@@ -36,7 +41,20 @@
       "url": "https://kjelsrud.dev/logs/books/",
       "books":[
         {
-          "title": "One Piece: Vol.108",
+          "title": "Kagurabachi: Vol. 1",
+          "isbn": 9784088838199,
+          "author": "Takeru Gokazono",
+          "date": 
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "21",
+              "string": "2024-06-21"
+            },
+          "rating": 4
+        },
+        {
+          "title": "One Piece: Vol. 108",
           "isbn": 9788822651518,
           "author": "Eiichiro Oda",
           "date": 
@@ -49,7 +67,7 @@
           "rating": 5
         },
         {
-          "title": "One Piece: Vol.107",
+          "title": "One Piece: Vol. 107",
           "isbn": 9781974749799,
           "author": "Eiichiro Oda",
           "date": 
@@ -62,7 +80,7 @@
           "rating": 5
         },
         {
-          "title": "One Piece: Vol.3",
+          "title": "One Piece: Vol. 3",
           "isbn": 9781591161844,
           "author": "Eiichiro Oda",
           "date": 
@@ -257,7 +275,7 @@
           "rating": 5
         },    
         {
-          "title": "One Piece: Vol.2",
+          "title": "One Piece: Vol. 2",
           "isbn": 9780575078697,
           "author": "Eiichiro Oda",
           "date": 
@@ -270,7 +288,7 @@
           "rating": 4
         },    
         {
-          "title": "One Piece: Vol.1",
+          "title": "One Piece: Vol. 1",
           "isbn": 9781569319017,
           "author": "Eiichiro Oda",
           "date": 
@@ -296,7 +314,7 @@
           "rating": 5
         },
         {
-          "title": "The Summit of the Gods: Vol.2",
+          "title": "The Summit of the Gods: Vol. 2",
           "isbn": 9788492444328,
           "author": "Jiro Taniguchi, Yumemakura Baku",
           "date": 
@@ -335,7 +353,7 @@
           "rating": 5
         },
         {
-          "title": "The Summit of the Gods: Vol.1",
+          "title": "The Summit of the Gods: Vol. 1",
           "isbn": 9788496427877,
           "author": "Jiro Taniguchi, Yumemakura Baku",
           "date": 
