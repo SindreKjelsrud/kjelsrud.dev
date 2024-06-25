@@ -20,7 +20,7 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Star Wars: The Bad Batch S01",
+                    "title": "Star Wars: The Bad Batch S02",
                     "type": "series"
                 }
             ]
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
+                {
+                    "title": "Star Wars: The Bad Batch S01",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "25",
+                        "string": "2024-06-25"
+                        },
+                    "rating": 4
+                },
                 {
                     "title": "The Kings of Summer",
                     "type": "movie",
@@ -39,7 +51,7 @@
                         "day": "09",
                         "string": "2024-06-09"
                         },
-                    "rating": 4
+                    "rating": 3
                 },
                 {
                     "title": "Street Fighter II: The Animated Movie",
