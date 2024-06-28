@@ -1,5 +1,15 @@
 [
     {
+        "album": "Enter The Wu-Tang (36 Chambers)",
+        "artist": "Wu-Tang Clan",
+        "cover": "/img/vinyl/enter_the_wutang_36_chambers.webp"
+    },   
+    {
+        "album": "Til det føles fint",
+        "artist": "Pikekyss",
+        "cover": "/img/vinyl/til_det_foles_fint.webp"
+    },   
+    {
         "album": "Harry's House",
         "artist": "Harry Styles",
         "cover": "/img/vinyl/harrys_house.webp"
