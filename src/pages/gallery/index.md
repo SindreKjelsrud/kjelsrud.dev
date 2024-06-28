@@ -12,9 +12,10 @@ This way you can check out moments and places of my life, but keep in mind I'm n
 
 ### Erasmus semester
 
-- [**albarracin climbing trip**](/gallery/albarracin)
+- [**albarracin**](/gallery/albarracin)
 - [**valencia**](/gallery/valencia)
 - [**marseille**](/gallery/marseille)
+- [**morocco**](/gallery/morocco)
 
 ### Random
 
