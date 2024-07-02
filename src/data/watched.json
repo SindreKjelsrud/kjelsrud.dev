@@ -30,6 +30,18 @@
             "url": "https://kjelsrud.dev/logs/watched/",
             "tv":[
                 {
+                    "title": "The Antisocial Network: Memes to Mayhem",
+                    "type": "movies",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "02",
+                        "string": "2024-07-02"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Star Wars: The Bad Batch S01",
                     "type": "series",
                     "date": 
