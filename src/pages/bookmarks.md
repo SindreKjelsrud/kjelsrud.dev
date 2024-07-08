@@ -7,7 +7,6 @@ layout: "../layouts/Layout.astro"
 ## Personal websites / blogs
 
 - [**~cengelsen**](https://cengelsen.no) member of [friByte](https://fribyte.no)
-- [**~bayazidi**](https://bayazidi.xyz/) friends website
 - [**~heimvik**](https://heimvik.me/) member of [friByte](https://fribyte.no)
 - [**~mathiash98**](https://mathiash98.github.io/) member of [friByte](https://fribyte.no)
 - [**~timharek**](https://timharek.no/) member of [friByte](https://fribyte.no)
@@ -23,6 +22,7 @@ layout: "../layouts/Layout.astro"
 - [**mnmlist**](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer 
 - [**Pengeblogg**](https://pengeblogg.bloggnorge.com/) tips & ideas about personal finances, stockmarket et-cetera
 - [**Lacero**](https://galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir
+- [**What Crypto Has in Common with Trickshotting and Faze Clan**](https://blog.teji.io/faze) interesting blog-post by Jet Williams surrounding digital ownership
 
 ## Videos
 
