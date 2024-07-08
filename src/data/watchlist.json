@@ -5,7 +5,7 @@
     "lists":[
         {
             "name": "Currently watching",
-            "url": "https://kjelsrud.dev/logs/watched/",
+            "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
                     "title": "ONE PIECE: Egghead Arc",
@@ -27,7 +27,7 @@
         },
         {
             "name": "Watched",
-            "url": "https://kjelsrud.dev/logs/watched/",
+            "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
                     "title": "The Antisocial Network: Memes to Mayhem",

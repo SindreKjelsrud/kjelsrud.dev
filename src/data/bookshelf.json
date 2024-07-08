@@ -5,7 +5,7 @@
   "lists":[
     {
       "name": "Currently reading",
-      "url": "https://kjelsrud.dev/logs/books/",
+      "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
           "title": "Dune",
@@ -16,7 +16,7 @@
     },
     {
       "name": "On the shelf",
-      "url": "https://kjelsrud.dev/logs/books/",
+      "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[    
         {
           "title": "The Intelligent Investor (NO)",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Read",
-      "url": "https://kjelsrud.dev/logs/books/",
+      "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
           "title": "Kagurabachi: Vol. 2",

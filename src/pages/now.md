@@ -14,6 +14,6 @@ layout: "../layouts/Layout.astro"
 
 📢 **BOSkonf:** As last year's conference was a success, we wanted to continue it! I have again taken on the leading role and am currently planning this year's iteration of [**the conference**](https://boskonf.no/en) with other volunteers.
 
-📖 **Reading:** If you want to check out what I'm currently reading, check out [**my bookshelf**](/logs/books).
+📖 **Reading:** If you want to check out what I'm currently reading, check out [**my bookshelf**](/logs/bookshelf).
 
-👀 **Watching:** If you want to check out what I'm currently watching, check out [**my tv-logs**](/logs/watched).
+👀 **Watching:** If you want to check out what I'm currently watching, check out [**my tv-logs**](/logs/watchlist).
