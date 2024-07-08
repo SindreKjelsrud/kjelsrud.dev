@@ -62,6 +62,7 @@ p {
 .blog li {
 	list-style: disc inside;
 	padding: 10px 0 0 10px;
+	font-size: large;
 }
 
 .blog li ul {
@@ -94,6 +95,11 @@ p {
 	font-size: 18px;
 	margin-top: 8px;
 	font-weight: 600;
+}
+
+.blog table, th, td {
+	border: 1px solid;
+	margin: 10px 0px;
 }
 
 .blog a { color: var(--dark-link);}
