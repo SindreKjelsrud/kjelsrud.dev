@@ -1,6 +1,6 @@
 ---
 title: "a new slash-page for websites"
-pubDate: 'June 02 2024'
+pubDate: 'July 02 2024'
 description: ""
 draft: false
 ---

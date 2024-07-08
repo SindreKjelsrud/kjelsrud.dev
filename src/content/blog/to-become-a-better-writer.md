@@ -1,6 +1,6 @@
 ---
 title: "to become a better writer"
-pubDate: 'June 02 2024'
+pubDate: 'July 02 2024'
 description: ""
 draft: false
 ---
