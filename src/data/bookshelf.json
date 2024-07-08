@@ -503,6 +503,159 @@
           "rating": 4
         }
       ]
+    },
+    {
+      "name": "Want to read",
+      "url": "https://kjelsrud.dev/logs/bookshelf/",
+      "books":[
+        {
+          "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"
+        },
+        {
+          "title": "Let My People Go Surfing: The Education of a Reluctant Businessman"
+        },
+        {
+          "title": "Still Sideways: Riding the Edge Again after Losing My Sight"
+        },
+        {
+          "title": "Marvel Avengers Ant-Man: Look Out for the Little Guys"
+        },
+        {
+          "title": "Shoe Dog"
+        },
+        {
+          "title": "The Innovators"
+        },
+        {
+          "title": "Sun & Steel"
+        },
+        {
+          "title": "Zen and the Art of Motorcycle Maintenance"
+        },
+        {
+          "title": "Ten Arguments For Deleting Your Social Media Accounts Right Now"
+        },
+        {
+          "title": "The Age of Surveillance Capitalism"
+        },
+        {
+          "title": "One Day in the Life of Ivan Denisovich"
+        },
+        {
+          "title": "Understanding Marxism"
+        },
+        {
+          "title": "Tao Te Ching"
+        },
+        {
+          "title": "Ikigai - The Japanese secret to a long and happy life"
+        },
+        {
+          "title": "The Courage to Be Disliked"
+        },
+        {
+          "title": "Meditations"
+        },
+        {
+          "title": "The Bitcoin Standard"
+        },
+        {
+          "title": "The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order"
+        },
+        {
+          "title": "Beyond Bitcoin: Decentralised Finance and the End of Banks"
+        },
+        {
+          "title": "Ethereum: The Legend of Vitalik Buterin"
+        },
+        {
+          "title": "Den store rentebølgen - rentens 700 år lange seilas til negativt lende"
+        },
+        {
+          "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness"
+        },
+        {
+          "title": "Digital Gold - The Untold Story of Bitcoin"
+        },
+        {
+          "title": "Aksjeskolen"
+        },
+        {
+          "title": "Zero to One: Notes on Startups, or How to Build the Future"
+        },
+        {
+          "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich"
+        },
+        {
+          "title": "The Sovereign Individual: Mastering the Transition to the Information Age"
+        },
+        {
+          "title": "Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better"
+        },
+        {
+          "title": "Snow Crash: A Novel"
+        },
+        {
+          "title": "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data"
+        },
+        {
+          "title": "100-dagerskoden - hvordan mestre ny lederrolle og unngå fallgruver"
+        },
+        {
+          "title": "Effektive ledergrupper"
+        },
+        {
+          "title": "Leaders Eat Last - Why Some Teams Pull Together and Others Don't"
+        },
+        {
+          "title": "Jobbpsykologi"
+        },
+        {
+          "title": "The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience"
+        },
+        {
+          "title": "The Way of Zen"
+        },
+        {
+          "title": "Men du ser ikke syk ut"
+        },
+        {
+          "title": "What I Talk About When I Talk About Running"
+        },
+        {
+          "title": "Skriv godt, bli forstått - guiden for å skrive bedre, raskere og med mindre smerte"
+        },
+        {
+          "title": "The Fine Art of Small Talk: How To Start a Conversation, Keep It Going, Build Networking Skills -- and Leave a Positive Impression!"
+        },
+        {
+          "title": "Thanks for the Feedback: The Science and Art of Receiving Feedback Well"
+        },
+        {
+          "title": "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance"
+        },
+        {
+          "title": "what if?: Serious Scientific Answers to Absurd Hypothetical Questions"
+        },
+        {
+          "title": "21 Lessons for the 21st Century"
+        },
+        {
+          "title": "Ways of the Samurai from Ronins to Ninja"
+        },
+        {
+          "title": "The Story of China - A portrait of a civilisation and its people"
+        },
+        {
+          "title": "Hitchhiker’s Guide to the Galaxy"
+        },
+        {
+          "title": "I, Robot: Isaac Asimov"
+        },
+        {
+          "title": "Yumi and the Nightmare Painter"
+        }
+      ]
     }
   ]
 }

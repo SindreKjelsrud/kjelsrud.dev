@@ -5,6 +5,7 @@ import biblioteca from '../../data/bookshelf.json'
 let booksRead = [];
 let booksShelf = [];
 let booksReading = [];
+let booksWant = [];
 
 biblioteca.lists.forEach(list => {
   switch (list.name) {
@@ -16,6 +17,9 @@ biblioteca.lists.forEach(list => {
       break;
     case "Currently reading":
       booksReading = list.books;
+      break;
+    case "Want to read":
+      booksWant = list.books;
       break;
   }
 });
@@ -50,17 +54,26 @@ const sortedYears = Object.keys(booksByYear).sort((a: any, b: any) => b - a);
         </ul>
 
         {sortedYears.map(year => (
-            <details>
-                <summary class="text-xl font-semibold cursor-pointer">{year} <span class="text-xs">({booksByYear[year].length} entries)</span></summary>
-                <ul class="mt-2">
-                    {booksByYear[year].map((book) => (
-                        <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
-                            <p class="text-s">{book.title}</p>
-                            <p>{book.rating === 5 ? "❤️" : ""}</p>
-                        </div>
-                    ))}
-                </ul>
-            </details>
+          <details>
+            <summary class="text-xl font-semibold cursor-pointer">{year} <span class="text-xs">({booksByYear[year].length} entries)</span></summary>
+              <ul class="mt-2">
+                {booksByYear[year].map((book) => (
+                  <div class="flex justify-between mb-2 break-words gap-2 borderbottom">
+                    <p class="text-s">{book.title}</p>
+                    <p>{book.rating === 5 ? "❤️" : ""}</p>
+                  </div>
+                ))}
+              </ul>
+          </details>
         ))}
+
+        <details>
+          <summary class="text-xl font-semibold cursor-pointer">want to read</summary>
+          <ul>
+              {booksWant.map((book) => (
+                  <li class="borderbottom">{book.title}</li>
+              ))}
+          </ul>
+        </details>
     </main>
 </SectionContainer>
