@@ -1,8 +1,10 @@
 ---
-title: "More"
-description: "Here you'll see some more of the various pages so that the landing page doesn't overflow with pages lol."
+title: "🗡 Slash Pages"
+description: ""
 layout: "../layouts/Layout.astro"
 ---
+
+These are the rest of the [**slash pages**](https://slashpages.net/) on my website. 
 
 [🔖 **bookmarks**](/bookmarks) · collection of my favorite links to content around the web
 
