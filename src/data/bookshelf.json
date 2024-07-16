@@ -24,7 +24,7 @@
           "author": "Benjamin Graham"
         },
         {
-          "title": "The Summit of The Gods: Vol. 3 - Vol. 5"
+          "title": "The Summit of The Gods: Vol. 4 - Vol. 5"
         },
         {
           "title": "Star Wars: The Tales of Kenobi"
@@ -35,6 +35,32 @@
       "name": "Read",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "The Summit of the Gods: Vol. 3",
+          "isbn": 9788492444335,
+          "author": "Jiro Taniguchi, Yumemakura Baku",
+          "date": 
+            {
+              "year": "2024",
+              "month": "07",
+              "day": "16",
+              "string": "2024-07-16"
+            },
+          "rating": 5
+        },
+        {
+          "title": "Memories of Emanon",
+          "isbn": 9784199500770,
+          "author": "Shinji Kajio, Kenji Tsuruta",
+          "date": 
+            {
+              "year": "2024",
+              "month": "07",
+              "day": "14",
+              "string": "2024-07-14"
+            },
+          "rating": 4
+        },
         {
           "title": "Kagurabachi: Vol. 2",
           "isbn": 9784088838809,
