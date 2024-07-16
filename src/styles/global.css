@@ -236,6 +236,16 @@ blockquote {
 	border-left: 5px solid var(--light-1);
 }
 
+::selection{
+    background-color: var(--dark-1);
+	color: var(--dark-bg);
+}
+
+.dark ::selection{
+    background-color: var(--light-1);
+	color: var(--light-bg);
+}
+
 /* PRINT */
 @media print {
 	body {
