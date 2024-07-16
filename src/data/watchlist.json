@@ -16,10 +16,6 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Demon Slayer: Hashira Training Arc",
-                    "type": "anime"
-                },
-                {
                     "title": "Star Wars: The Bad Batch S02",
                     "type": "series"
                 }
@@ -29,6 +25,30 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "Beverly Hills Cop: Axel F",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "10",
+                        "string": "2024-07-10"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Demon Slayer: Hashira Training Arc",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "08",
+                        "string": "2024-07-08"
+                        },
+                    "rating": 5
+                },
                 {
                     "title": "The Antisocial Network: Memes to Mayhem",
                     "type": "movies",
