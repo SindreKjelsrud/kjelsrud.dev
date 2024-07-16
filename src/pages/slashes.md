@@ -8,7 +8,7 @@ These are the rest of the [**slash pages**](https://slashpages.net/) on my websi
 
 [🔖 **bookmarks**](/bookmarks) · collection of my favorite links to content around the web
 
-[🌐 **connect**](/connect) · ways to reach me across the cyberspace
+[🌐 **contact**](/contact) · ways to reach me across the cyberspace
 
 [📜 **cv**](/cv) · my resume
 

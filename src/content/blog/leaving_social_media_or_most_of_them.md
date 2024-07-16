@@ -69,4 +69,4 @@ Of course I'm going to miss some stuff, like the anime-motivational short videos
 
 Also, on a finishing note I just want to say that I don’t judge others who continue to benefit from social media platforms, get happiness out of using some or all of them. What’s meaningsless for me, might be meaningful for them.
 
-> **PS:** *If I forgot to reach out to you about leaving these platforms and/or you don't have any of my contact info, please visit my [**connect**](/connect)-page!*
+> **PS:** *If I forgot to reach out to you about leaving these platforms and/or you don't have any of my contact info, please visit my [**contact**](/contact)-page!*

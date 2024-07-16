@@ -31,7 +31,7 @@ But wow what a month of blogging! I've posted 5 posts during december, and I'm p
 
 ## 👨‍💻Technology
 
-The updated Astro website has been launched, I'm so happy with the outcome! I've added some new pages such as my [bookmarks](/bookmarks), a [digital garden](/garden), how to [connect](/connect) with me, my daily [uses](/uses) and my [vinyl collection](/vinyl)! 
+The updated Astro website has been launched, I'm so happy with the outcome! I've added some new pages such as my [bookmarks](/bookmarks), a [digital garden](/garden), how to [contact](/contact) with me, my daily [uses](/uses) and my [vinyl collection](/vinyl)! 
 
 I also made myself a GPG and trying to get into the whole signing commits mindset. Big thank you to [Tim](https://timharek.no) for his post on [*"Getting started with GPG"*](https://timharek.no/blog/getting-started-gpg).
 

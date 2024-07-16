@@ -24,5 +24,5 @@ What do I like to do you ask? Well a lot, but as you read on the landing page I 
 
 ## Want to contact me? 📫
 
-You'll find all my contact information, and *"social media"*, under [**connect**](/connect)!
+You'll find all my contact information, and *"social media"*, under [**contact**](/contact)!
 
