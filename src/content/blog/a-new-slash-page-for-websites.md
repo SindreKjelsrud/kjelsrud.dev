@@ -6,7 +6,7 @@ draft: false
 ---
 Some weeks ago I created [**my public wishlist**](/wish) under the slash-page `/wishlist`. After some time showed [**Tim Hårek**](https://timharek.no/) me the repo [**Awesome Website Paths**](https://github.com/jameschensmith/awesome-website-paths), which contained a list of common URL paths. Here, I saw that people used `/wish` for their public wishlist as a standard, so I switched.
 
-At first I wanted this post to be about me introducing two new slash-pages that I think should be standardized on the Indie Web. These two where:
+At first I wanted this post to be about me introducing two new slash-pages that I think should be standardized on the Indie Web. These two were:
 
 - `/bookshelf` - which shows what the person reads, have read, and wants to read
 - `/watchlist` - which shows what the person watches, have watched, and wants to watch

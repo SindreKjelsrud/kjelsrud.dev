@@ -6,7 +6,7 @@ draft: false
 ---
 ## why
 
-For the past 2-3 years I've wanted to get out of the big social media platforms, due to there being [**a new scandal almost every week**](https://www.dedigitaletuin.nl/facebook-en-meta-schandalen/) about the some privacy violations, free speech censoring, and so on. I've become more aware of my personal data the past years since joining [**friByte**](https://fribyte.no), and don't want to have my next decade saved on the servers of big-tech in the same way my last decade was.
+For the past 2-3 years I've wanted to get out of the big social media platforms, due to there being [**a new scandal almost every week**](https://www.dedigitaletuin.nl/facebook-en-meta-schandalen/) about some privacy violations, free speech censoring, and so on. I've become more aware of my personal data the past years since joining [**friByte**](https://fribyte.no), and don't want to have my next decade saved on the servers of big-tech in the same way my last decade was.
 
 Deleting platforms like Twitter/X, Reddit or YouTube wasn't that hard, but when it came to Facebook and Instagram it was more tough. This is because it's so deeply integrated to peoples lives where I'm from, and Facebook Messenger is the main way of communicating.
 
@@ -24,7 +24,7 @@ A good example of why privacy is something we need to protect is mentioned in In
 
 Like many people have said that they *"don't have anything to hide"*, a lot of people do. I like how Snowden puts it in his book on page 208, [***"Permanent Record"***](https://www.ark.no/produkt/boker/dokumentar-og-faktaboker/permanent-record-9781529035698):
 
-> *"There is, simply, no way to ignore privacy. Because a citizenry's freedom are interdependent, to surrender your own privacy is really to surrender everyone's. You might choose to give it up out of convenience, or under the popular pretext that privacy is only required by those who have something to hide. But saying that you don't need or want privacy because you have noting to hide is to assume that no one should have, or could have, to hide anything--including their immigration status, unemployment history, financial history, and health records. You're assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastets and reading preferences."*
+> *"There is, simply, no way to ignore privacy. Because a citizenry's freedom are interdependent, to surrender your own privacy is really to surrender everyone's. You might choose to give it up out of convenience, or under the popular pretext that privacy is only required by those who have something to hide. But saying that you don't need or want privacy because you have noting to hide is to assume that no one should have, or could have, to hide anything--including their immigration status, unemployment history, financial history, and health records. You're assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences."*
 
 If you want to read more about why it matters or how it affects you, I recommend checking out the following stuff:
 
