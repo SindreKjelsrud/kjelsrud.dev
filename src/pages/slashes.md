@@ -22,6 +22,8 @@ These are the rest of the [**slash pages**](https://slashpages.net/) on my websi
 
 [📋 **todo**](/todo) · todo list for website
 
+[🐦 **twtxt**](/twtxt.txt) · microblogging mostly used to reply to blog-posts
+
 [✨ **uses**](/uses) · what i use on a daily basis
 
 [📀 **vinyl collection**](/vinyl) · all my vinyls
