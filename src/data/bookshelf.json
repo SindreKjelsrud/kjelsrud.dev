@@ -62,6 +62,19 @@
           "rating": 4
         },
         {
+          "title": "Kagurabachi: Vol. 3",
+          "isbn": 9784088841168,
+          "author": "Takeru Gokazono",
+          "date": 
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "30",
+              "string": "2024-06-30"
+            },
+          "rating": 5
+        },
+        {
           "title": "Kagurabachi: Vol. 2",
           "isbn": 9784088838809,
           "author": "Takeru Gokazono",
@@ -73,7 +86,8 @@
               "string": "2024-06-22"
             },
           "rating": 4
-        },       {
+        },
+        {
           "title": "Kagurabachi: Vol. 1",
           "isbn": 9784088838199,
           "author": "Takeru Gokazono",
