@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 
 User-agent: *
-Sitemap: https://kjelsrud.dev/sitemap.xml
+Sitemap: https://kjelsrud.dev/sitemap-index.xml
