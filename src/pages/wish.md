@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: July 10, 2024*
+> *Last update: July 16, 2024*
 
 [**Guesswork**](https://en.wiktionary.org/wiki/guesswork) gifting is not sustainable. Here's my public wishlist. Also, whenever possible, buy pre-owned!
 
@@ -13,12 +13,6 @@ layout: "../layouts/Layout.astro"
 - [**Kreftforeningen**](https://kreftforeningen.no/stott-kreftforeningen/gratulasjonsgave/#gratulasjonsgave)
 - [**Røde Kors**](https://www.rodekors.no/stott-arbeidet/)
 - [**Sykehusklovnene**](https://www.sykehusklovnene.no/)
-
-### Things
-
-- [**Kavu Chilli Lite Short: Puzzled color**](https://kavu.eu/products/chilli-lite-short?variant=44984829968543) or another outdoor activities shorts - size Medium
-- [**Star Wars: Naboo "Been There" Mug**](https://www.disneystore.com/star-wars-naboo-starbucks-mug-464067212132.html) by Starbucks
-- [**Obi-Wan Weathered Lightsaber**](https://sabertheory.com/products/obi-weathered-saber?variant=43068730802410)
 
 ### Tech
 
