@@ -26,6 +26,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Saint☆Young Men (Movie)",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "17",
+                        "string": "2024-07-17"
+                        },
+                    "rating": 5
+                },
+                {
                     "title": "Beverly Hills Cop: Axel F",
                     "type": "movie",
                     "date": 
