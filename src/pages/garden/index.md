@@ -1,13 +1,14 @@
 ---
-title: 'Digital garden'
-description: '🪴 My personal digital garden. A wild garden, filled with drafts, ideas and more.'
+title: "Digital garden"
+description: "🪴 My personal digital garden. A wild garden, filled with drafts, ideas and more."
 layout: "../../layouts/Layout.astro"
 ---
+
 #### Different types of drafts / ideas
 
-- 🌱 *Seedlings for very rough and early ideas.*  
-- 🌿 *Budding for work I've cleaned up and clarified.*  
-- 🌳 *Evergreen for work that is reasonably complete.*
+- 🌱 _Seedlings for very rough and early ideas._
+- 🌿 _Budding for work I've cleaned up and clarified._
+- 🌳 _Evergreen for work that is reasonably complete._
 
 #### Pages
 
@@ -16,5 +17,7 @@ layout: "../../layouts/Layout.astro"
 [ℹ️ **Lifehacks**](/garden/lifehacks)
 
 [⚙️ **Machines**](/garden/machines)
+
+[📝 **Random Web-notes**](/garden/notes)
 
 [🔧 **Services**](/garden/services)
