@@ -16,7 +16,7 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Star Wars: The Bad Batch S02",
+                    "title": "Star Wars: The Bad Batch S03",
                     "type": "series"
                 }
             ]
@@ -26,6 +26,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Star Wars: The Bad Batch S02",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "23",
+                        "string": "2024-07-23"
+                        },
+                    "rating": 4
+                },
+		{
                     "title": "Saint☆Young Men (Movie)",
                     "type": "anime",
                     "date": 
