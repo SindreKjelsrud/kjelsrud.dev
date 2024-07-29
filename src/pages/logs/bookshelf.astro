@@ -41,16 +41,24 @@ const sortedYears = Object.keys(booksByYear).sort((a: any, b: any) => b - a);
         <h1 class="text-3xl font-extrabold">📚 ¿Dónde está la biblioteca?</h1>
         <h2 class="text-xl font-semibold">on the shelf</h2>
         <ul class="flex flex-col text-s gap-2 text-l">
-            {booksShelf.map((book) => (
+            {booksShelf.length !== 0 ? (
+            booksShelf.map((book) => (
                 <li class="borderbottom">📚 {book.title}</li>
-            ))}
+            ))
+          ) : (
+            <p>currently empty...</p>
+          )}
         </ul>
 
         <h2 class="text-xl font-semibold">on the nightstand</h2>
-        <ul>
-            {booksReading.map((book) => (
-                <li class="borderbottom">📖 {book.title}</li>
-            ))}
+        <ul  class="flex flex-col text-s gap-2 text-l">
+          {booksReading.length !== 0 ? (
+            booksReading.map((book) => (
+              <li class="borderbottom">📖 {book.title}</li>
+            ))
+          ) : (
+            <p>currently empty...</p>
+          )}
         </ul>
 
         {sortedYears.map(year => (
