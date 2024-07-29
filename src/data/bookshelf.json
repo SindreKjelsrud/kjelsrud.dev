@@ -7,6 +7,9 @@
       "name": "Currently reading",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "The Summit of The Gods: Vol. 4"
+        }
       ]
     },
     {
@@ -19,7 +22,7 @@
           "author": "Benjamin Graham"
         },
         {
-          "title": "The Summit of The Gods: Vol. 4 - Vol. 5"
+          "title": "The Summit of The Gods: Vol. 5"
         },
         {
           "title": "Star Wars: The Tales of Kenobi"
