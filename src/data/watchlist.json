@@ -14,11 +14,7 @@
                 {
                     "title": "My Hero Academia S07",
                     "type": "anime"
-                },
-                {
-                    "title": "Star Wars: The Bad Batch S03",
-                    "type": "series"
-                }
+                } 
             ]
         },
         {
@@ -26,6 +22,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Star Wars: The Bad Batch S03",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "07",
+                        "day": "29",
+                        "string": "2024-07-29"
+                        },
+                    "rating": 4
+                },
+	        {
                     "title": "Star Wars: The Bad Batch S02",
                     "type": "series",
                     "date": 
