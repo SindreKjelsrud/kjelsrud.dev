@@ -7,11 +7,6 @@
       "name": "Currently reading",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
-        {
-          "title": "Dune",
-          "isbn": 9780340960196,
-          "author": "Frank Herbert"
-        }
       ]
     },
     {
@@ -36,6 +31,19 @@
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
+          "title": "Dune",
+          "isbn": 9780340960196,
+          "author": "Frank Herbert",
+          "date": 
+            {
+              "year": "2024",
+              "month": "07",
+              "day": "29",
+              "string": "2024-07-29"
+            },
+          "rating": 4
+        },
+	{
           "title": "The Summit of the Gods: Vol. 3",
           "isbn": 9788492444335,
           "author": "Jiro Taniguchi, Yumemakura Baku",
