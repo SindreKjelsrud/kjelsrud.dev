@@ -6,6 +6,7 @@ layout: "../layouts/Layout.astro"
 
 ## Personal websites
 
+- [~bayazidi](https://bayazidi.xyz/) friend from home
 - [~cengelsen](https://cengelsen.no) member of [friByte](https://fribyte.no)
 - [~heimvik](https://heimvik.me/) member of [friByte](https://fribyte.no)
 - [~mathiash98](https://mathiash98.github.io/) member of [friByte](https://fribyte.no)
@@ -25,17 +26,17 @@ layout: "../layouts/Layout.astro"
 
 ## Videos
 
-- [alone.](https://iv.nboeck.de/watch?v=6jth3t0_ZqE) a video essay exploring why a minecraft player feels so alone
-- [A Time For Everything](https://iv.nboeck.de/watch?v=ODPT6R_zWEc) one of my favorite ski-films by Nikolai Schirmer
-- [Stone Locals: Rediscovering the Soul of Climbing](https://iv.nboeck.de/watch?v=Yj7ZCYMgSvw) fantastic documentary about the people who climb
-- [The Yin & Yang of Gerry Lopez](https://iv.nboeck.de/watch?v=GeTMPJ2B5VE) such a beautiful and inspiring surfing documentary
+- [alone.](https://invidious.privacyredirect.com/watch?v=6jth3t0_ZqE) a video essay exploring why a minecraft player feels so alone
+- [A Time For Everything](https://invidious.privacyredirect.com/watch?v=ODPT6R_zWEc) one of my favorite ski-films by Nikolai Schirmer
+- [I Visited Mount Everest Base Camp](https://invidious.privacyredirect.com/watch?v=fHh29py_Uoc) a short film about a sherpa and his life
+- [Stone Locals: Rediscovering the Soul of Climbing](https://invidious.privacyredirect.com/watch?v=Yj7ZCYMgSvw) fantastic documentary about the people who climb
+- [The Yin & Yang of Gerry Lopez](https://invidious.privacyredirect.com/watch?v=GeTMPJ2B5VE) such a beautiful and inspiring surfing documentary
 
 ## Repositories
 
 - [ani-cli](https://github.com/pystardust/ani-cli) cli tool to browse and play anime
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) open-source alternative to Notion
 - [excalidraw](https://github.com/excalidraw/excalidraw) virtual whiteboard
-- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) free & open source machine translation api
 - [maybe](https://github.com/maybe-finance/maybe) OS for you personal finances
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) playing pokemon red with reinforcement learning
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx) experimental nintendo switch emulator
