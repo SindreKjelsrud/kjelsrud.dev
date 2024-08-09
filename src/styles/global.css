@@ -97,9 +97,13 @@ p {
 	font-weight: 600;
 }
 
-.blog table, th, td {
-	border: 1px solid;
-	margin: 10px 0px;
+.blog table {
+    border-collapse: collapse;
+    margin: 10px 0px;
+}
+
+.blog th, .blog td {
+    border: 1px solid;
 }
 
 .blog a { color: var(--dark-link); font-weight: bolder;}
