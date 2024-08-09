@@ -1,16 +1,16 @@
 ---
-title: '🔖 Bookmarks'
-description: 'A collection of my favorite links to content around the web (blogs, podcasts, etc.).'
+title: "🔖 Bookmarks"
+description: "A collection of my favorite links to content around the web (blogs, podcasts, etc.)."
 layout: "../layouts/Layout.astro"
 ---
 
-## Personal websites / blogs
+## Personal websites
 
 - [~cengelsen](https://cengelsen.no) member of [friByte](https://fribyte.no)
 - [~heimvik](https://heimvik.me/) member of [friByte](https://fribyte.no)
 - [~mathiash98](https://mathiash98.github.io/) member of [friByte](https://fribyte.no)
+- [~polsevev](https://polsevev.dev/) member of [friByte](https://fribyte.no)
 - [~timharek](https://timharek.no/) member of [friByte](https://fribyte.no)
-- [~vitalik](https://vitalik.eth.limo/) the founder of Ethereum
 
 ## Podcasts
 
@@ -19,8 +19,7 @@ layout: "../layouts/Layout.astro"
 
 ## Miscellaneous
 
-- [mnmlist](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer 
-- [Pengeblogg](https://pengeblogg.bloggnorge.com/) tips & ideas about personal finances, stockmarket et-cetera
+- [mnmlist](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer
 - [Lacero](https://galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir
 - [What Crypto Has in Common with Trickshotting and Faze Clan](https://blog.teji.io/faze) interesting blog-post by Jet Williams surrounding digital ownership
 
