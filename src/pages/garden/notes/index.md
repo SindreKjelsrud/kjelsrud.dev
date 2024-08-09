@@ -6,4 +6,4 @@ layout: "../../../layouts/Layout.astro"
 
 Random notes I've found across the web that I want to store and remember.
 
-- [**Digital Security** 🌱](/garden/notes/digitalsecurity)
+- [Digital Security 🌱](/garden/notes/digitalsecurity)

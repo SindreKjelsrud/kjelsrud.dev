@@ -12,8 +12,8 @@ layout: "../layouts/Layout.astro"
 
 🚚 **Moving:** Moving back home to Norway from Spain, and then moving to a new apartment in Bergen.
 
-📢 **BOSkonf:** As last year's conference was a success, we wanted to continue it! I have again taken on the leading role and am currently planning this year's iteration of [**the conference**](https://boskonf.no/en) with other volunteers.
+📢 **BOSkonf:** As last year's conference was a success, we wanted to continue it! I have again taken on the leading role and am currently planning this year's iteration of [the conference](https://boskonf.no/en) with other volunteers.
 
-📖 **Reading:** If you want to check out what I'm currently reading, check out [**my bookshelf**](/logs/bookshelf).
+📖 **Reading:** If you want to check out what I'm currently reading, check out [my bookshelf](/logs/bookshelf).
 
-👀 **Watching:** If you want to check out what I'm currently watching, check out [**my tv-logs**](/logs/watchlist).
+👀 **Watching:** If you want to check out what I'm currently watching, check out [my tv-logs](/logs/watchlist).

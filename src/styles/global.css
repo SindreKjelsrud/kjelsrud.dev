@@ -102,7 +102,7 @@ p {
 	margin: 10px 0px;
 }
 
-.blog a { color: var(--dark-link);}
+.blog a { color: var(--dark-link); font-weight: bolder;}
 
 .dark .blog a { color: var(--light-link);}
 

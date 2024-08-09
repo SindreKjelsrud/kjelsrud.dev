@@ -7,8 +7,8 @@ Info about different machines I've got, all from gaming consoles to homelab stuf
 
 #### Homelab
 
-- [**kanto** 🌳](/garden/machines/kanto)
+- [kanto 🌳](/garden/machines/kanto)
 
 #### Consoles
 
-- [**Nintendo Wii** 🌱](/garden/machines/wii)
+- [Nintendo Wii 🌱](/garden/machines/wii)

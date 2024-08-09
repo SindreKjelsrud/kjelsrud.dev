@@ -20,7 +20,7 @@ This month was filled up with school as well since it's the examperiod.. My work
 
 ## 💪 Health
 
-This month I've been active outdoors and went bouldering alot! I actually went bouldering outside for my first time, it was so fun!! There was a huge field of stones in the woods near Åsebø, called [Perleveggen](https://buldring.bergen-klatreklubb.no/sector/3526). The boulder was named [***Time for a haircut***](https://buldring.bergen-klatreklubb.no/problem/16336) and it was a 6A! It took some tries and I must say, bouldering outside is something else lol.
+This month I've been active outdoors and went bouldering alot! I actually went bouldering outside for my first time, it was so fun!! There was a huge field of stones in the woods near Åsebø, called [Perleveggen](https://buldring.bergen-klatreklubb.no/sector/3526). The boulder was named [*Time for a haircut*](https://buldring.bergen-klatreklubb.no/problem/16336) and it was a 6A! It took some tries and I must say, bouldering outside is something else lol.
 
 ## 👨‍💻 Technology
 

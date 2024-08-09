@@ -12,12 +12,12 @@ layout: "../../layouts/Layout.astro"
 
 #### Pages
 
-[🗒️ **Instructions**](/garden/instructions)
+[🗒️ Instructions](/garden/instructions)
 
-[ℹ️ **Lifehacks**](/garden/lifehacks)
+[ℹ️ Lifehacks](/garden/lifehacks)
 
-[⚙️ **Machines**](/garden/machines)
+[⚙️ Machines](/garden/machines)
 
-[📝 **Random Web-notes**](/garden/notes)
+[📝 Random Web-notes](/garden/notes)
 
-[🔧 **Services**](/garden/services)
+[🔧 Services](/garden/services)

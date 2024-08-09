@@ -4,7 +4,7 @@ description: ''
 layout: "../../layouts/Layout.astro"
 ---
 
-> *Thanks to [**earendelmir**](https://earendelmir.xyz/) for giving me inspiration to create my own gallery!*
+> *Thanks to [earendelmir](https://earendelmir.xyz/) for giving me inspiration to create my own gallery!*
 
 Under you'll see different pages where I collect and showcase some of my photographs. They're either grouped by capture date, location or theme.
 
@@ -12,12 +12,12 @@ This way you can check out moments and places of my life, but keep in mind I'm n
 
 ### Erasmus semester
 
-- [**albarracin**](/gallery/albarracin)
-- [**valencia**](/gallery/valencia)
-- [**marseille**](/gallery/marseille)
-- [**morocco**](/gallery/morocco)
+- [albarracin](/gallery/albarracin)
+- [valencia](/gallery/valencia)
+- [marseille](/gallery/marseille)
+- [morocco](/gallery/morocco)
 
 ### Random
 
-- [**bergen**](/gallery/bergen)
-- [**cairn collection**](/gallery/cairns)
+- [bergen](/gallery/bergen)
+- [cairn collection](/gallery/cairns)

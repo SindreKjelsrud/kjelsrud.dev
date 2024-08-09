@@ -6,12 +6,12 @@ layout: "../layouts/Layout.astro"
 
 Feel free to drop me an email: `hello [at] kjelsrud.dev`! Whether it's to say hello, discuss the latest must-see anime, offer a fresh perspective, or anything else. Think of my inbox as the friendly neighborhood café where all conversations are welcome. 
 
-If you want me in your contact-list you can download my vCard [**here**](/sid.vcf).
+If you want me in your contact-list you can download my vCard [here](/sid.vcf).
 
 ## Across the cyberspace 
 
-- [**GitHub**](https://github.com/SindreKjelsrud)
-- [**Spotify**](https://open.spotify.com/user/kjelsrud!)
+- [GitHub](https://github.com/SindreKjelsrud)
+- [Spotify](https://open.spotify.com/user/kjelsrud!)
 
 
 ## GPG

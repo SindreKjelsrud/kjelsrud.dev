@@ -8,7 +8,7 @@ layout: "../../../layouts/Layout.astro"
 
 #### 🔗 Links
 
-- [**Wii Hacks Guide**](https://wii.hacks.guide/)
+- [Wii Hacks Guide](https://wii.hacks.guide/)
 
 ## 🧠 Stuff to know
 

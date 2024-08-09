@@ -4,7 +4,7 @@ pubDate: 'July 02 2024'
 description: ""
 draft: false
 ---
-Last week I stumbled upon [**The Dead Internet Theory**](https://thedeadinternettheory.com/), and got very intrigued. Basically it's a theory that suggests that most of the content and users of the internet is now dominated by bot activity, and how the internet is just filling up with automated and AI-driven content. You see less of organic human activity and more of plain well-written spam.
+Last week I stumbled upon [The Dead Internet Theory](https://thedeadinternettheory.com/), and got very intrigued. Basically it's a theory that suggests that most of the content and users of the internet is now dominated by bot activity, and how the internet is just filling up with automated and AI-driven content. You see less of organic human activity and more of plain well-written spam.
 
 This theory got me thinking about my own blog and how I've used AI for certain posts to help me, all from basic title ideas to full-fledged drafts. Most of them doesn't sound like me at all, in my opinion. 
 

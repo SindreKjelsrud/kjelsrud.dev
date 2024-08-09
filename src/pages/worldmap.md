@@ -6,7 +6,7 @@ layout: "../layouts/Layout.astro"
 
 [![](/img/worldmap.svg)](/img/worldmap.svg)
 
-> _Made on: [**simplemaps.com**](https://simplemaps.com)_
+> _Made on: [simplemaps.com](https://simplemaps.com)_
 
 ### 🌍 List of countries shown in map
 
@@ -24,7 +24,7 @@ layout: "../layouts/Layout.astro"
 
 #### 🧗 Crags I want to visit
 
-- [**Fiskebäcksvik, Sweden**](https://27crags.com/crags/fiskebacksvik)
+- [Fiskebäcksvik, Sweden](https://27crags.com/crags/fiskebacksvik)
 - SPK Grip Moonboard in Bjelovar, Croatia
-- [**Ulorna, Sweden (trad)**](https://27crags.com/crags/ulorna)
-- [**Ulorna, Sweden (boulder)**](https://27crags.com/crags/ulorna-boulders)
+- [Ulorna, Sweden (trad)](https://27crags.com/crags/ulorna)
+- [Ulorna, Sweden (boulder)](https://27crags.com/crags/ulorna-boulders)

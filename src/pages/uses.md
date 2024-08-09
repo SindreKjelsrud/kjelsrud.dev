@@ -4,10 +4,10 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: March 17, 2024*
+> *Last update: July 22, 2024*
 
 ## What do I use?
-> This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
+> This page was inspired by [Uses This](https://usesthis.com/), and you can see more pages like this there.
 
 The following is a list of the  different technologies that I use on a daily basis. This includes my computers, the software I run on them, how I host stuff and other miscellaneous stuff. 
 
@@ -15,7 +15,7 @@ I've also added the names of my machines as I think these are fun to show. The n
 
 [![Image of my terminal](/img/term.webp)](/img/term.webp)
 
-> For more details about my [**dotfiles click here**](https://github.com/SindreKjelsrud/dotfiles).
+> For more details about my [dotfiles click here](https://github.com/SindreKjelsrud/dotfiles).
 
 ## 🐧 Hardware (+ OS)
 
@@ -25,7 +25,7 @@ My primary laptop that I use for all schoolwork and personal stuff is my **14" A
 
 [![water7.webp](/img/water7.webp)](/img/water7.webp)
 
-I was dualbooting Windows and Arch before, but no longer do since Windows just fucked up everything, multiple times, and I no longer need it for university exams. Might dualboot with another Linux distro in the future, we'll see. Quite shit laptop, but looks very nice with the Minecraft GRUB! 
+Recently moved over to Linux Mint from Arch. The laptop is okay, and looks very nice with the Minecraft GRUB! 
 
 #### gaming pc (skypiea)
 
@@ -42,7 +42,7 @@ Here is a list over some of the peripherals I use for it:
 
 #### home server (eastblue)
 
-Actually my latest addition! I bought this **HP Prodesk 600 G3 SFF** from [**bergenbruktpc.no**](https://bergenbruktpc.no/) on sale for around 1300NOK with an additional 16GBs of RAM. I installed ProxMox on it after quite a lot of BIOS hassle.  In short, the specs are an Intel Core i7-6700, 256GB NVME SSD, 500GB HDD & 32GB RAM.
+Actually my latest addition! I bought this **HP Prodesk 600 G3 SFF** from [bergenbruktpc.no](https://bergenbruktpc.no/) on sale for around 1300NOK with an additional 16GBs of RAM. I installed ProxMox on it after quite a lot of BIOS hassle.  In short, the specs are an Intel Core i7-6700, 256GB NVME SSD, 500GB HDD & 32GB RAM.
 
 [![eastblue.webp](/img/eastblue.webp)](/img/eastblue.webp)
 
@@ -60,7 +60,7 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 - **AirPods 2nd gen:** Earbuds for training, works good.
 - **iPhone 13:** Works pretty good.
 - Some gaming consoles:
-    - **GameBoy Color:** My first mod-project, check out the [**post**](/blog/breathing-new-life-into-my-old-gameboy-color/) I wrote on it.
+    - **GameBoy Color:** My first mod-project, check out the [post](/blog/breathing-new-life-into-my-old-gameboy-color/) I wrote on it.
     - **Nintendo DS Lite:** Gotta have some Mario Kart on the go!
     - **Nintendo Switch:** Animal Crossing has never been cozier.
     - **Nintendo Wii:** Easily the best console for playing at home with friends.
@@ -69,18 +69,17 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 
 ## 🧑‍💻 Software
 
-- [**Alacritty**](https://github.com/alacritty/alacritty). A cross-platform, OpenGL terminal emulator. 
-- [**Discord**](https://discord.com/). For communication while gaming/coding.
-- [**Firefox**](https://www.mozilla.org/en-US/firefox/new/). Browser of choice.
-    - [**Bitwarden**](https://bitwarden.com/). Open source password manager, want to start selfhosting it.
-    - [**Invidious**](https://invidious.io/). Open source front-end for YouTube.
-    - [**uBlock Origin**](https://ublockorigin.com/) Free, open-source ad content blocker.
-- [**GitHub**](https://github.com/). For storing my Git-repos.
-- [**Migadu**](https://migadu.com). Email provider.
-- [**LocalSend**](https://localsend.org/#/). For sharing files to nearby devices.
-- [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
-- [**Signal**](https://signal.org/). Chat service, trying to get more people to use it!
-- [**Spotify**](https://spotify.com/). Current music-service of choice.
-- [**Squoosh**](https://squoosh.app/). Image compression web-app.
-- [**VSCode**](https://github.com/microsoft/vscode). IDE of choice most of the time.
-    - [**neovim**](https://neovim.io/). In progress of learning. How do I exit it?
+- [Alacritty](https://github.com/alacritty/alacritty). A cross-platform, OpenGL terminal emulator. 
+- [Discord](https://discord.com/). For communication while gaming/coding.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/). Browser of choice.
+    - [Bitwarden](https://bitwarden.com/). Open source password manager, want to start selfhosting it.
+    - [Invidious](https://invidious.io/). Open source front-end for YouTube.
+    - [uBlock Origin](https://ublockorigin.com/) Free, open-source ad content blocker.
+- [GitHub](https://github.com/). For storing my Git-repos.
+- [Migadu](https://migadu.com). Email provider.
+- [LocalSend](https://localsend.org/#/). For sharing files to nearby devices.
+- [NetNewsWire](https://netnewswire.com/). RSS Reader.
+- [Signal](https://signal.org/). Chat service, trying to get more people to use it!
+- [Spotify](https://spotify.com/). Current music-service of choice.
+- [Squoosh](https://squoosh.app/). Image compression web-app.
+- [VSCodium](https://github.com/VSCodium/vscodium) (or [neovim](https://neovim.io/)). Text editor, switching between between them depending on task.

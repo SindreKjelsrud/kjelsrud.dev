@@ -9,11 +9,11 @@ draft: false
 
 During the summer of 2022 I got hooked on watching YouTube videos about modding retro consoles, all from the GameBoy Color to the Nintendo Wii. It was like injecting pure dopamine in to my brain one video at a time lmao.
 
-But one video, by [**Macho Nacho Productions**](https://www.youtube.com/watch?v=yqnrEpcaans), really stood out to me. Basically he made a "Super" GameBoy Color, where he crammed like 4 mods into it. I immediately wanted to try something like it myself, so I took my dusty, old, purple GameBoy Color with me back to Bergen, where I study.
+But one video, by [Macho Nacho Productions](https://www.youtube.com/watch?v=yqnrEpcaans), really stood out to me. Basically he made a "Super" GameBoy Color, where he crammed like 4 mods into it. I immediately wanted to try something like it myself, so I took my dusty, old, purple GameBoy Color with me back to Bergen, where I study.
 
 ### Products
 
-As soon as I got to Bergen I ordered a GameBoy Color 2.0 Q5 IPS Laminated Backlight Kit, a white GameBoy Color 2.0 Laminated Q5 IPS Ready Shell and some purple buttons/pads from [**FunnyPlaying**](https://retrogamerepairshop.com/), and waited excitedly for them to arrive..
+As soon as I got to Bergen I ordered a GameBoy Color 2.0 Q5 IPS Laminated Backlight Kit, a white GameBoy Color 2.0 Laminated Q5 IPS Ready Shell and some purple buttons/pads from [FunnyPlaying](https://retrogamerepairshop.com/), and waited excitedly for them to arrive..
 
 ### Modding process
 

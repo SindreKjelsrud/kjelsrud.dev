@@ -11,7 +11,7 @@ Sommeren 2023 har jeg hatt sommerjobb i **NAV IT** som ***"Førstekonsulent-Utvi
 
 I løpet av sommeren har jeg skrevet en slags "dagbok", der jeg har notert ned hva som har skjedd hver dag i løpet av de åtte ukene jeg var ansatt. Dette valgte jeg å gjøre ettersom det er **min aller første jobb i IT-bransjen**, og er noe jeg ville huske i fremtiden og kunne se tilbake på. 
 
-Grunnen til at jeg velger å publisere dette, *med lov fra mine overordnede i NAV*, på bloggen min er for å gi innsikt i hvordan hverdagen som sommerstudent i NAV IT er og hvordan jeg har hatt det igjennom sommeren! Jeg har også vært med i [***"7 kjappe med årets sommerjobbere"***](https://www.detsombetyrnoe.no/7-kjappe-med-arets-sommerjobbere) som forteller litt av samme, en slags ***TL;DR*** for denne posten.🚀
+Grunnen til at jeg velger å publisere dette, *med lov fra mine overordnede i NAV*, på bloggen min er for å gi innsikt i hvordan hverdagen som sommerstudent i NAV IT er og hvordan jeg har hatt det igjennom sommeren! Jeg har også vært med i [*"7 kjappe med årets sommerjobbere"*](https://www.detsombetyrnoe.no/7-kjappe-med-arets-sommerjobbere) som forteller litt av samme, en slags ***TL;DR*** for denne posten.🚀
 
 En ting jeg vil si før du som leser ser igjennom dagene og ukene min hos NAV IT, er at studerer du eller er ferdigutdanna/egenlært innenfor IT-yrket så er dette en arbeidsplass jeg anbefaler på det sterkeste.  
 Oppfølgingen man får, det sosiale miljøet på og utenfor kontoret, teknologien man får teste ut, den gode maten i personalrestauranten osv. har vært en opplevelse som har styrket tanken om at jeg har valgt riktig yrke og gjort at jeg gleder meg helt sykt til å komme meg ut i arbeidslivet!🤩

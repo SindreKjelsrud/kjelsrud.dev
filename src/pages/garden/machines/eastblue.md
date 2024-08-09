@@ -26,7 +26,7 @@ Memory: ~32GB
 
 - Minecraft server 
 - PiVPN
-- My own Discord bot - [**sidBot**](https://github.com/SindreKjelsrud/sidBot)
+- My own Discord bot - [sidBot](https://github.com/SindreKjelsrud/sidBot)
 - This website
 
 ## 📋 Todo
