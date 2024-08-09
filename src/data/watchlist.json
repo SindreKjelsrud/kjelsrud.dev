@@ -14,17 +14,37 @@
                 {
                     "title": "My Hero Academia S07",
                     "type": "anime"
-                }, 
-                {
-                    "title": "Madoff: The Monster of Wall Street",
-                    "type": "anime"
-                } 
+                }
             ]
         },
         {
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "Alexander: The Making of a God",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "08",
+                        "day": "08",
+                        "string": "2024-08-08"
+                        },
+                    "rating": 5
+                },
+                {
+                    "title": "Madoff: The Monster of Wall Street",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "08",
+                        "day": "07",
+                        "string": "2024-08-07"
+                        },
+                    "rating": 4
+                },
                 {
                     "title": "Star Wars: The Bad Batch S03",
                     "type": "series",
@@ -37,7 +57,7 @@
                         },
                     "rating": 4
                 },
-	        {
+	            {
                     "title": "Star Wars: The Bad Batch S02",
                     "type": "series",
                     "date": 
@@ -49,7 +69,7 @@
                         },
                     "rating": 4
                 },
-		{
+		        {
                     "title": "Saint☆Young Men (Movie)",
                     "type": "anime",
                     "date": 
