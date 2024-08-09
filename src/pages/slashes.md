@@ -4,7 +4,9 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-These are the rest of the [slash pages](https://slashpages.net/) on my website. 
+These are the rest of the [slash pages](https://slashpages.net/) on my website.
+
+[🔁 blogroll](/blogroll) · collection of my favorite feeds
 
 [🔖 bookmarks](/bookmarks) · collection of my favorite links to content around the web
 
