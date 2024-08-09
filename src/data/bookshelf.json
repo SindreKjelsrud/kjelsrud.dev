@@ -34,6 +34,32 @@
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
+          "title": "Kunsten å fly - ta styringen i ditt eget liv",
+          "isbn": 9788272016172,
+          "author": "Morten Åsli",
+          "date": 
+            {
+              "year": "2024",
+              "month": "08",
+              "day": "07",
+              "string": "2024-08-07"
+            },
+          "rating": 5
+        },
+        {
+          "title": "Viljestyrke: om mål, motivasjon og mot",
+          "isbn": 9788248914525,
+          "author": "Dag Otto Lauritzen",
+          "date": 
+            {
+              "year": "2024",
+              "month": "08",
+              "day": "03",
+              "string": "2024-08-03"
+            },
+          "rating": 4
+        },
+        {
           "title": "Dune",
           "isbn": 9780340960196,
           "author": "Frank Herbert",
@@ -46,7 +72,7 @@
             },
           "rating": 4
         },
-	{
+        {
           "title": "The Summit of the Gods: Vol. 3",
           "isbn": 9788492444335,
           "author": "Jiro Taniguchi, Yumemakura Baku",
