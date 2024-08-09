@@ -9,6 +9,11 @@
       "books":[
         {
           "title": "The Summit of The Gods: Vol. 4"
+        },
+        {
+          "title": "Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+          "isbn": 9781544514208,
+          "author": "Eric Jorgenson"
         }
       ]
     },
