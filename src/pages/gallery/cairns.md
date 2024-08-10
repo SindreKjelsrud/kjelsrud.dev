@@ -1,8 +1,14 @@
 ---
-title: '📸 gallery: cairn collection'
-description: ''
+title: "📸 gallery: cairn collection"
+description: ""
 layout: "../../layouts/Gallery.astro"
 ---
+
+[![varde080824](/img/varder/varde080824.webp)](/img/varder/varde080824.webp)
+
+[![varde130724](/img/varder/varde130724.webp)](/img/varder/varde130724.webp)
+
+[![varde050724](/img/varder/varde050724.webp)](/img/varder/varde050724.webp)
 
 [![varde160524](/img/varder/varde160524.webp)](/img/varder/varde160524.webp)
 
@@ -27,7 +33,6 @@ layout: "../../layouts/Gallery.astro"
 [![varde271223](/img/varder/varde271223.webp)](/img/varder/varde271223.webp)
 
 [![varde071123](/img/varder/varde071123.webp)](/img/varder/varde071123.webp)
-
 
 [![varde191023](/img/varder/varde191023.webp)](/img/varder/varde191023.webp)
 
