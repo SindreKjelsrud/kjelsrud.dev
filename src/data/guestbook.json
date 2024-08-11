@@ -2,7 +2,7 @@
   "visitors": [
     {
       "name":"Sid",
-      "social":"sidski",
+      "social":"kjelsrud.dev",
       "sociallink":"https://kjelsrud.dev",
       "image":"/img/guestbook/sid_pizza.webp",
       "date": {
@@ -14,7 +14,7 @@
     }, 
     {
       "name":"Albert",
-      "social":"bayazidi",
+      "social":"bayazidi.xyz",
       "sociallink":"https://bayazidi.xyz",
       "image":"/img/guestbook/albert_pizza.webp",
       "date": {
@@ -23,9 +23,21 @@
         "day": "02",
         "string": "02.03.2024"
       }
+    }, 
+    {
+      "name":"Azlen",
+      "social":"azlen.me",
+      "sociallink":"https://azlen.me/",
+      "image":"/img/guestbook/azlen_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "08",
+        "day": "10",
+        "string": "10.08.2024"
+      }
     }
   ],
   "meta": {
-    "lastModified": "March 02, 2024"
+    "lastModified": "August 11, 2024"
   }
 }
