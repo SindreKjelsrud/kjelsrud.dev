@@ -8,9 +8,6 @@
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
-          "title": "The Summit of The Gods: Vol. 4"
-        },
-        {
           "title": "Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
           "isbn": 9781544514208,
           "author": "Eric Jorgenson"
@@ -42,6 +39,19 @@
       "name": "Read",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "The Summit of the Gods: Vol. 4",
+          "isbn": 9788492444632,
+          "author": "Jiro Taniguchi, Yumemakura Baku",
+          "date": 
+            {
+              "year": "2024",
+              "month": "08",
+              "day": "14",
+              "string": "2024-08-14"
+            },
+          "rating": 4
+        },
         {
           "title": "Kunsten å fly - ta styringen i ditt eget liv",
           "isbn": 9788272016172,
