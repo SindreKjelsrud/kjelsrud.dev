@@ -22,6 +22,30 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Euphoria S2",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "08",
+                        "day": "13",
+                        "string": "2024-08-13"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Failure to Launch",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "08",
+                        "day": "12",
+                        "string": "2024-08-12"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Alexander: The Making of a God",
                     "type": "series",
                     "date": 
