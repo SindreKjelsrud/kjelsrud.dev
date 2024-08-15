@@ -22,6 +22,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Chernobyl",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "08",
+                        "day": "14",
+                        "string": "2024-08-14"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Euphoria S2",
                     "type": "series",
                     "date": 
