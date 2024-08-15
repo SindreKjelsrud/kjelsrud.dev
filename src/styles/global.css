@@ -159,13 +159,13 @@ p {
 
 /* CV */
 .cv h2 {
-	font-size: x-large;
+	font-size: larger;
 	font-weight: 800;
 }
 
-.cv h3 {
-	font-size: large;
-	font-weight: 700;
+.cv h4 {
+	font-size: medium;
+	font-weight: 600;
 }
 
 .cv-date {
