@@ -1,53 +1,49 @@
 {
-    "basics": {
+  "basics": {
       "name": "Sindre Kjelsrud",
-      "email": "kjelsrudsindre@gmail.com",
-      "url": "https://kjelsrud.dev",
-      "summary": "Aspiring IT professional with a commitment to joining Capgemini post-graduation in 2024. Passionate about software development, open source and the dynamic of collaborative teamwork. Eager to leverage my technical and professional expertise to grow in the new role of Software Engineer."
-    },
-    "work": [
+      "email": "jobb@kjelsrud.dev",
+      "url": "kjelsrud.dev",
+      "linkedin": "https://www.linkedin.com/in/sindrekjelsrud/",
+      "summary": "Recent graduate developer set to start at Capgemini in September 2024. Passionate about software development, open source, and the dynamics of collaborative teamwork."
+  },
+  "work": [
       {
-        "name": "Wide Assessment",
-        "location": "Bergen, Vestland",
-        "position": "Intern",
-        "url": "https://wa.works/",
-        "startDate": "Aug 2023",
-        "endDate": "Dec 2023",
-        "highlights": [
-          "Developed a movie database application and API",
-          "Collaborated in pair programming throughout the internship",
-          "Contributed to a large existing codebase",
-          "Utilized React.js, C# and PostgreSQL for full-stack development"
-        ]
+          "name": "Wide Assessment",
+          "location": "Bergen, Vestland",
+          "position": "Intern",
+          "url": "https://wa.works/",
+          "startDate": "Aug 2023",
+          "endDate": "Dec 2023",
+          "highlights": [
+              "Developed a movie database application with an API using React.js, C#, and PostgreSQL, collaborating through pair programming, as well as contributing to a large, existing codebase."
+          ]
       },
       {
-        "name": "NAV IT",
-        "location": "Helsfyr, Viken",
-        "position": "Summer intern",
-        "url": "https://detsombetyrnoe.no",
-        "startDate": "Jun 2023",
-        "endDate": "Aug 2023",
-        "highlights": [
-          "Developed an error reporting application for the new sick pay adoption solution",
-          "Collaborated within a team comprising our mentrs and two other interns",
-          "Engaged in full-stack development using React.js, Kotlin and PostgreSQL"
-        ]
+          "name": "NAV IT",
+          "location": "Helsfyr, Viken",
+          "position": "Summer Intern",
+          "url": "https://detsombetyrnoe.no",
+          "startDate": "Jun 2023",
+          "endDate": "Aug 2023",
+          "highlights": [
+              "Developed an error reporting application for the sick leave solution using React.js, Kotlin, and PostgreSQL, in collaboration with a team of mentors and interns."
+          ]
       }
-    ],
-    "education": [
+  ],
+  "education": [
+      {
+        "institution": "Western University of Applied Sciences",
+        "url": "https://www.hvl.no/",
+        "area": "Bachelor in IT",
+        "startDate": "Aug 2021",
+        "endDate": "Jun 2024"
+      },
       {
         "institution": "Universitat Politècnica de València",
         "url": "https://www.upv.es/",
         "area": "Exchange semester",
         "startDate": "Jan 2024",
-        "endDate": "present"
-      },
-      {
-        "institution": "Western University of Applied Sciences",
-        "url": "https://www.hvl.no/",
-        "area": "Bachelor in Information Technology",
-        "startDate": "Aug 2021",
-        "endDate": "present"
+        "endDate": "Jun 2024"
       },
       {
         "institution": "NLA University College",
@@ -63,95 +59,68 @@
         "startDate": "Aug 2019",
         "endDate": "May 2020"
       }
-    ],
-    "volunteer": [
+  ],
+  "volunteer": [
       {
-        "organization": "friByte",
-        "position": "Member",
-        "url": "https://fribyte.no/",
-        "startDate": "Sep 2022",
-        "endDate": "present",
-        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
-        "highlights": [
-          "Collaborated in team environments to enhance project efficiency",
-          "Managed and operated Linux servers",
-          "Deployed Docker images and containers for application virtualization",
-          "Implemented and maintained Wordpress websites for clients"
-        ]
+          "organization": "friByte",
+          "position": "fribyte.no",
+          "url": "https://fribyte.no/",
+          "startDate": "Sep 2022",
+          "endDate": "present",
+          "summary": "friByte is an independent student organization that provides secure and stable IT solutions to other student organizations in Bergen.",
+          "highlights": [
+            "As a member, I collaborated in team environments, managed Linux servers, deployed Docker containers, and maintained WordPress sites for clients.",
+            "In Spring 2023, as Leader, I handled administrative tasks, recruited new team members, secured three new clients, and organized a successful Capture The Flag event with 35 participants.",
+            "In Fall 2023, as PR-Manager, I led recruitment initiatives, boosted social media presence by 250%, and coordinated PR for the Bergen Open Source conference."
+          ]
       },
       {
-        "organization": "BOS-conference",
-        "position": "Leader",
-        "url": "https://boskonf.no/en",
-        "startDate": "2023",
-        "endDate": "2023",
-        "summary": "Bergen Open Source is an annual tech conference in Bergen driven by students and other volunteers. The conference focuses on open source code and open data.",
-        "highlights": [
-          "Initiated and led the first-ever Bergen Open Source conference in 2023, overseeing all planning phases and successfully hosting over 70 participants & 5 speakers"
-        ]
-      },
-      {
-        "organization": "friByte",
-        "position": "PR-manager",
-        "url": "https://fribyte.no/",
-        "startDate": "Jul 2023",
-        "endDate": "Dec 2023",
-        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
-        "highlights": [
-          "Led member recruitment initiatives, expanding team talent and capabilities",
-          "Significantly increased social media presence, effectively enhancing brand visibility",
-          "Achieved a 250% increase in social media followers, adding 65 new followers",
-          "Coordinated PR-efforts for the Bergen Open Source conference, contributing to its successful first year"]
-      },
-      {
-        "organization": "friByte",
-        "position": "Leader",
-        "url": "https://fribyte.no/",
-        "startDate": "Jan 2023",
-        "endDate": "Jun 2023",
-        "summary": "friByte is an undependent studentorganization that delivers secure and stable IT-solutions to other studentorganizations in Bergen.",
-        "highlights": [
-          "Administrative tasks, convene meetings etc.",
-          "Successfully recruited and integrated new team members",
-          "Acquired three new clients, and managed already established client relationships",
-          "Orchestrated a successful Capture The Flag (CTF) event, drawing ~35 participants and enhancing community engagement"
-        ]
+          "organization": "BOS-conference",
+          "position": "boskonf.no",
+          "url": "https://boskonf.no/en",
+          "startDate": "2023",
+          "endDate": "2023",
+          "summary": "Bergen Open Source is an annual technology conference in Bergen, organized by students and other volunteers. The conference focuses on open source and open data.",
+          "highlights": [
+              "Initiated and led the first Bergen Open Source conference in 2023, overseeing all planning stages and successfully hosting over 70 participants and 5 speakers."
+          ]
       }
-    ],
-    "skills": [
+  ],
+  "skills": [
       {
-        "name": "Programming languages",
-        "keywords": [
-          "C#",
-          "Java",
-          "JavaScript",
-          "Kotlin",
-          "Python",
-          "TypeScript"
-        ]
+          "name": "Programming Languages",
+          "keywords": [
+              "C#",
+              "Java",
+              "JavaScript",
+              "Kotlin",
+              "Python",
+              "TypeScript"
+          ]
       },
       {
-        "name": "Libraries & Frameworks",
-        "keywords": [
-          "Astro",
-          "dotNET",
-          "Hugo",
-          "React.js",
-          "Spring",
-          "Svelte",
-          "TailwindCSS"
-        ]
+          "name": "Libraries and Frameworks",
+          "keywords": [
+              "Astro",
+              "dotNET",
+              "Hugo",
+              "React.js",
+              "Spring",
+              "Svelte",
+              "TailwindCSS",
+              "Zola"
+          ]
       },
       {
-        "name": "Tools",
-        "keywords": [
-          "Docker",
-          "Figma",
-          "Git"
-        ]
+          "name": "Tools",
+          "keywords": [
+              "Docker",
+              "Figma",
+              "Git"
+          ]
       }
-    ],
-    "meta": {
-      "lastModified": "April 26, 2024"
-    }
+  ],
+  "meta": {
+      "lastModified": "15. August 2024"
+  }
 }
