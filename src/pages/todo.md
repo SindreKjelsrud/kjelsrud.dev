@@ -4,10 +4,11 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: July 16, 2024*
+> _Last update: August 15, 2024_
 
 List of changes and new features I plan for this website.
 
-- Add page filled with wine/gin I like
+- Add log-page for wine/gin I like and have tried
 - Add page dedicated to work I'm proud of
 - Add an 88x31 button (One Piece themed)
+- Add `/appearances`-page w/ headings for media, writing etc.
