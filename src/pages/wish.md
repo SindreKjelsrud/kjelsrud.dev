@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: July 16, 2024*
+> _Last update: August 15, 2024_
 
 [Guesswork](https://en.wiktionary.org/wiki/guesswork) gifting is not sustainable. Here's my public wishlist. Also, whenever possible, buy pre-owned!
 
@@ -17,9 +17,10 @@ layout: "../layouts/Layout.astro"
 ### Tech
 
 - [Everdrive-GB X7](https://krikzz.com/our-products/cartridges/edgbx7.html)
+- [Kobo Clara BW eBook-reader 16GB](https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/lesebrett/kobo-clara-bw-ebook-leser-16gb-sort/767065#description)
 - [OPOLAR Battery Operated Air Duster](https://www.amazon.com/Cordless-Operated-Computer-Cleaning-Compressed/dp/B08865VFTF)
 
-### Books
+### Books / eBooks
 
 - [Akjseskolen](https://www.ark.no/produkt/boker/fagboker/aksjeskolen-9788215030920)
 - [Den store rentebølgen](https://www.ark.no/produkt/boker/fagboker/den-store-rentebolgen-9788271463885)
@@ -35,11 +36,11 @@ layout: "../layouts/Layout.astro"
 
 ### Vinyl
 
-- [Decide](https://www.discogs.com/release/28107673-Djo-Decide) by Djo *(really want it in White/Bone colored version)*
-- [Depression Cherry](https://www.discogs.com/release/7391683-Beach-House-Depression-Cherry-) by Beach House *(really want it in White colored version)*
-- [IF I COULD MAKE IT GO QUIET](https://www.discogs.com/release/18593068-Girl-In-Red-If-I-Could-Make-It-Go-Quiet) by Girl In Red *(really want the Black Swirl colored version)*
-- [Midnight Marauders](https://www.discogs.com/release/5850869-A-Tribe-Called-Quest-Midnight-Marauders) by A Tribe Called Quest *(really want it in Red & Green split colored version)*
-- [MM..FOOD](https://www.discogs.com/release/15724598-MF-Doom-MMFood) by MF DOOM *(really want it in Green & Pink colored version)*
+- [Decide](https://www.discogs.com/release/28107673-Djo-Decide) by Djo _(really want it in White/Bone colored version)_
+- [Depression Cherry](https://www.discogs.com/release/7391683-Beach-House-Depression-Cherry-) by Beach House _(really want it in White colored version)_
+- [IF I COULD MAKE IT GO QUIET](https://www.discogs.com/release/18593068-Girl-In-Red-If-I-Could-Make-It-Go-Quiet) by Girl In Red _(really want the Black Swirl colored version)_
+- [Midnight Marauders](https://www.discogs.com/release/5850869-A-Tribe-Called-Quest-Midnight-Marauders) by A Tribe Called Quest _(really want it in Red & Green split colored version)_
+- [MM..FOOD](https://www.discogs.com/release/15724598-MF-Doom-MMFood) by MF DOOM _(really want it in Green & Pink colored version)_
 - [The Modern Western World](https://www.discogs.com/release/28204453-Vansire-The-Modern-Western-World) by Vansire
 - [Timely!!](https://www.discogs.com/release/5126669-Anri-2-%E6%9D%8F%E9%87%8C-Timely-%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AA%E3%83%BC) by Anri
 - [Tøyen Holding 3](https://www.discogs.com/release/25904218-T%C3%B8yen-Holding-T%C3%B8yen-Holding-3) by Tøyen Holding
@@ -47,4 +48,4 @@ layout: "../layouts/Layout.astro"
 
 ## Credits
 
-Thanks to [Tim](https://timharek.no) for giving me inspiration to create my public wishlist! 
+Thanks to [Tim](https://timharek.no) for giving me inspiration to create my public wishlist!
