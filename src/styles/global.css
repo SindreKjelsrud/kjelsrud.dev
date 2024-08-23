@@ -5,12 +5,12 @@
   --light-3: #A48B82; /* Cappuccino Accents */
   --light-hover: #A48B82; /* Cappuccino Accents (for hover states) */
   --light-link: #B08968; /* Caramel Macchiato Links */
-  --dark-bg: #0F1A1C; /* Deep Ocean Background */
-  --dark-1: #9AD3BB; /* Mint Foam Text */
-  --dark-2: #3A6F7F; /* Coral Reef Accent */
-  --dark-3: #2B4F60; /* Seaweed Highlight */
-  --dark-hover: #1A333F; /* Lagoon Hover */
-  --dark-link: #7FCDCD; /* Aquamarine Links */
+  --dark-bg: #1e1e2e; /* Midnight Navy */
+  --dark-1: #cdd6f4; /* Lavender Mist */
+  --dark-2: #8f5cf4; /* Amethyst Glow */
+  --dark-3: #6f7aaa; /* Soft Sand */
+  --dark-hover: #b4c0f4; /* Periwinkle Glow */
+  --dark-link: #89b4fa; /* Sky Blue */
 }
 
 html {
@@ -25,6 +25,7 @@ html.dark {
 
 body {
 	font-family: Verdana, sans-serif;
+  /*"Noto Sans Mono", monospace*/
 }
 
 p {
@@ -236,22 +237,29 @@ pre {
 }
 
 blockquote {
+	background-color: #11111b;
 	padding: 0 0 0 10px;
-	border-left: 5px solid var(--dark-1);
+	border-left: 5px solid var(--dark-link);
 }
 
 .dark blockquote {
+	background-color: #E6D5C8;
 	padding: 0 0 0 10px;
-	border-left: 5px solid var(--light-1);
+	border-left: 5px solid var(--light-link);
+}
+
+blockquote p {
+	font-size: medium;
+	line-height: 32px;
 }
 
 ::selection{
-    background-color: var(--dark-1);
+	background-color: var(--dark-1);
 	color: var(--dark-bg);
 }
 
 .dark ::selection{
-    background-color: var(--light-1);
+	background-color: var(--light-1);
 	color: var(--light-bg);
 }
 

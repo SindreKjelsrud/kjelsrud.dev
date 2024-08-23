@@ -40,12 +40,12 @@ The webpage offers a variety of features including a blog, bookmarks, ways to re
 
 | Color | Hex |
 |-|-|
-| Deep Ocean | ![#0F1A1C](https://via.placeholder.com/10/0F1A1C?text=+) `#0F1A1C` |
-| Mint Foam Text | ![#9AD3BB](https://via.placeholder.com/10/9AD3BB?text=+) `#9AD3BB` |
-| Coral Reef Accent | ![#3A6F7F](https://via.placeholder.com/10/3A6F7F?text=+) `#3A6F7F` |
-| Seaweed Highlight | ![#2B4F60](https://via.placeholder.com/10/2B4F60?text=+) `#2B4F60` |
-| Lagoon | ![#1A333F](https://via.placeholder.com/10/1A333F?text=+) `#1A333F` |
-| Aquamarine | ![#7FCDCD](https://via.placeholder.com/10/7FCDCD?text=+) `#7FCDCD` |
+| Midnight Navy | ![#1e1e2e](https://via.placeholder.com/10/1e1e2e?text=+) `#1e1e2e` |
+| Lavender Mist | ![#cdd6f4](https://via.placeholder.com/10/cdd6f4?text=+) `#cdd6f4` |
+| Amethyst Glow | ![#8f5cf4](https://via.placeholder.com/10/8f5cf4?text=+) `#8f5cf4` |
+| Soft Sand | ![#f4e8cd](https://via.placeholder.com/10/f4e8cd?text=+) `#f4e8cd` |
+| Periwinkle Glow | ![#b4c0f4](https://via.placeholder.com/10/b4c0f4?text=+) `#b4c0f4` |
+| Sky Blue | ![#89b4fa](https://via.placeholder.com/10/89b4fa?text=+) `#89b4fa` |
 
 ## 📜 Versionlog
 
