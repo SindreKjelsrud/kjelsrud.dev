@@ -30,11 +30,13 @@ The webpage offers a variety of features including a blog, bookmarks, ways to re
 
 | Color | Hex |
 |-|-|
-| Coffee Cream | ![#F7F0E8](https://via.placeholder.com/10/F7F0E8?text=+) `#F7F0E8` |
-| Espresso Text | ![#3B2C29](https://via.placeholder.com/10/3B2C29?text=+) `#3B2C29` |
-| Latte Secondary Text | ![#78605C](https://via.placeholder.com/10/78605C?text=+) `#78605C` |
-| Cappuccino Accents | ![#A48B82](https://via.placeholder.com/10/A48B82?text=+) `#A48B82` |
-| Caramel Macchiato | ![#B08968](https://via.placeholder.com/10/B08968?text=+) `#B08968` |
+| Soft Pastel Green Background | ![#E6F5E5](https://via.placeholder.com/10/E6F5E5?text=+) `#E6F5E5` |
+| Dark Olive Green Text | ![#2E4033](https://via.placeholder.com/10/2E4033?text=+) `#2E4033` |
+| Sage Green Secondary Text | ![#5F7A6D](https://via.placeholder.com/10/5F7A6D?text=+) `#5F7A6D` |
+| Mint Green Accents | ![#88A597](https://via.placeholder.com/10/88A597?text=+) `#88A597` |
+| Mint Green Accents (for hover states) | ![#88A597](https://via.placeholder.com/10/88A597?text=+) `#88A597` |
+| Darker Moss Green Links | ![#3B6656](https://via.placeholder.com/10/3B6656?text=+) `#3B6656` |
+| Light Mint Blockquote | ![#CCE3CC](https://via.placeholder.com/10/CCE3CC?text=+) `#CCE3CC` |
 
 ### Dark mode
 
@@ -43,9 +45,10 @@ The webpage offers a variety of features including a blog, bookmarks, ways to re
 | Midnight Navy | ![#1e1e2e](https://via.placeholder.com/10/1e1e2e?text=+) `#1e1e2e` |
 | Lavender Mist | ![#cdd6f4](https://via.placeholder.com/10/cdd6f4?text=+) `#cdd6f4` |
 | Amethyst Glow | ![#8f5cf4](https://via.placeholder.com/10/8f5cf4?text=+) `#8f5cf4` |
-| Soft Sand | ![#f4e8cd](https://via.placeholder.com/10/f4e8cd?text=+) `#f4e8cd` |
+| Dusty Lavender | ![#6f7aaa](https://via.placeholder.com/10/6f7aaa?text=+) `#6f7aaa` |
 | Periwinkle Glow | ![#b4c0f4](https://via.placeholder.com/10/b4c0f4?text=+) `#b4c0f4` |
 | Sky Blue | ![#89b4fa](https://via.placeholder.com/10/89b4fa?text=+) `#89b4fa` |
+| Charcoal Abyss | ![#11111b](https://via.placeholder.com/10/11111b?text=+) `#11111b` |
 
 ## 📜 Versionlog
 

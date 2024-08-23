@@ -1,16 +1,21 @@
 :root {
-  --light-bg: #F7F0E8; /* Coffee Cream Background */
-  --light-1: #3B2C29; /* Espresso Text */
-  --light-2: #78605C; /* Latte Secondary Text */
-  --light-3: #A48B82; /* Cappuccino Accents */
-  --light-hover: #A48B82; /* Cappuccino Accents (for hover states) */
-  --light-link: #B08968; /* Caramel Macchiato Links */
-  --dark-bg: #1e1e2e; /* Midnight Navy */
-  --dark-1: #cdd6f4; /* Lavender Mist */
-  --dark-2: #8f5cf4; /* Amethyst Glow */
-  --dark-3: #6f7aaa; /* Soft Sand */
-  --dark-hover: #b4c0f4; /* Periwinkle Glow */
-  --dark-link: #89b4fa; /* Sky Blue */
+	--light-bg: #E6F5E5; /* Soft Pastel Green Background */
+	--light-1: #2E4033; /* Dark Olive Green Text */
+	--light-2: #5F7A6D; /* Sage Green Secondary Text */
+	--light-3: #88A597; /* Mint Green Accents */
+	--light-hover: #88A597; /* Mint Green Accents (for hover states) */
+	--light-link: #3B6656; /* Darker Moss Green Links */
+	--light-blockquote: #CCE3CC; /* Light Mint Blockquote */  
+	--dark-bg: #1e1e2e; /* Midnight Navy */
+	--dark-1: #cdd6f4; /* Lavender Mist */
+	--dark-2: #8f5cf4; /* Amethyst Glow */
+	--dark-3: #6f7aaa; /* Dusty Lavender */
+	--dark-hover: #b4c0f4; /* Periwinkle Glow */
+	--dark-link: #89b4fa; /* Sky Blue */
+	--dark-blockquote: #11111b; /* Charcoal Abyss */
+	/* MISC */
+	--code-bg: #24292E;
+	--code-text: #A5A8AD;
 }
 
 html {
@@ -25,7 +30,6 @@ html.dark {
 
 body {
 	font-family: Jetbrains Mono, monospace;
-  /*"Noto Sans Mono", monospace*/
 }
 
 p {
@@ -219,8 +223,8 @@ h2, h3, h4 {
 /* RANDOM */
 code {
 	display: inline;
-	background-color: #24292E;
-	color: #A5A8AD;
+	background-color: var(--code-bg);
+	color: var(--code-text);
 	border-radius: 8px;
 	padding: 4px 8px;
 	font-size: small;
@@ -228,21 +232,20 @@ code {
 
 pre {
 	padding: 10px;
-	background-color: #24292E;
-	color: #A5A8AD;
+	background-color: var(--code-bg);
+	color: var(--code-text);
 	border-radius: 10px;
 	margin: 10px 0;
 }
 
 blockquote {
-	background-color: #E6D5C8;
+	background-color: var(--light-blockquote);
 	padding: 0 0 0 10px;
 	border-left: 5px solid var(--light-link);
 }
 
 .dark blockquote {
-	background-color: #11111b;
-	padding: 0 0 0 10px;
+	background-color: var(--dark-blockquote);
 	border-left: 5px solid var(--dark-link);
 }
 
