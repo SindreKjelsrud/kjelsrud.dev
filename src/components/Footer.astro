@@ -9,10 +9,10 @@ const today = new Date();
 
   const updateImageForTheme = () => {
     const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    githubImage.src = currentTheme === 'dark' ? '/socials/github_light.svg' : '/socials/github_dark.svg';
-    spotifyImage.src = currentTheme === 'dark' ? '/socials/spotify_light.svg' : '/socials/spotify_dark.svg';
-    xxiivvwebringImage.src = currentTheme === 'dark' ? '/socials/xxiivvwebring_light.svg' : '/socials/xxiivvwebring_dark.svg';
-    grandlinewebringImage.src = currentTheme === 'dark' ? '/socials/grandlinewebring.light.svg' : '/socials/grandlinewebring.dark.svg';
+    githubImage.src = currentTheme === 'dark' ? '/socials/github_dark.svg' : '/socials/github_light.svg';
+    spotifyImage.src = currentTheme === 'dark' ? '/socials/spotify_dark.svg' : '/socials/spotify_light.svg';
+    xxiivvwebringImage.src = currentTheme === 'dark' ? '/socials/xxiivvwebring_dark.svg' : '/socials/xxiivvwebring_light.svg';
+    grandlinewebringImage.src = currentTheme === 'dark' ? '/socials/grandlinewebring.dark.svg' : '/socials/grandlinewebring.light.svg';
   };
 
   updateImageForTheme();

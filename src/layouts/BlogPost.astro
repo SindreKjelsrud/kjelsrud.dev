@@ -12,7 +12,7 @@ const { title, description, pubDate } = Astro.props;
 
   const updateImageForTheme = () => {
     const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    jollyroger.src = currentTheme === 'dark' ? '/jollyroger_light.svg' : '/jollyroger_dark.svg';
+    jollyroger.src = currentTheme === 'dark' ? '/jollyroger_dark.svg' : '/jollyroger_light.svg';
   };
 
   updateImageForTheme();

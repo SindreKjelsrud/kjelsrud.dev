@@ -1,29 +1,29 @@
 ---
 import ThemeIcon from './ThemeIcon.astro';
-
-function toggleTheme() {
-  const currentTheme = document.body.getAttribute('data-theme');
-  document.body.setAttribute('data-theme', currentTheme === 'dark' ? 'light' : 'dark');
-}
 ---
+<script type="module" client:load>
+  const updateSvgColorForTheme = () => {
+    const isDark = document.documentElement.classList.contains('dark');
+    const svgPath = document.getElementById('themePath');
+    if (svgPath) {
+      svgPath.setAttribute('stroke', isDark ? '#cdd6f4' : '#3B2C29');
+    }
+  };
 
+  updateSvgColorForTheme();
+
+  const themeToggle = document.getElementById('themeToggle');
+  if (themeToggle) {
+    themeToggle.addEventListener('click', updateSvgColorForTheme);
+  }
+</script>
 <header class="flex justify-between items-center py-5">
   <div>
     <a class="text-l font-semibold" href="/blog">
-      <svg class="w-6 h-6 text-gray-800 dark:text-white" style="color: var(--color-current);"  aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 19-7-7 7-7"/>
+      <svg id="themeSvg" class="w-6 h-6" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+        <path id="themePath" stroke="#3B2C29" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 19-7-7 7-7"/>
       </svg>
     </a>
   </div>
   <ThemeIcon />
 </header>
-
-<style>
-[data-theme='dark'] {
-  --color-current: #9AD3BB;
-}
-
-[data-theme='light'] {
-  --color-current: #3B2C29;
-}
-</style>
