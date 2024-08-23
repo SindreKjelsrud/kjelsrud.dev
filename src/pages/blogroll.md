@@ -4,9 +4,7 @@ description: "A list of other sites that I read, are a follower of, or recommend
 layout: "../layouts/Layout.astro"
 ---
 
-This page was made by exporting my OPML-feed from [NetNewsWire](https://netnewswire.com/).
-
-Also available as an [OPML-file](/blogroll.opml)
+Also available as an [OPML-file](/blogroll.opml) exported from [NetNewsWire](https://netnewswire.com/).
 
 ### Blogs
 
