@@ -24,12 +24,16 @@ html.dark {
 }
 
 body {
-	font-family: Verdana, sans-serif;
-  	/*"Noto Sans Mono", monospace*/
+	font-family: Jetbrains Mono, monospace;
+  /*"Noto Sans Mono", monospace*/
 }
 
 p {
 	font-size: large;
+}
+
+h2, h3, h4 {
+  font-weight: 600;
 }
 
 /* FOOTER */
@@ -81,21 +85,18 @@ p {
 }
 
 .blog h2 {
-	font-size: 24px;
+	font-size: x-large;
 	margin-top: 18px;
-	font-weight: 600;
 }
 
 .blog h3 {
-	font-size: 20px;
-	margin-top: 8px;
-	font-weight: 600;
+	font-size: larger;
+	margin-top: 18px;
 }
 
 .blog h4 {
-	font-size: 18px;
-	margin-top: 8px;
-	font-weight: 600;
+	font-size: large;
+	margin-top: 18px;
 }
 
 .blog table {
@@ -161,12 +162,10 @@ p {
 /* CV */
 .cv h2 {
 	font-size: larger;
-	font-weight: 800;
 }
 
 .cv h4 {
 	font-size: medium;
-	font-weight: 600;
 }
 
 .cv-date {
@@ -215,7 +214,6 @@ p {
 
 .dark .author {
 	color: var(--dark-2);
-	font-size: medium;
 }
 
 /* RANDOM */
