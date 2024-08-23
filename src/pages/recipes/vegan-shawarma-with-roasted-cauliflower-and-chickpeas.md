@@ -1,5 +1,5 @@
 ---
-title: '🥦 Vegan Shawarma with Roasted Cauliflower and Chickpeas'
+title: 'Vegan Shawarma with Roasted Cauliflower and Chickpeas'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

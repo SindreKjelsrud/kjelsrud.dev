@@ -1,5 +1,5 @@
 ---
-title: '🍅 Homemade Salsa'
+title: 'Homemade Salsa'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

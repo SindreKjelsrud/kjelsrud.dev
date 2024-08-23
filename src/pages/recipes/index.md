@@ -1,5 +1,5 @@
 ---
-title: '🍳 Recipes I like'
+title: 'Recipes I like'
 description: 'Recent years I have gotten more into cooking and baking, so I thought why not share my favorite recipes!'
 layout: "../../layouts/Layout.astro"
 ---

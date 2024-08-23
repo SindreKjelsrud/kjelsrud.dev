@@ -1,5 +1,5 @@
 ---
-title: '🐓 Chicken Teriyaki'
+title: 'Chicken Teriyaki'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

@@ -1,5 +1,5 @@
 ---
-title: '🍯 Sweet Chicken'
+title: 'Sweet Chicken'
 description: '10-07-2024'
 layout: "../../layouts/Layout.astro"
 ---

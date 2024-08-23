@@ -1,5 +1,5 @@
 ---
-title: '🍲 Spicy Chicken Soup with Apple and Carrot'
+title: 'Spicy Chicken Soup with Apple and Carrot'
 description: '10-07-2024'
 layout: "../../layouts/Layout.astro"
 ---

@@ -1,5 +1,5 @@
 ---
-title: '🌶️ Vegan Chili'
+title: 'Vegan Chili'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

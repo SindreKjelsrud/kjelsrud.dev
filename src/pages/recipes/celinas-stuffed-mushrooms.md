@@ -1,5 +1,5 @@
 ---
-title: '🍄 Celinas Stuffed Mushrooms'
+title: 'Celinas Stuffed Mushrooms'
 description: '10-07-2024'
 layout: "../../layouts/Layout.astro"
 ---

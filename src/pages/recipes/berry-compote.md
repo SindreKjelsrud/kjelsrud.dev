@@ -1,5 +1,5 @@
 ---
-title: '🍓 Berry Compote'
+title: 'Berry Compote'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

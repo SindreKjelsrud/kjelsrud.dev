@@ -1,5 +1,5 @@
 ---
-title: '🍅 Dynamite Harrys Tomato Soup'
+title: 'Dynamite Harrys Tomato Soup'
 description: ' 10-07-2024'
 layout: "../../layouts/Layout.astro"
 ---

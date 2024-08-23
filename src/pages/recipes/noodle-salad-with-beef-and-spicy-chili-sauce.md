@@ -1,5 +1,5 @@
 ---
-title: '🥗 Noodle salad with Beef & Spicy chili sauce'
+title: 'Noodle salad with Beef & Spicy chili sauce'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---

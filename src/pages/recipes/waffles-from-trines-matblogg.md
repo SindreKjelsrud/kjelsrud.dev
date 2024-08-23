@@ -1,5 +1,5 @@
 ---
-title: '🧇 Waffles from "Trines Matblogg"'
+title: 'Waffles from "Trines Matblogg"'
 description: ' 07-06-2024'
 layout: "../../layouts/Layout.astro"
 ---
