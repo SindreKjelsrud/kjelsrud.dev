@@ -1,5 +1,5 @@
 ---
-title: '📸 gallery: morocco'
+title: 'morocco'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

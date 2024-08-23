@@ -1,5 +1,5 @@
 ---
-title: 'ℹ️ Lifehacks'
+title: 'Lifehacks'
 description: ''
 layout: "../../../layouts/Layout.astro"
 ---

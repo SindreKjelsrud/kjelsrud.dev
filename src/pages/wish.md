@@ -1,5 +1,5 @@
 ---
-title: "🎁 Wishlist"
+title: "Wishlist"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

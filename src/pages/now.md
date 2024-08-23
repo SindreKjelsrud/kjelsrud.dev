@@ -1,5 +1,5 @@
 ---
-title: "⏳ Now"
+title: "Now"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

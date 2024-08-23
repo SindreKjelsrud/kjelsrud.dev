@@ -1,5 +1,5 @@
 ---
-title: "📋 TODOs"
+title: "TODOs"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "📝 Random Web-notes"
+title: "Random Web-notes"
 description: ""
 layout: "../../../layouts/Layout.astro"
 ---

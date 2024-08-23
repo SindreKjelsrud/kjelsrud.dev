@@ -1,5 +1,5 @@
 ---
-title: '📸 gallery: valencia'
+title: 'valencia'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

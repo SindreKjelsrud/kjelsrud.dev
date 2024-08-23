@@ -1,5 +1,5 @@
 ---
-title: '📸 gallery: marseille'
+title: 'marseille'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

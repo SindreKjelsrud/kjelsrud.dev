@@ -1,5 +1,5 @@
 ---
-title: "🔁 Blogroll"
+title: "Blogroll"
 description: "A list of other sites that I read, are a follower of, or recommend."
 layout: "../layouts/Layout.astro"
 ---

@@ -1,5 +1,5 @@
 ---
-title: '📸 gallery: bergen'
+title: 'bergen'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

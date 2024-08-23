@@ -1,5 +1,5 @@
 ---
-title: "🗺️ Map of places I've been"
+title: "Map of places I've been"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

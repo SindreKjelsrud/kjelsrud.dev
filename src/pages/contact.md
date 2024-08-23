@@ -1,5 +1,5 @@
 ---
-title: "🌐 Contact"
+title: "Contact"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Digital garden"
+title: "Garden"
 description: "🪴 My personal digital garden. A wild garden, filled with drafts, ideas and more."
 layout: "../../layouts/Layout.astro"
 ---

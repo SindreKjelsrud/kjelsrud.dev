@@ -1,5 +1,5 @@
 ---
-title: "🔖 Bookmarks"
+title: "Bookmarks"
 description: "A collection of my favorite links to content around the web (blogs, podcasts, etc.)."
 layout: "../layouts/Layout.astro"
 ---

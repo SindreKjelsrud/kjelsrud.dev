@@ -1,5 +1,5 @@
 ---
-title: '📸 gallery: albarracin'
+title: 'albarracin'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

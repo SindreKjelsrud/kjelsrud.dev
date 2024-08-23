@@ -1,5 +1,5 @@
 ---
-title: 'About Me'
+title: 'About'
 description: ''
 layout: "../layouts/Layout.astro"
 ---

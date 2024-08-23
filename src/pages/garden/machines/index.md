@@ -1,5 +1,5 @@
 ---
-title: '⚙️ Machines'
+title: 'Machines'
 description: ''
 layout: "../../../layouts/Layout.astro"
 ---
