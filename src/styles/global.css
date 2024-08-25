@@ -104,12 +104,17 @@ h2, h3, h4 {
 }
 
 .blog table {
+    width: 100%;
     border-collapse: collapse;
     margin: 10px 0px;
 }
 
 .blog th, .blog td {
     border: 1px solid;
+}
+
+.blog th {
+    padding: 5px 5px;
 }
 
 .blog a { color: var(--light-link); font-weight: bolder; }
