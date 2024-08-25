@@ -13,12 +13,7 @@ layout: "../layouts/Layout.astro"
 - [~polsevev](https://polsevev.dev/) member of [friByte](https://fribyte.no)
 - [~timharek](https://timharek.no/) member of [friByte](https://fribyte.no)
 
-## Podcasts
-
-- [Lex Fridman](https://lexfridman.com/podcast/) conversations about the nature of intelligence, consciousness, love, and power
-- [The Deprogram](https://www.buzzsprout.com/1890340) exploring and critically assessing the perceived “normalcy” of late-stage capitalism
-
-## Miscellaneous
+## Writings
 
 - [mnmlist](https://mnmlist.com/) about minimalism, it's importance today, and how less is the answer
 - [Lacero](https://galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir
@@ -31,6 +26,11 @@ layout: "../layouts/Layout.astro"
 - [I Visited Mount Everest Base Camp](https://invidious.privacyredirect.com/watch?v=fHh29py_Uoc) a short film about a sherpa and his life
 - [Stone Locals: Rediscovering the Soul of Climbing](https://invidious.privacyredirect.com/watch?v=Yj7ZCYMgSvw) fantastic documentary about the people who climb
 - [The Yin & Yang of Gerry Lopez](https://invidious.privacyredirect.com/watch?v=GeTMPJ2B5VE) such a beautiful and inspiring surfing documentary
+
+## Podcasts
+
+- [Lex Fridman](https://lexfridman.com/podcast/) conversations about the nature of intelligence, consciousness, love, and power
+- [The Deprogram](https://www.buzzsprout.com/1890340) exploring and critically assessing the perceived “normalcy” of late-stage capitalism
 
 ## Repositories
 
