@@ -12,7 +12,7 @@ const { title, description, pubDate } = Astro.props;
 
   const updateImageForTheme = () => {
     const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    jollyroger.src = currentTheme === 'dark' ? '/jollyroger_dark.svg' : '/jollyroger_light.svg';
+    jollyroger.src = currentTheme === 'dark' ? '/img/jollyroger_dark.svg' : '/img/jollyroger_light.svg';
   };
 
   updateImageForTheme();
@@ -33,7 +33,7 @@ const { title, description, pubDate } = Astro.props;
 				<slot />
 			</div>
       <div class="flex items-center justify-center">
-        <img src="/jollyroger_dark.svg" id="jr" class="md:w-48 w-40" alt="Jolly Roger"/>
+        <img src="/img/jollyroger_dark.svg" id="jr" class="md:w-48 w-40" alt="My custom jolly roger"/>
 		  </div>
     </article>
 	</main>
