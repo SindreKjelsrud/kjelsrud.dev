@@ -35,9 +35,21 @@
         "day": "10",
         "string": "10.08.2024"
       }
+    },
+    {
+      "name":"Luca",
+      "social":"les.cx",
+      "sociallink":"https://les.cx/",
+      "image":"/img/guestbook/luca_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "08",
+        "day": "26",
+        "string": "26.08.2024"
+      }
     }
   ],
   "meta": {
-    "lastModified": "August 11, 2024"
+    "lastModified": "August 29, 2024"
   }
 }
