@@ -47,9 +47,21 @@
         "day": "26",
         "string": "26.08.2024"
       }
+    },
+    {
+      "name":"Kristoffer",
+      "social":"@kristoffer-jorgensborg",
+      "sociallink":"https://www.linkedin.com/in/kristoffer-jorgensborg/",
+      "image":"/img/guestbook/kristoffer_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "08",
+        "day": "29",
+        "string": "29.08.2024"
+      }
     }
   ],
   "meta": {
-    "lastModified": "August 29, 2024"
+    "lastModified": "August 30, 2024"
   }
 }
