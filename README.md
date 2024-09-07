@@ -34,9 +34,9 @@ The webpage offers a variety of features including a blog, bookmarks, ways to re
 | Dark Olive Green Text | ![#2E4033](https://via.placeholder.com/10/2E4033?text=+) `#2E4033` |
 | Sage Green Secondary Text | ![#5F7A6D](https://via.placeholder.com/10/5F7A6D?text=+) `#5F7A6D` |
 | Mint Green Accents | ![#88A597](https://via.placeholder.com/10/88A597?text=+) `#88A597` |
-| Mint Green Accents (for hover states) | ![#88A597](https://via.placeholder.com/10/88A597?text=+) `#88A597` |
-| Darker Moss Green Links | ![#3B6656](https://via.placeholder.com/10/3B6656?text=+) `#3B6656` |
-| Light Mint Blockquote | ![#CCE3CC](https://via.placeholder.com/10/CCE3CC?text=+) `#CCE3CC` |
+| Dark Mint Green | ![#789085](https://via.placeholder.com/10/789085?text=+) `#789085` |
+| Spring Green | ![#00CC6A](https://via.placeholder.com/10/00CC6A?text=+) `#00CC6A` |
+| Light Mint | ![#CCE3CC](https://via.placeholder.com/10/CCE3CC?text=+) `#CCE3CC` |
 
 ### Dark mode
 
