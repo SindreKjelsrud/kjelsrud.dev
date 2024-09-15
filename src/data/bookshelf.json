@@ -8,9 +8,9 @@
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
-          "title": "Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
-          "isbn": 9781544514208,
-          "author": "Eric Jorgenson"
+          "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
+          "isbn": 9780321811981,
+          "author": "Garr Reynolds"
         }
       ]
     },
@@ -27,10 +27,6 @@
           "title": "Star Wars: The Tales of Kenobi",
           "isbn": 9780525617754,
           "author": "Alan Dean Foster, John Jackson Miller"
-        },
-        {
-          "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
-          "isbn": 9780321811981
         }
       ]
     },
@@ -38,6 +34,19 @@
       "name": "Read",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+          "isbn": 9781544514208,
+          "author": "Eric Jorgenson",
+          "date": 
+            {
+              "year": "2024",
+              "month": "09",
+              "day": "13",
+              "string": "2024-09-13"
+            },
+          "rating": 5
+        },
         {
           "title": "The Summit of the Gods: Vol. 5",
           "isbn": 9788492444403,
