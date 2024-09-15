@@ -59,9 +59,21 @@
         "day": "29",
         "string": "29.08.2024"
       }
+    },
+        {
+      "name":"Kai Waløen",
+      "social":"kwal.no",
+      "sociallink":"https://www.kwal.no",
+      "image":"/img/guestbook/kai_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "09",
+        "day": "14",
+        "string": "14.09.2024"
+      }
     }
   ],
   "meta": {
-    "lastModified": "August 30, 2024"
+    "lastModified": "September 15, 2024"
   }
 }
