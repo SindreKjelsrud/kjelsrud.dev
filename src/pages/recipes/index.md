@@ -12,6 +12,7 @@ layout: "../../layouts/Layout.astro"
 
 - [Chicken Teriyaki](/recipes/chicken-teriyaki)
 - [Indonesisk](/recipes/indonesisk)
+- [Mongolian beef](/recipes/mongolian-beef)
 - [Noodle salad with Beef & Spicy chili sauce](/recipes/noodle-salad-with-beef-and-spicy-chili-sauce)
 - [Sids Wok](/recipes/sids-wok)
 
