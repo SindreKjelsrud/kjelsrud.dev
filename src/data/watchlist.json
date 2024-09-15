@@ -18,6 +18,10 @@
                 {
                     "title": "Bones S02",
                     "type": "series"
+                },
+                {
+                    "title": "The Big Bang Theory S05",
+                    "type": "series"
                 }
             ]
         },
@@ -202,6 +206,18 @@
                         "month": "06",
                         "day": "25",
                         "string": "2024-06-25"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "The Big Bang Theory S01-S04",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "06",
+                        "day": "16",
+                        "string": "2024-06-16"
                         },
                     "rating": 4
                 },
