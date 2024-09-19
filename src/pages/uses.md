@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: August 23, 2024*
+> *Last update: September 19, 2024*
 
 ## What do I use?
 
@@ -48,10 +48,12 @@ The following is a list of the different technologies that I use on a daily basi
 - **Email Client:** [Thunderbird](https://www.thunderbird.net/)
 - **Email Service:** [Migadu](https://migadu.com)
 - **Filesharing:** [LocalSend](https://localsend.org/#/)
+- **Financial managing:** [Actual](https://actualbudget.com/)
 - **Image compression:** [Squoosh](https://squoosh.app/)
 - **Music / Podcasts:** [Spotify](https://spotify.com)
 - **Notes:** Physical book, or [neovim](https://neovim.io/) with Markdown 
 - **Password management:** [Bitwarden](https://bitwarden.com/)
+- **Polls:** [Ninjavote](https://ninjavote.com/)
 - **RSS:** [NetNewsWire](https://netnewswire.com/)
 - **Tasks:** Notes.app
 - **Terminal:** [Alacritty](https://github.com/alacritty/alacritty)
