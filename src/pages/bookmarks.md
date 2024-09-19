@@ -37,7 +37,7 @@ layout: "../layouts/Layout.astro"
 - [ani-cli](https://github.com/pystardust/ani-cli) cli tool to browse and play anime
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) open-source alternative to Notion
 - [excalidraw](https://github.com/excalidraw/excalidraw) virtual whiteboard
-- [maybe](https://github.com/maybe-finance/maybe) OS for you personal finances
+- [Actual](https://actualbudget.com/) for managing finances
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) playing pokemon red with reinforcement learning
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx) experimental nintendo switch emulator
 - [tldraw](https://github.com/tldraw/tldraw) infinite canvas
