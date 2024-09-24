@@ -10,7 +10,7 @@ What do I like to do you ask? Well a lot, but as you read on the landing page I 
 
 👒 **Favorite Anime:** One Piece
 
-🎵 **Favorite Music:** Techno
+🎵 **Favorite Music:** J-pop & Techno
 
 📽️ **Favorite Movie:** Ready Player One or The Summit of the Gods
 
