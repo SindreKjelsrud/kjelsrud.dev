@@ -6,10 +6,13 @@ layout: "../layouts/Layout.astro"
 
 ## Personal websites
 
+- [~ahmedws](http://ahmedws.no/)) friend from home
 - [~bayazidi](https://bayazidi.xyz/) friend from home
 - [~cengelsen](https://cengelsen.no) member of [friByte](https://fribyte.no)
 - [~heimvik](https://heimvik.me/) member of [friByte](https://fribyte.no)
+- [~kwal](https://www.kwal.no/) member of [friByte](https://fribyte.no)
 - [~mathiash98](https://mathiash98.github.io/) member of [friByte](https://fribyte.no)
+- [~nheek](https://nheek.no) member of [friByte](https://fribyte.no)
 - [~polsevev](https://polsevev.dev/) member of [friByte](https://fribyte.no)
 - [~timharek](https://timharek.no/) member of [friByte](https://fribyte.no)
 
