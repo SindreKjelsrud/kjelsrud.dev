@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: September 19, 2024*
+> *Last update: September 25, 2024*
 
 ## What do I use?
 
@@ -57,3 +57,4 @@ The following is a list of the different technologies that I use on a daily basi
 - **RSS:** [NetNewsWire](https://netnewswire.com/)
 - **Tasks:** Notes.app
 - **Terminal:** [Alacritty](https://github.com/alacritty/alacritty)
+- **Whiteboard:** [Excalidraw](https://excalidraw.com)
