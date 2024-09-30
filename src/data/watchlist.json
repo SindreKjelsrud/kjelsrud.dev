@@ -16,7 +16,7 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Bones S03",
+                    "title": "Bones S04",
                     "type": "series"
                 },
                 {
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "Bones S03",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "09",
+                        "day": "29",
+                        "string": "2024-09-29"
+                        },
+                    "rating": 5
+                },
                 {
                     "title": "Bones S02",
                     "type": "series",
