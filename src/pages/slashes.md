@@ -6,6 +6,8 @@ layout: "../layouts/Layout.astro"
 
 These are the rest of the [slash pages](https://slashpages.net/) on my website.
 
+[🎭 appearances](/appearances) · where i’ve shared insights or participated
+
 [🔖 bookmarks](/bookmarks) · collection of my favorite links to content around the web
 
 [🌐 contact](/contact) · ways to reach me across the cyberspace

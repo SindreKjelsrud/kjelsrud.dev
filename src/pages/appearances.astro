@@ -1,0 +1,27 @@
+---
+import SectionContainer from "../components/SectionContainer.astro";
+import appearances from "../data/appearances.json";
+---
+
+<SectionContainer>
+    <main class="flex flex-col flex-1 gap-2 mt-4">
+        <h1 class="text-3xl font-extrabold">[ Appearances ]</h1>
+        <div class="blog">
+            <h2>Writing</h2>
+            {
+                appearances.writing.map(appearance => (
+                <div>
+                    <h3 class="flex justify-center">
+                        <a href={appearance.url} class="flex text-center text-lg">🔗 {appearance.title}</a>
+                    </h3>
+                    <div class="flex justify-between items-center">
+                        <p>📅: {appearance.date}</p>
+                        <p>📰: <a href={"https://" + appearance.origin}>{appearance.origin}</a></p>
+                    </div>
+                    <p>{appearance.description}</p>
+                </div>
+                ))
+              }
+        </div>
+    </main>
+</SectionContainer>
