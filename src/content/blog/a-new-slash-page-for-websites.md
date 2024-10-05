@@ -15,4 +15,4 @@ This would either cancel out the need for a third-party service for these topics
 
 But, then I thought instead of two new slash-pages for logging your entertainment, we could just introduce one main slash-page which shows all the stuff a person wants to log on their website.
 
-So I introduce the new slash-page `/logs` - which shows what the person is logging on their website. This could be like the entertainment-related topics metioned above, or you can further expand on it and have pages for all your runs, like [James Van Dyne](https://jamesvandyne.com/runs/), or your moonboard sends, like [I do](/logs/moonboard).
+So I introduce the new slash-page `/logs` - which shows what the person is logging on their website. This could be like the entertainment-related topics metioned above, or you can further expand on it and have pages for all your runs, like [James Van Dyne](https://jamesvandyne.com/runs/), or your moonboard sends, like [I do](/logs/climbboard).
