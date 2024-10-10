@@ -43,4 +43,3 @@ layout: "../layouts/Layout.astro"
 - [Actual](https://actualbudget.com/) for managing finances
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) playing pokemon red with reinforcement learning
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx) experimental nintendo switch emulator
-- [tldraw](https://github.com/tldraw/tldraw) infinite canvas
