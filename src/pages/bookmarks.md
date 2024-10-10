@@ -6,7 +6,7 @@ layout: "../layouts/Layout.astro"
 
 ## Personal websites
 
-- [~ahmedws](http://ahmedws.no/)) friend from home
+- [~ahmedws](http://ahmedws.no/) friend from home
 - [~bayazidi](https://bayazidi.xyz/) friend from home
 - [~cengelsen](https://cengelsen.no) member of [friByte](https://fribyte.no)
 - [~heimvik](https://heimvik.me/) member of [friByte](https://fribyte.no)
