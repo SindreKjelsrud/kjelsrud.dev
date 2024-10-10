@@ -6,6 +6,7 @@ layout: "../../layouts/Gallery.astro"
 
 | | | |
 | - | - | - |
+| [![](/img/gallery/valencia/red_cars.webp)](/img/gallery/valencia/red_cars.webp) | [![](/img/gallery/valencia/purple_leaf.webp)](/img/gallery/valencia/purple_leaf.webp) | [![](/img/gallery/valencia/uno_pizza.webp)](/img/gallery/valencia/uno_pizza.webp) |
 | [![](/img/gallery/valencia/CIMG0677.webp)](/img/gallery/valencia/CIMG0677.webp) | [![](/img/gallery/valencia/CIMG0676.webp)](/img/gallery/valencia/CIMG0676.webp) | [![](/img/gallery/valencia/CIMG0675.webp)](/img/gallery/valencia/CIMG0675.webp) |
 | [![](/img/gallery/valencia/CIMG0674.webp)](/img/gallery/valencia/CIMG0674.webp) | [![](/img/gallery/valencia/CIMG0673.webp)](/img/gallery/valencia/CIMG0673.webp) | [![](/img/gallery/valencia/CIMG0672.webp)](/img/gallery/valencia/CIMG0672.webp) |
 | [![](/img/gallery/valencia/CIMG0667.webp)](/img/gallery/valencia/CIMG0667.webp) | [![](/img/gallery/valencia/CIMG0668.webp)](/img/gallery/valencia/CIMG0668.webp) | [![](/img/gallery/valencia/CIMG0669.webp)](/img/gallery/valencia/CIMG0669.webp) |
