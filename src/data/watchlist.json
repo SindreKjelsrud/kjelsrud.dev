@@ -30,6 +30,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "The Marvels",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "10",
+                        "day": "12",
+                        "string": "2024-10-12"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Bones S03",
                     "type": "series",
                     "date": 
