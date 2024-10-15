@@ -16,7 +16,7 @@
                     "type": "anime"
                 },
                 {
-                    "title": "Bones S04",
+                    "title": "Bones S05",
                     "type": "series"
                 },
                 {
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "Bones S04",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "10",
+                        "day": "13",
+                        "string": "2024-10-13"
+                        },
+                    "rating": 4
+                },
                 {
                     "title": "The Marvels",
                     "type": "movie",
