@@ -7,11 +7,7 @@
       "name": "Currently reading",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
-        {
-          "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
-          "isbn": 9780321811981,
-          "author": "Garr Reynolds"
-        }
+
       ]
     },
     {
@@ -34,6 +30,19 @@
       "name": "Read",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
+          "isbn": 9780321811981,
+          "author": "Garr Reynolds",
+          "date": 
+            {
+              "year": "2024",
+              "month": "10",
+              "day": "16",
+              "string": "2024-10-16"
+            },
+          "rating": 4
+        },
         {
           "title": "Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
           "isbn": 9781544514208,
