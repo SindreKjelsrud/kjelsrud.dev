@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: September 25, 2024*
+> *Last update: October 18, 2024*
 
 ## What do I use?
 
@@ -14,7 +14,7 @@ The following is a list of the different technologies that I use on a daily basi
 
 [![water7.webp](/img/water7.webp)](/img/water7.webp)
 
-> My laptop running Linux Mint, no more Arch ;( The laptop is okay, but it looks neat with the Minecraft GRUB! 
+> My laptop running Arch Linux w/ Hyprland, here's the [_dotfiles_](https://github.com/SindreKjelsrud/dotfiles). Looks good with the Minecraft GRUB right?
 
 ## Hardware
 
@@ -26,7 +26,7 @@ The following is a list of the different technologies that I use on a daily basi
 - **Monitor:** AOC 27" Curved gaming monitor
 - **Mouse:** Razor Ourobous
 - **Phone:** iPhone 13
-- **Server ("_eastblue_"):** HP Prodesk 600 G3 SFF
+- **Server ("_eastblue_" & "_arabasta_"):** 2 x HP Prodesk 600 G3 SFF
 - **Watch:** Garmin Forerunner 745
 - **Webcam:** Logitech C920
 
@@ -35,8 +35,6 @@ The following is a list of the different technologies that I use on a daily basi
 > My server, _eastblue_ <3 Fun fact, all the VMs on this have been named after the arcs from the East Blue saga!
 
 ## Software
-
-> For more details about my [dotfiles click here](https://github.com/SindreKjelsrud/dotfiles).
 
 - **Browser:** [Firefox](https://www.mozilla.org/en-US/firefox/new/)
     - [Invidious](https://invidious.io/). Open source front-end for YouTube.
