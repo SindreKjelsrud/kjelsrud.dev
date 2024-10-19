@@ -26,7 +26,7 @@ These are the rest of the [slash pages](https://slashpages.net/) on my website.
 
 [📋 todo](/todo) · todo list for website
 
-[🐦 twtxt.txt](/twtxt.txt) · microblogging mostly used to reply to blog-posts
+[🐦 twtxt.txt](/twtxt.txt) · microblogging for microthoughts
 
 [✨ uses](/uses) · what i use on a daily basis
 
