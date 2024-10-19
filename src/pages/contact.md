@@ -11,7 +11,6 @@ If you want me in your contact-list you can download my vCard [here](/sid.vcf).
 ## Across the cyberspace 
 
 - [GitHub](https://github.com/SindreKjelsrud)
-- [Spotify](https://open.spotify.com/user/kjelsrud!)
 
 ## GPG
 
