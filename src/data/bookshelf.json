@@ -7,12 +7,7 @@
       "name": "Currently reading",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
-        {
-          "title": "Understanding Marxism",
-          "isbn": 9780359561582,
-          "author": "Richard D. Wolff"
-        }
-      ]
+     ]
     },
     {
       "name": "On the shelf",
@@ -34,6 +29,19 @@
       "name": "Read",
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
+        {
+          "title": "Understanding Marxism",
+          "isbn": 9780359561582,
+          "author": "Richard D. Wolff",
+          "date": 
+            {
+              "year": "2024",
+              "month": "10",
+              "day": "20",
+              "string": "2024-10-20"
+            },
+          "rating": 3
+        },
         {
           "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
           "isbn": 9780321811981,
