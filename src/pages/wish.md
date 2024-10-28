@@ -19,13 +19,15 @@ _PS: Interesting food with a cool recipe is an awesome gift!_
 ### Miscellanous
 
 - [Ramen Bowls from Lagerhaus](https://www.lagerhaus.no/kjokken-servering/glass-porselen/skaler/skal-ramen)
+- [Audio-Technica Dual Action "Super Exstatic" Anti-Static Record Cleaner](https://www.platekompaniet.no/lyd-hifi/vinyltilbehor/renseutstyr/vinylrekvisita-audio-technica-dual-action-super-exstatic-anti-static-record-cleaner-vinyl)
+- [Vinylramme - Show And Listen - Black](https://www.platekompaniet.no/lyd-hifi/vinyltilbehor/vinylrekvisita-vinylramme-show-and-listen-sort-ramme)
+- [Black Diamond Mondo Chalk Pot (REPO Green)](https://www.vpg.no/Black-Diamond-Mondo-Chalk-Pot/399162/)
 
 ### Tech
 
 - [Everdrive-GB X7](https://krikzz.com/our-products/cartridges/edgbx7.html)
 - [Kobo Clara BW eBook-reader 16GB](https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/lesebrett/kobo-clara-bw-ebook-leser-16gb-sort/767065#description)
 - [OPOLAR Battery Operated Air Duster](https://www.amazon.com/Cordless-Operated-Computer-Cleaning-Compressed/dp/B08865VFTF)
-- [AGPTEK A02 MP3 Player in black](https://www.amazon.com/dp/B0CH9WWWHN?linkCode=ogi&tag=bp_links-20&ascsubtag=%5Bartid%7C2089.g.1064%5Bsrc%7Cduckduckgo.com%5Bch%7C%5Blt%7COn%2BSale%5Bpid%7C9d8b0ead-d08d-4af4-8574-16b05821f620%5Baxid%7Ca7e6de28-bcdd-4d23-b797-26965897de0d&th=1)
 
 ### Books / eBooks
 
