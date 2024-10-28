@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> _Last update: October 04, 2024_
+> _Last update: October 25, 2024_
 
 List of changes and new features I plan for this website.
 
@@ -13,3 +13,4 @@ List of changes and new features I plan for this website.
 - Add an 88x31 button (One Piece themed)
 - Fix helmet to show individual site-titles instead of the same one
 - Add `/course&sertifications`-page (`learning`? or it can be in `/cv`)
+- Add `/concerts`-page (like [Kyrre](https://kyrremann.no/concert-vitae/) & [Wand3r](https://wand3r.net/concerts/))
