@@ -12,10 +12,6 @@
                     "type": "anime"
                 },
                 {
-                    "title": "My Hero Academia S07",
-                    "type": "anime"
-                },
-                {
                     "title": "Bones S05",
                     "type": "series"
                 },
@@ -29,6 +25,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "My Hero Academia S07",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "10",
+                        "day": "13",
+                        "string": "2024-10-13"
+                        },
+                    "rating": 5
+                },
                 {
                     "title": "Bones S04",
                     "type": "series",
