@@ -95,7 +95,18 @@
             "Initiated and led the first Bergen Open Source conference in 2023, overseeing all planning stages and successfully hosting over 70 participants and 5 speakers.",
             "Continuing to lead and plan the 2024 BOS Conference, focusing on expanding participant engagement and bringing in new speakers to further the success of the event."
         ]
+    },
+    {
+        "organization": "Cloud Native Bergen",
+        "position": "cloudnativebergen.dev",
+        "url": "https://cloudnativebergen.dev",
+        "startDate": "2024",
+        "endDate": "2024",
+        "summary": "CloudNative Day Bergen is an annual, community-driven tech conference held in Bergen, Norway, focusing on cloud-native technologies and Kubernetes.",
+        "highlights": [
+        ]
     }
+
   ],
   "skills": [
     {
