@@ -8,6 +8,7 @@ layout: "../../layouts/Layout.astro"
 
 > _**Settings:** Kilter board Original, 12x12 w/ kickboard, non-adjustable angle at a 40° angle, bolt ons + screw ons for hold sets_
 
+- **_Boot Spur_** (6b): 2 tries, 26.10.2024
 - **_You Don't Know Me_** (6a): Flash, 02.10.2024
 - **_Floats Your Boat_** (6a): Flash, 02.10.2024
 - **_Bell of the Wall_** (6b): Flash, 02.10.2024
