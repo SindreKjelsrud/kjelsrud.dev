@@ -26,6 +26,18 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Nr. 24",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "02",
+                        "string": "2024-11-02"
+                        },
+                    "rating": 5
+                },
+                {
                     "title": "Drifting Home",
                     "type": "anime",
                     "date": 
