@@ -26,6 +26,42 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "The Coming War on China",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "04",
+                        "string": "2024-11-04"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Haikyu!!: The Dumpster Battle",
+                    "type": "anime",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "04",
+                        "string": "2024-11-04"
+                        },
+                    "rating": 4
+                },
+                {
+                    "title": "Inside Out 2",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "03",
+                        "string": "2024-11-03"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Nr. 24",
                     "type": "movie",
                     "date": 
