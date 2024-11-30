@@ -1,5 +1,20 @@
 [
     {
+        "album": "Tøyen Holding 3",
+        "artist": "Tøyen Holding",
+        "cover": "/img/vinyl/toyenholding3.webp"
+    },   
+    {
+        "album": "Double Density",
+        "artist": "Fredfades",
+        "cover": "/img/vinyl/double_density.webp"
+    },   
+    {
+        "album": "00:00",
+        "artist": "han gaiden",
+        "cover": "/img/vinyl/00_00.webp"
+    },   
+    {
         "album": "Enter The Wu-Tang (36 Chambers)",
         "artist": "Wu-Tang Clan",
         "cover": "/img/vinyl/enter_the_wutang_36_chambers.webp"
