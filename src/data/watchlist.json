@@ -20,7 +20,7 @@
                     "type": "series"
                 },
                 {
-                    "title": "Star Wars Rebels",
+                    "title": "Star Wars Rebels S02",
                     "type": "series"
                 }
             ]
@@ -29,6 +29,18 @@
             "name": "Watched",
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
+                {
+                    "title": "Star Wars Rebels S01",
+                    "type": "series",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "30",
+                        "string": "2024-11-30"
+                        },
+                    "rating": 4
+                },
                 {
                     "title": "Andor",
                     "type": "series",
