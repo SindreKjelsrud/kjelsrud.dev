@@ -54,7 +54,7 @@ I also wanted to keep a few images and stuff, so I downloaded my data on the pla
 |Database of people|Making my own, currently in a csv-file lol|
 |Sharing artistic photos, sometimes|Posting in [this gallery](/gallery)|
 |My personal photos with friends and family|Moved them to an SSD|
-|Hosting Events|Email or SMS invitations with maybe an online form for RSVPs|
+|Hosting Events|[Shera](https://shera.no)|
 |Birthdays|Added the most important ones to my calendar|
 |Saved posts and links|I already have my [bookmarks](/bookmarks)|
 |Groups|Most of these are dead tbh, but I moved some over to Snapchat at the time being..|
@@ -70,3 +70,7 @@ Of course I'm going to miss some stuff, like the anime-motivational short videos
 Also, on a finishing note I just want to say that I don’t judge others who continue to benefit from social media platforms, get happiness out of using some or all of them. What’s meaningsless for me, might be meaningful for them.
 
 > **PS:** *If I forgot to reach out to you about leaving these platforms and/or you don't have any of my contact info, please visit my [contact](/contact)-page!*
+
+---
+
+30.11.2024: Added [Shera](https://shera.no) as option for hosting events.
