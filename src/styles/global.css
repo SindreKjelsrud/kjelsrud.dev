@@ -40,6 +40,10 @@ h2, h3, h4 {
   font-weight: 600;
 }
 
+hr {
+	margin: 10px 0;
+}
+
 /* FOOTER */
 .footerbg {
 	background-color: var(--light-bg);
