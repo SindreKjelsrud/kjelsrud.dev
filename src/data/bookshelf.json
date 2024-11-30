@@ -8,6 +8,11 @@
       "url": "https://kjelsrud.dev/logs/bookshelf/",
       "books":[
         {
+          "title": "The Fine Art of Small Talk",
+          "isbn": 1401302262,
+          "author": "Debra Fine"
+        },
+        {
           "title": "Få ting gjort! - velsmurt hverdag uten stress",
           "isbn": 9788280877741,
           "author": "David Allen"
