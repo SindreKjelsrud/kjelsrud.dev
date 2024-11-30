@@ -26,6 +26,42 @@
             "url": "https://kjelsrud.dev/logs/watchlist/",
             "tv":[
                 {
+                    "title": "Troll",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "18",
+                        "string": "2024-11-18"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "A Whole Life",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "16",
+                        "string": "2024-11-16"
+                        },
+                    "rating": 3
+                },
+                {
+                    "title": "Vendepunktet: Atombomben og den kalde krigen",
+                    "type": "movie",
+                    "date": 
+                        {
+                        "year": "2024",
+                        "month": "11",
+                        "day": "16",
+                        "string": "2024-11-16"
+                        },
+                    "rating": 4
+                },
+                {
                     "title": "Bones S05",
                     "type": "series",
                     "date": 
