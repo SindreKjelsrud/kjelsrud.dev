@@ -12,7 +12,7 @@
 		<outline text="Pengeblogg" title="Pengeblogg" description="" type="rss" version="RSS" htmlUrl="https://pengeblogg.bloggnorge.com/" xmlUrl="https://pengeblogg.bloggnorge.com/feed/"/>
 		<outline text="Personvernbloggen" title="Personvernbloggen" description="" type="rss" version="RSS" htmlUrl="https://www.personvernbloggen.no/" xmlUrl="https://www.personvernbloggen.no/feed/"/>
 		<outline text="Rolf M. Glomsrud" title="Rolf M. Glomsrud" description="" type="rss" version="RSS" htmlUrl="https://polsevev.dev/" xmlUrl="https://polsevev.dev/rss.xml"/>
-		<outline text="Sindre Kjelsrud (for testing)" title="Sindre Kjelsrud (for testing)" description="" type="rss" version="RSS" htmlUrl="https://kjelsrud.dev/" xmlUrl="https://kjelsrud.dev/rss.xml"/>
+		<outline text="sidski (for testing)" title="sidski (for testing)" description="" type="rss" version="RSS" htmlUrl="https://kjelsrud.dev/" xmlUrl="https://kjelsrud.dev/rss.xml"/>
 		<outline text="Tim Hårek" title="Tim Hårek" description="" type="rss" version="RSS" htmlUrl="https://timharek.no/feed.json" xmlUrl="https://timharek.no/rss.xml"/>
 		<outline text="Vitalik Buterin" title="Vitalik Buterin" description="" type="rss" version="RSS" htmlUrl="https://vitalik.ca/" xmlUrl="https://vitalik.eth.limo/feed.xml"/>
 	</outline>

@@ -14,7 +14,7 @@ Also available as an [OPML-file](/blogroll.opml) exported from [NetNewsWire](htt
 - [Pengeblogg](https://pengeblogg.bloggnorge.com) - ([RSS](https://pengeblogg.bloggnorge.com/feed/))
 - [Personvernbloggen](https://www.personvernbloggen.no) - ([RSS](https://www.personvernbloggen.no/feed/))
 - [Rolf M. Glomsrud](https://polsevev.dev) - ([RSS](https://polsevev.dev/rss.xml))
-- [Sindre Kjelsrud (for testing)](https://kjelsrud.dev) - ([RSS](https://kjelsrud.dev/rss.xml))
+- [sidski (for testing)](https://kjelsrud.dev) - ([RSS](https://kjelsrud.dev/rss.xml))
 - [Tim Hårek](https://timharek.no) - ([RSS](https://timharek.no/rss.xml))
 - [Vitalik Buterin](https://vitalik.eth.limo) - ([RSS](https://vitalik.eth.limo/feed.xml))
 

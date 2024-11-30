@@ -4,8 +4,8 @@ import { getCollection } from 'astro:content';
 export async function GET(context) {
   const blog = await getCollection('blog');
   return rss({
-    title: 'Sindre Kjelsrud',
-    description: 'Recent content on Sindre Kjelsrud`s blog',
+    title: 'sidski',
+    description: 'Recent content on sidski`s blog',
     site: context.site,
     items: blog.map((post) => ({
       title: post.data.title,
@@ -15,7 +15,7 @@ export async function GET(context) {
       link: `/blog/${post.slug}/`,
     })),
     source: {
-      title: 'Sindre Kjelsrud',
+      title: 'sidski',
       url: 'http://kjelsrud.dev/rss.xml',
     },
     enclosure: {
